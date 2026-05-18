@@ -163,26 +163,39 @@ def write_bundled(ticker: str, history: List[dict]) -> None:
 
 
 def rebuild_stocks_file(stocks: List[dict], price_data: Dict[str, List[dict]]) -> None:
-    """Rewrite output/stocks.json with last 90 days inline per stock."""
+    """Rewrite output/stocks.json with last 90 days inline per stock.
+
+    Stocks with no known close price are OMITTED. The iOS app's Codable
+    model has `lastClosePrice` and `lastClosePriceDate` as non-optional,
+    so a single null breaks the whole decode. Stocks with no Yahoo
+    coverage get filtered out here rather than crashing every device.
+    """
     enriched = []
+    skipped: List[str] = []
     for stock in stocks:
         ticker = stock["ticker"]
         full = price_data.get(ticker)
         if full is None:
-            # not touched in this run — preserve previous inline data
+            # Not touched in this run — preserve previous inline data if any.
             existing = _read_existing_stock_row(ticker)
             if existing is not None:
-                enriched.append({**stock, **existing})
+                merged = {**stock, **existing}
+                if merged.get("lastClosePrice") is None or merged.get("lastClosePriceDate") is None:
+                    skipped.append(ticker)
+                    continue
+                enriched.append(merged)
                 continue
-            recent: List[dict] = []
-            last_close = None
-            last_date = None
-            has_history = False
-        else:
-            recent = full[-INLINE_RECENT_DAYS:]
-            last_close = recent[-1]["c"] if recent else None
-            last_date = recent[-1]["d"] if recent else None
-            has_history = bool(full)
+            # No previous data AND nothing fetched this run → skip.
+            skipped.append(ticker)
+            continue
+
+        recent = full[-INLINE_RECENT_DAYS:]
+        last_close = recent[-1]["c"] if recent else None
+        last_date = recent[-1]["d"] if recent else None
+        if last_close is None or last_date is None:
+            skipped.append(ticker)
+            continue
+        has_history = bool(full)
         enriched.append({
             **stock,
             "lastClosePrice": last_close,
@@ -190,6 +203,9 @@ def rebuild_stocks_file(stocks: List[dict], price_data: Dict[str, List[dict]]) -
             "recentPrices": recent,
             "hasFullHistory": has_history,
         })
+
+    if skipped:
+        log(f"Skipped {len(skipped)} stock(s) from stocks.json (no price): {', '.join(skipped)}")
 
     out = {
         "version": 1,
