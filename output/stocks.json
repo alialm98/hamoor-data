@@ -2,7 +2,7 @@
   "version": 1,
   "lastUpdated": "2026-05-18T13:58:58.768492+00:00",
   "currency": "KWD",
-  "stockCount": 141,
+  "stockCount": 139,
   "stocks": [
     {
       "ticker": "KFH",
@@ -30972,21 +30972,6 @@
       "hasFullHistory": true
     },
     {
-      "ticker": "ALEID",
-      "tickerNumber": null,
-      "nameEn": "Al Eid Food Company",
-      "nameAr": null,
-      "sector": "Consumer Staples",
-      "marketType": "Main Market",
-      "isin": null,
-      "lastClosePrice": null,
-      "lastClosePriceDate": null,
-      "verified": false,
-      "dividends": [],
-      "recentPrices": [],
-      "hasFullHistory": false
-    },
-    {
       "ticker": "MARKAZ",
       "tickerNumber": null,
       "nameEn": "Kuwait Financial Centre",
@@ -52887,21 +52872,6 @@
         }
       ],
       "hasFullHistory": true
-    },
-    {
-      "ticker": "KGL",
-      "tickerNumber": null,
-      "nameEn": "Kuwait and Gulf Link Transport Company",
-      "nameAr": null,
-      "sector": "Transportation",
-      "marketType": "Main Market",
-      "isin": null,
-      "lastClosePrice": null,
-      "lastClosePriceDate": null,
-      "verified": false,
-      "dividends": [],
-      "recentPrices": [],
-      "hasFullHistory": false
     },
     {
       "ticker": "SENERGY",
