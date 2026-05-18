@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.alialmutawa.hamoor.dailyupdate</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/usr/bin/python3</string>
+        <string>/Users/alialmutawa/Desktop/personal/Personaal Projects/tawze3at/data/update_prices.py</string>
+    </array>
+
+    <key>WorkingDirectory</key>
+    <string>/Users/alialmutawa/Desktop/personal/Personaal Projects/tawze3at/data</string>
+
+    <key>StandardOutPath</key>
+    <string>/Users/alialmutawa/Desktop/personal/Personaal Projects/tawze3at/data/logs/update.out.log</string>
+
+    <key>StandardErrorPath</key>
+    <string>/Users/alialmutawa/Desktop/personal/Personaal Projects/tawze3at/data/logs/update.err.log</string>
+
+    <key>RunAtLoad</key>
+    <false/>
+
+    <!-- Sun=0, Mon=1, Tue=2, Wed=3, Thu=4 (Boursa Kuwait trading days) at 14:00 local time -->
+    <key>StartCalendarInterval</key>
+    <array>
+        <dict>
+            <key>Weekday</key><integer>0</integer>
+            <key>Hour</key><integer>14</integer>
+            <key>Minute</key><integer>0</integer>
+        </dict>
+        <dict>
+            <key>Weekday</key><integer>1</integer>
+            <key>Hour</key><integer>14</integer>
+            <key>Minute</key><integer>0</integer>
+        </dict>
+        <dict>
+            <key>Weekday</key><integer>2</integer>
+            <key>Hour</key><integer>14</integer>
+            <key>Minute</key><integer>0</integer>
+        </dict>
+        <dict>
+            <key>Weekday</key><integer>3</integer>
+            <key>Hour</key><integer>14</integer>
+            <key>Minute</key><integer>0</integer>
+        </dict>
+        <dict>
+            <key>Weekday</key><integer>4</integer>
+            <key>Hour</key><integer>14</integer>
+            <key>Minute</key><integer>0</integer>
+        </dict>
+    </array>
+</dict>
+</plist>
