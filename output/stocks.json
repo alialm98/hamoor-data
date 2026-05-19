@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-19T08:40:20.818596+00:00",
+  "lastUpdated": "2026-05-19T08:52:47.073809+00:00",
   "currency": "KWD",
   "stockCount": 139,
   "stocks": [
     {
       "ticker": "KFH",
-      "tickerNumber": null,
+      "tickerNumber": "108",
       "nameEn": "Kuwait Finance House",
       "nameAr": null,
       "sector": "Banks",
       "marketType": "Premier Market",
       "isin": null,
-      "lastClosePrice": 0.779,
+      "lastClosePrice": 0.777,
       "lastClosePriceDate": "2026-05-19",
       "verified": false,
       "dividends": [],
@@ -464,21 +464,21 @@
         },
         {
           "d": "2026-05-19",
-          "c": 0.779,
-          "v": 2817133
+          "c": 0.777,
+          "v": 3768181
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "NBK",
-      "tickerNumber": null,
+      "tickerNumber": "101",
       "nameEn": "National Bank of Kuwait",
       "nameAr": null,
       "sector": "Banks",
       "marketType": "Premier Market",
       "isin": null,
-      "lastClosePrice": 0.827,
+      "lastClosePrice": 0.824,
       "lastClosePriceDate": "2026-05-19",
       "verified": false,
       "dividends": [],
@@ -930,15 +930,15 @@
         },
         {
           "d": "2026-05-19",
-          "c": 0.827,
-          "v": 3604409
+          "c": 0.824,
+          "v": 4114400
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "BOUBYAN",
-      "tickerNumber": null,
+      "tickerNumber": "109",
       "nameEn": "Boubyan Bank",
       "nameAr": null,
       "sector": "Banks",
@@ -1397,20 +1397,20 @@
         {
           "d": "2026-05-19",
           "c": 0.655,
-          "v": 512181
+          "v": 535732
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "ZAIN",
-      "tickerNumber": null,
+      "tickerNumber": "605",
       "nameEn": "Mobile Telecommunications Company",
       "nameAr": null,
       "sector": "Telecommunications",
       "marketType": "Premier Market",
       "isin": null,
-      "lastClosePrice": 0.585,
+      "lastClosePrice": 0.584,
       "lastClosePriceDate": "2026-05-19",
       "verified": false,
       "dividends": [],
@@ -1862,21 +1862,21 @@
         },
         {
           "d": "2026-05-19",
-          "c": 0.585,
-          "v": 1504585
+          "c": 0.584,
+          "v": 1539013
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "MABANEE",
-      "tickerNumber": null,
+      "tickerNumber": "413",
       "nameEn": "Mabanee Company",
       "nameAr": null,
       "sector": "Real Estate",
       "marketType": "Premier Market",
       "isin": null,
-      "lastClosePrice": 0.944,
+      "lastClosePrice": 0.945,
       "lastClosePriceDate": "2026-05-19",
       "verified": false,
       "dividends": [],
@@ -2328,21 +2328,21 @@
         },
         {
           "d": "2026-05-19",
-          "c": 0.944,
-          "v": 425226
+          "c": 0.945,
+          "v": 482055
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "WARBABANK",
-      "tickerNumber": null,
+      "tickerNumber": "821",
       "nameEn": "Warba Bank",
       "nameAr": null,
       "sector": "Banks",
       "marketType": "Premier Market",
       "isin": null,
-      "lastClosePrice": 0.276,
+      "lastClosePrice": 0.277,
       "lastClosePriceDate": "2026-05-19",
       "verified": false,
       "dividends": [],
@@ -2794,21 +2794,21 @@
         },
         {
           "d": "2026-05-19",
-          "c": 0.276,
-          "v": 6371201
+          "c": 0.277,
+          "v": 6437244
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "GBK",
-      "tickerNumber": null,
+      "tickerNumber": "102",
       "nameEn": "Gulf Bank",
       "nameAr": null,
       "sector": "Banks",
       "marketType": "Premier Market",
       "isin": null,
-      "lastClosePrice": 0.343,
+      "lastClosePrice": 0.341,
       "lastClosePriceDate": "2026-05-19",
       "verified": false,
       "dividends": [],
@@ -3260,15 +3260,15 @@
         },
         {
           "d": "2026-05-19",
-          "c": 0.343,
-          "v": 7792074
+          "c": 0.341,
+          "v": 8132619
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "CBK",
-      "tickerNumber": null,
+      "tickerNumber": "103",
       "nameEn": "Commercial Bank of Kuwait",
       "nameAr": null,
       "sector": "Banks",
@@ -3734,13 +3734,13 @@
     },
     {
       "ticker": "BURG",
-      "tickerNumber": null,
+      "tickerNumber": "107",
       "nameEn": "Burgan Bank",
       "nameAr": null,
       "sector": "Banks",
       "marketType": "Premier Market",
       "isin": null,
-      "lastClosePrice": 0.193,
+      "lastClosePrice": 0.194,
       "lastClosePriceDate": "2026-05-19",
       "verified": false,
       "dividends": [],
@@ -4192,21 +4192,21 @@
         },
         {
           "d": "2026-05-19",
-          "c": 0.193,
-          "v": 167343
+          "c": 0.194,
+          "v": 178596
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "ABK",
-      "tickerNumber": null,
+      "tickerNumber": "104",
       "nameEn": "Al Ahli Bank of Kuwait",
       "nameAr": null,
       "sector": "Banks",
       "marketType": "Premier Market",
       "isin": null,
-      "lastClosePrice": 0.269,
+      "lastClosePrice": 0.267,
       "lastClosePriceDate": "2026-05-19",
       "verified": false,
       "dividends": [],
@@ -4658,21 +4658,21 @@
         },
         {
           "d": "2026-05-19",
-          "c": 0.269,
-          "v": 4805153
+          "c": 0.267,
+          "v": 4806224
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "OOREDOO",
-      "tickerNumber": null,
+      "tickerNumber": "613",
       "nameEn": "National Mobile Telecommunications Company",
       "nameAr": null,
       "sector": "Telecommunications",
       "marketType": "Premier Market",
       "isin": null,
-      "lastClosePrice": 1.793,
+      "lastClosePrice": 1.796,
       "lastClosePriceDate": "2026-05-19",
       "verified": false,
       "dividends": [],
@@ -5124,21 +5124,21 @@
         },
         {
           "d": "2026-05-19",
-          "c": 1.793,
-          "v": 4581
+          "c": 1.796,
+          "v": 12449
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "STC",
-      "tickerNumber": null,
+      "tickerNumber": "822",
       "nameEn": "Kuwait Telecommunications Company",
       "nameAr": null,
       "sector": "Telecommunications",
       "marketType": "Premier Market",
       "isin": null,
-      "lastClosePrice": 0.645,
+      "lastClosePrice": 0.65,
       "lastClosePriceDate": "2026-05-19",
       "verified": false,
       "dividends": [],
@@ -5590,21 +5590,21 @@
         },
         {
           "d": "2026-05-19",
-          "c": 0.645,
-          "v": 2623685
+          "c": 0.65,
+          "v": 2623686
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "GFH",
-      "tickerNumber": null,
+      "tickerNumber": "813",
       "nameEn": "GFH Bank",
       "nameAr": null,
       "sector": "Banks",
       "marketType": "Premier Market",
       "isin": null,
-      "lastClosePrice": 0.187,
+      "lastClosePrice": 0.186,
       "lastClosePriceDate": "2026-05-19",
       "verified": false,
       "dividends": [],
@@ -6056,15 +6056,15 @@
         },
         {
           "d": "2026-05-19",
-          "c": 0.187,
-          "v": 14974032
+          "c": 0.186,
+          "v": 15171111
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "NIND",
-      "tickerNumber": null,
+      "tickerNumber": "501",
       "nameEn": "National Industries Group Holding",
       "nameAr": null,
       "sector": "Industrials",
@@ -6523,20 +6523,20 @@
         {
           "d": "2026-05-19",
           "c": 0.245,
-          "v": 5021876
+          "v": 5119033
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "BOURSA",
-      "tickerNumber": null,
+      "tickerNumber": "827",
       "nameEn": "Boursa Kuwait Securities Company",
       "nameAr": null,
       "sector": "Financial Services",
       "marketType": "Premier Market",
       "isin": null,
-      "lastClosePrice": 2.735,
+      "lastClosePrice": 2.731,
       "lastClosePriceDate": "2026-05-19",
       "verified": false,
       "dividends": [],
@@ -6988,21 +6988,21 @@
         },
         {
           "d": "2026-05-19",
-          "c": 2.735,
-          "v": 128314
+          "c": 2.731,
+          "v": 158644
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "KIB",
-      "tickerNumber": null,
+      "tickerNumber": "106",
       "nameEn": "Kuwait International Bank",
       "nameAr": null,
       "sector": "Banks",
       "marketType": "Premier Market",
       "isin": null,
-      "lastClosePrice": 0.26,
+      "lastClosePrice": 0.261,
       "lastClosePriceDate": "2026-05-19",
       "verified": false,
       "dividends": [],
@@ -7454,21 +7454,21 @@
         },
         {
           "d": "2026-05-19",
-          "c": 0.26,
-          "v": 5110770
+          "c": 0.261,
+          "v": 5140721
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "HUMANSOFT",
-      "tickerNumber": null,
+      "tickerNumber": "623",
       "nameEn": "Humansoft Holding Company",
       "nameAr": null,
       "sector": "Consumer Discretionary",
       "marketType": "Premier Market",
       "isin": null,
-      "lastClosePrice": 2.378,
+      "lastClosePrice": 2.377,
       "lastClosePriceDate": "2026-05-19",
       "verified": false,
       "dividends": [],
@@ -7920,21 +7920,21 @@
         },
         {
           "d": "2026-05-19",
-          "c": 2.378,
-          "v": 83686
+          "c": 2.377,
+          "v": 97977
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "JAZEERA",
-      "tickerNumber": null,
+      "tickerNumber": "654",
       "nameEn": "Jazeera Airways",
       "nameAr": null,
       "sector": "Transportation",
       "marketType": "Premier Market",
       "isin": null,
-      "lastClosePrice": 1.71,
+      "lastClosePrice": 1.713,
       "lastClosePriceDate": "2026-05-19",
       "verified": false,
       "dividends": [],
@@ -8386,15 +8386,15 @@
         },
         {
           "d": "2026-05-19",
-          "c": 1.71,
-          "v": 111413
+          "c": 1.713,
+          "v": 117334
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "CABLE",
-      "tickerNumber": null,
+      "tickerNumber": "505",
       "nameEn": "Gulf Cables and Electrical Industries Group",
       "nameAr": null,
       "sector": "Industrials",
@@ -8860,13 +8860,13 @@
     },
     {
       "ticker": "KRE",
-      "tickerNumber": null,
+      "tickerNumber": "401",
       "nameEn": "Kuwait Real Estate Company",
       "nameAr": null,
       "sector": "Real Estate",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.364,
+      "lastClosePrice": 0.362,
       "lastClosePriceDate": "2026-05-19",
       "verified": false,
       "dividends": [],
@@ -9318,15 +9318,15 @@
         },
         {
           "d": "2026-05-19",
-          "c": 0.364,
-          "v": 364080
+          "c": 0.362,
+          "v": 1451983
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "ALG",
-      "tickerNumber": null,
+      "tickerNumber": "830",
       "nameEn": "Ali Al-Ghanim Sons Automotive Company",
       "nameAr": null,
       "sector": "Consumer Discretionary",
@@ -9785,20 +9785,20 @@
         {
           "d": "2026-05-19",
           "c": 0.982,
-          "v": 327404
+          "v": 336984
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "URC",
-      "tickerNumber": null,
+      "tickerNumber": "402",
       "nameEn": "United Real Estate Company",
       "nameAr": null,
       "sector": "Real Estate",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.266,
+      "lastClosePrice": 0.265,
       "lastClosePriceDate": "2026-05-19",
       "verified": false,
       "dividends": [],
@@ -10250,21 +10250,21 @@
         },
         {
           "d": "2026-05-19",
-          "c": 0.266,
-          "v": 4372123
+          "c": 0.265,
+          "v": 4478163
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "MEZZAN",
-      "tickerNumber": null,
+      "tickerNumber": "823",
       "nameEn": "Mezzan Holding Company",
       "nameAr": null,
       "sector": "Consumer Staples",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 1.2,
+      "lastClosePrice": 1.211,
       "lastClosePriceDate": "2026-05-19",
       "verified": false,
       "dividends": [],
@@ -10716,21 +10716,21 @@
         },
         {
           "d": "2026-05-19",
-          "c": 1.2,
-          "v": 275416
+          "c": 1.211,
+          "v": 565291
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "KPROJ",
-      "tickerNumber": null,
+      "tickerNumber": "205",
       "nameEn": "Kuwait Projects Company Holding",
       "nameAr": null,
       "sector": "Financial Services",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.0803,
+      "lastClosePrice": 0.08,
       "lastClosePriceDate": "2026-05-19",
       "verified": false,
       "dividends": [],
@@ -11182,15 +11182,15 @@
         },
         {
           "d": "2026-05-19",
-          "c": 0.0803,
-          "v": 6682385
+          "c": 0.08,
+          "v": 7165735
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "ALTIJARIA",
-      "tickerNumber": null,
+      "tickerNumber": "418",
       "nameEn": "Commercial Real Estate Company",
       "nameAr": null,
       "sector": "Real Estate",
@@ -11649,14 +11649,14 @@
         {
           "d": "2026-05-19",
           "c": 0.174,
-          "v": 633147
+          "v": 641180
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "MKHZN",
-      "tickerNumber": null,
+      "tickerNumber": "603",
       "nameEn": "Agility Public Warehousing Company",
       "nameAr": null,
       "sector": "Transportation",
@@ -12115,20 +12115,20 @@
         {
           "d": "2026-05-19",
           "c": 0.134,
-          "v": 1125323
+          "v": 1131216
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "BPCC",
-      "tickerNumber": null,
+      "tickerNumber": "514",
       "nameEn": "Boubyan Petrochemical Company",
       "nameAr": null,
       "sector": "Basic Materials",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.63,
+      "lastClosePrice": 0.633,
       "lastClosePriceDate": "2026-05-19",
       "verified": false,
       "dividends": [],
@@ -12580,15 +12580,15 @@
         },
         {
           "d": "2026-05-19",
-          "c": 0.63,
-          "v": 737823
+          "c": 0.633,
+          "v": 1337823
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "ARZAN",
-      "tickerNumber": null,
+      "tickerNumber": "212",
       "nameEn": "Arzan Financial Group for Financing and Investment",
       "nameAr": null,
       "sector": "Financial Services",
@@ -13054,7 +13054,7 @@
     },
     {
       "ticker": "KCEM",
-      "tickerNumber": null,
+      "tickerNumber": "503",
       "nameEn": "Kuwait Cement Company",
       "nameAr": null,
       "sector": "Basic Materials",
@@ -13520,7 +13520,7 @@
     },
     {
       "ticker": "TAMINV",
-      "tickerNumber": null,
+      "tickerNumber": "242",
       "nameEn": "Tamdeen Investment Company",
       "nameAr": null,
       "sector": "Financial Services",
@@ -13986,13 +13986,13 @@
     },
     {
       "ticker": "VALMORE",
-      "tickerNumber": null,
+      "tickerNumber": "811",
       "nameEn": "Valmore Holding",
       "nameAr": null,
       "sector": "Industrials",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.208,
+      "lastClosePrice": 0.206,
       "lastClosePriceDate": "2026-05-19",
       "verified": false,
       "dividends": [],
@@ -14444,15 +14444,15 @@
         },
         {
           "d": "2026-05-19",
-          "c": 0.208,
-          "v": 500
+          "c": 0.206,
+          "v": 4500
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "IFAHR",
-      "tickerNumber": null,
+      "tickerNumber": "634",
       "nameEn": "IFA Hotels and Resorts",
       "nameAr": null,
       "sector": "Consumer Discretionary",
@@ -14911,20 +14911,20 @@
         {
           "d": "2026-05-19",
           "c": 0.823,
-          "v": 2874380
+          "v": 2880724
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "SRE",
-      "tickerNumber": null,
+      "tickerNumber": "404",
       "nameEn": "Salhia Real Estate Company",
       "nameAr": null,
       "sector": "Real Estate",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.389,
+      "lastClosePrice": 0.392,
       "lastClosePriceDate": "2026-05-19",
       "verified": false,
       "dividends": [],
@@ -15376,21 +15376,21 @@
         },
         {
           "d": "2026-05-19",
-          "c": 0.389,
-          "v": 12767
+          "c": 0.392,
+          "v": 16136
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "TROLLEY",
-      "tickerNumber": null,
+      "tickerNumber": "833",
       "nameEn": "Trolley General Trading Company",
       "nameAr": null,
       "sector": "Consumer Discretionary",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.92,
+      "lastClosePrice": 0.917,
       "lastClosePriceDate": "2026-05-19",
       "verified": false,
       "dividends": [],
@@ -15592,15 +15592,15 @@
         },
         {
           "d": "2026-05-19",
-          "c": 0.92,
-          "v": 175617
+          "c": 0.917,
+          "v": 199600
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "GINS",
-      "tickerNumber": null,
+      "tickerNumber": "302",
       "nameEn": "Gulf Insurance Group",
       "nameAr": null,
       "sector": "Insurance",
@@ -16066,7 +16066,7 @@
     },
     {
       "ticker": "NINV",
-      "tickerNumber": null,
+      "tickerNumber": "204",
       "nameEn": "National Investments Company",
       "nameAr": null,
       "sector": "Financial Services",
@@ -16525,14 +16525,14 @@
         {
           "d": "2026-05-19",
           "c": 0.246,
-          "v": 959197
+          "v": 984315
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "NOOR",
-      "tickerNumber": null,
+      "tickerNumber": "241",
       "nameEn": "Noor Financial Investment Company",
       "nameAr": null,
       "sector": "Financial Services",
@@ -16991,20 +16991,20 @@
         {
           "d": "2026-05-19",
           "c": 0.4,
-          "v": 3108691
+          "v": 3275726
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "IFA",
-      "tickerNumber": null,
+      "tickerNumber": "203",
       "nameEn": "International Financial Advisors Holding",
       "nameAr": null,
       "sector": "Financial Services",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.416,
+      "lastClosePrice": 0.415,
       "lastClosePriceDate": "2026-05-19",
       "verified": false,
       "dividends": [],
@@ -17456,15 +17456,15 @@
         },
         {
           "d": "2026-05-19",
-          "c": 0.416,
-          "v": 1116123
+          "c": 0.415,
+          "v": 1130779
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "TAM",
-      "tickerNumber": null,
+      "tickerNumber": "406",
       "nameEn": "Tamdeen Real Estate Company",
       "nameAr": null,
       "sector": "Real Estate",
@@ -17930,7 +17930,7 @@
     },
     {
       "ticker": "AINS",
-      "tickerNumber": null,
+      "tickerNumber": "303",
       "nameEn": "Al-Ahleia Insurance Company",
       "nameAr": null,
       "sector": "Insurance",
@@ -18396,13 +18396,13 @@
     },
     {
       "ticker": "GIH",
-      "tickerNumber": null,
+      "tickerNumber": "221",
       "nameEn": "Gulf Investment House",
       "nameAr": null,
       "sector": "Financial Services",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.548,
+      "lastClosePrice": 0.549,
       "lastClosePriceDate": "2026-05-19",
       "verified": false,
       "dividends": [],
@@ -18854,15 +18854,15 @@
         },
         {
           "d": "2026-05-19",
-          "c": 0.548,
-          "v": 435928
+          "c": 0.549,
+          "v": 444028
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "MIDAN",
-      "tickerNumber": null,
+      "tickerNumber": "2014",
       "nameEn": "Al-Maidan Clinic for Oral Health Services Company",
       "nameAr": null,
       "sector": "Health Care",
@@ -19328,13 +19328,13 @@
     },
     {
       "ticker": "AZNOULA",
-      "tickerNumber": null,
+      "tickerNumber": "826",
       "nameEn": "Shamal Az-Zour Al-Oula Power and Water Company",
       "nameAr": null,
       "sector": "Utilities",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.143,
+      "lastClosePrice": 0.144,
       "lastClosePriceDate": "2026-05-19",
       "verified": false,
       "dividends": [],
@@ -19786,15 +19786,15 @@
         },
         {
           "d": "2026-05-19",
-          "c": 0.143,
-          "v": 684847
+          "c": 0.144,
+          "v": 687658
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "ALFTAQA",
-      "tickerNumber": null,
+      "tickerNumber": "832",
       "nameEn": "Action Energy Company",
       "nameAr": null,
       "sector": "Oil & Gas",
@@ -20253,14 +20253,14 @@
         {
           "d": "2026-05-19",
           "c": 0.289,
-          "v": 162654
+          "v": 173190
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "FACIL",
-      "tickerNumber": null,
+      "tickerNumber": "202",
       "nameEn": "Commercial Facilities Company",
       "nameAr": null,
       "sector": "Financial Services",
@@ -20719,20 +20719,20 @@
         {
           "d": "2026-05-19",
           "c": 0.3,
-          "v": 282186
+          "v": 422186
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "CGC",
-      "tickerNumber": null,
+      "tickerNumber": "635",
       "nameEn": "Combined Group Contracting Company",
       "nameAr": null,
       "sector": "Industrials",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.933,
+      "lastClosePrice": 0.924,
       "lastClosePriceDate": "2026-05-19",
       "verified": false,
       "dividends": [],
@@ -21184,21 +21184,21 @@
         },
         {
           "d": "2026-05-19",
-          "c": 0.933,
-          "v": 1037953
+          "c": 0.924,
+          "v": 1344413
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "NRE",
-      "tickerNumber": null,
+      "tickerNumber": "403",
       "nameEn": "National Real Estate Company",
       "nameAr": null,
       "sector": "Real Estate",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.0991,
+      "lastClosePrice": 0.0992,
       "lastClosePriceDate": "2026-05-19",
       "verified": false,
       "dividends": [],
@@ -21650,21 +21650,21 @@
         },
         {
           "d": "2026-05-19",
-          "c": 0.0991,
-          "v": 72691163
+          "c": 0.0992,
+          "v": 76168630
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "ACICO",
-      "tickerNumber": null,
+      "tickerNumber": "512",
       "nameEn": "ACICO Industries Company",
       "nameAr": null,
       "sector": "Industrials",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.447,
+      "lastClosePrice": 0.446,
       "lastClosePriceDate": "2026-05-19",
       "verified": false,
       "dividends": [],
@@ -22116,15 +22116,15 @@
         },
         {
           "d": "2026-05-19",
-          "c": 0.447,
-          "v": 2363725
+          "c": 0.446,
+          "v": 2368725
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "AAYAN",
-      "tickerNumber": null,
+      "tickerNumber": "222",
       "nameEn": "A'ayan Leasing and Investment Company",
       "nameAr": null,
       "sector": "Financial Services",
@@ -22590,7 +22590,7 @@
     },
     {
       "ticker": "NAPESCO",
-      "tickerNumber": null,
+      "tickerNumber": "617",
       "nameEn": "National Petroleum Services Company",
       "nameAr": null,
       "sector": "Oil & Gas",
@@ -23056,13 +23056,13 @@
     },
     {
       "ticker": "SHIP",
-      "tickerNumber": null,
+      "tickerNumber": "506",
       "nameEn": "Heavy Engineering Industries and Shipbuilding Company",
       "nameAr": null,
       "sector": "Industrials",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.716,
+      "lastClosePrice": 0.715,
       "lastClosePriceDate": "2026-05-19",
       "verified": false,
       "dividends": [],
@@ -23514,15 +23514,15 @@
         },
         {
           "d": "2026-05-19",
-          "c": 0.716,
-          "v": 921231
+          "c": 0.715,
+          "v": 928282
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "KUWAITRE",
-      "tickerNumber": null,
+      "tickerNumber": "305",
       "nameEn": "Kuwait Reinsurance Company",
       "nameAr": null,
       "sector": "Insurance",
@@ -23988,7 +23988,7 @@
     },
     {
       "ticker": "KINS",
-      "tickerNumber": null,
+      "tickerNumber": "301",
       "nameEn": "Kuwait Insurance Company",
       "nameAr": null,
       "sector": "Insurance",
@@ -24454,7 +24454,7 @@
     },
     {
       "ticker": "IPG",
-      "tickerNumber": null,
+      "tickerNumber": "608",
       "nameEn": "Independent Petroleum Group",
       "nameAr": null,
       "sector": "Oil & Gas",
@@ -24920,7 +24920,7 @@
     },
     {
       "ticker": "KCIN",
-      "tickerNumber": null,
+      "tickerNumber": "601",
       "nameEn": "Kuwait National Cinema Company",
       "nameAr": null,
       "sector": "Consumer Discretionary",
@@ -25386,7 +25386,7 @@
     },
     {
       "ticker": "SOOR",
-      "tickerNumber": null,
+      "tickerNumber": "655",
       "nameEn": "Al Soor Fuel Marketing Company",
       "nameAr": null,
       "sector": "Oil & Gas",
@@ -25852,7 +25852,7 @@
     },
     {
       "ticker": "OULAFUEL",
-      "tickerNumber": null,
+      "tickerNumber": "645",
       "nameEn": "Oula Fuel Marketing Company",
       "nameAr": null,
       "sector": "Oil & Gas",
@@ -26311,14 +26311,14 @@
         {
           "d": "2026-05-19",
           "c": 0.263,
-          "v": 3854715
+          "v": 3856478
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "BEYOUT",
-      "tickerNumber": null,
+      "tickerNumber": "831",
       "nameEn": "Beyout Holding Company",
       "nameAr": null,
       "sector": "Financial Services",
@@ -26777,14 +26777,14 @@
         {
           "d": "2026-05-19",
           "c": 0.351,
-          "v": 1979480
+          "v": 1988936
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "KINV",
-      "tickerNumber": null,
+      "tickerNumber": "201",
       "nameEn": "Kuwait Investment Company",
       "nameAr": null,
       "sector": "Financial Services",
@@ -27243,14 +27243,14 @@
         {
           "d": "2026-05-19",
           "c": 0.182,
-          "v": 4904819
+          "v": 5196577
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "INTEGRATED",
-      "tickerNumber": null,
+      "tickerNumber": "824",
       "nameEn": "Integrated Holding Company",
       "nameAr": null,
       "sector": "Industrials",
@@ -27709,20 +27709,20 @@
         {
           "d": "2026-05-19",
           "c": 0.403,
-          "v": 334522
+          "v": 2007571
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "ATC",
-      "tickerNumber": null,
+      "tickerNumber": "652",
       "nameEn": "Advanced Technology Company",
       "nameAr": null,
       "sector": "Technology",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.58,
+      "lastClosePrice": 0.555,
       "lastClosePriceDate": "2026-05-19",
       "verified": false,
       "dividends": [],
@@ -28174,15 +28174,15 @@
         },
         {
           "d": "2026-05-19",
-          "c": 0.58,
-          "v": 11003
+          "c": 0.555,
+          "v": 14703
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "ARKAN",
-      "tickerNumber": null,
+      "tickerNumber": "429",
       "nameEn": "Arkan Al-Kuwait Real Estate Company",
       "nameAr": null,
       "sector": "Real Estate",
@@ -28648,7 +28648,7 @@
     },
     {
       "ticker": "NICBM",
-      "tickerNumber": null,
+      "tickerNumber": "520",
       "nameEn": "National Industries Company",
       "nameAr": null,
       "sector": "Industrials",
@@ -29114,7 +29114,7 @@
     },
     {
       "ticker": "ALKOUT",
-      "tickerNumber": null,
+      "tickerNumber": "517",
       "nameEn": "Al Kout Industrial Projects Company",
       "nameAr": null,
       "sector": "Industrials",
@@ -29580,7 +29580,7 @@
     },
     {
       "ticker": "JTC",
-      "tickerNumber": null,
+      "tickerNumber": "829",
       "nameEn": "JTC Logistics Transportation & Stevedoring Co.",
       "nameAr": null,
       "sector": "Transportation",
@@ -30046,13 +30046,13 @@
     },
     {
       "ticker": "ARABREC",
-      "tickerNumber": null,
+      "tickerNumber": "410",
       "nameEn": "Al-Arabiya Real Estate Company",
       "nameAr": null,
       "sector": "Real Estate",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.191,
+      "lastClosePrice": 0.192,
       "lastClosePriceDate": "2026-05-19",
       "verified": false,
       "dividends": [],
@@ -30504,21 +30504,21 @@
         },
         {
           "d": "2026-05-19",
-          "c": 0.191,
-          "v": 226296
+          "c": 0.192,
+          "v": 229482
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "ALSAFAT",
-      "tickerNumber": null,
+      "tickerNumber": "235",
       "nameEn": "Al Safat Investment Company",
       "nameAr": null,
       "sector": "Financial Services",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.272,
+      "lastClosePrice": 0.27,
       "lastClosePriceDate": "2026-05-19",
       "verified": false,
       "dividends": [],
@@ -30970,15 +30970,15 @@
         },
         {
           "d": "2026-05-19",
-          "c": 0.272,
-          "v": 9226120
+          "c": 0.27,
+          "v": 9902159
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "MARKAZ",
-      "tickerNumber": null,
+      "tickerNumber": "213",
       "nameEn": "Kuwait Financial Centre",
       "nameAr": null,
       "sector": "Financial Services",
@@ -31444,7 +31444,7 @@
     },
     {
       "ticker": "KAMCO",
-      "tickerNumber": null,
+      "tickerNumber": "228",
       "nameEn": "KAMCO Investment Company",
       "nameAr": null,
       "sector": "Financial Services",
@@ -31910,7 +31910,7 @@
     },
     {
       "ticker": "AREEC",
-      "tickerNumber": null,
+      "tickerNumber": "408",
       "nameEn": "Ajial Real Estate Entertainment Company",
       "nameAr": null,
       "sector": "Real Estate",
@@ -32376,13 +32376,13 @@
     },
     {
       "ticker": "MUNSHAAT",
-      "tickerNumber": null,
+      "tickerNumber": "433",
       "nameEn": "Munshaat Real Estate Projects Company",
       "nameAr": null,
       "sector": "Real Estate",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.212,
+      "lastClosePrice": 0.211,
       "lastClosePriceDate": "2026-05-19",
       "verified": false,
       "dividends": [],
@@ -32834,21 +32834,21 @@
         },
         {
           "d": "2026-05-19",
-          "c": 0.212,
-          "v": 147688
+          "c": 0.211,
+          "v": 259427
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "PCEM",
-      "tickerNumber": null,
+      "tickerNumber": "508",
       "nameEn": "Kuwait Portland Cement Co.",
       "nameAr": null,
       "sector": "Basic Materials",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.577,
+      "lastClosePrice": 0.58,
       "lastClosePriceDate": "2026-05-19",
       "verified": false,
       "dividends": [],
@@ -33300,15 +33300,15 @@
         },
         {
           "d": "2026-05-19",
-          "c": 0.577,
-          "v": 18177
+          "c": 0.58,
+          "v": 18435
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "AAYANRE",
-      "tickerNumber": null,
+      "tickerNumber": "420",
       "nameEn": "A'ayan Real Estate Company",
       "nameAr": null,
       "sector": "Real Estate",
@@ -33774,7 +33774,7 @@
     },
     {
       "ticker": "UNICAP",
-      "tickerNumber": null,
+      "tickerNumber": "232",
       "nameEn": "Unicap Investment and Finance Company",
       "nameAr": null,
       "sector": "Financial Services",
@@ -34240,13 +34240,13 @@
     },
     {
       "ticker": "RASIYAT",
-      "tickerNumber": null,
+      "tickerNumber": "249",
       "nameEn": "Rasiyat Holding Company",
       "nameAr": null,
       "sector": "Financial Services",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.499,
+      "lastClosePrice": 0.502,
       "lastClosePriceDate": "2026-05-19",
       "verified": false,
       "dividends": [],
@@ -34698,15 +34698,15 @@
         },
         {
           "d": "2026-05-19",
-          "c": 0.499,
-          "v": 2372620
+          "c": 0.502,
+          "v": 2372670
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "UPAC",
-      "tickerNumber": null,
+      "tickerNumber": "640",
       "nameEn": "United Projects Company For Aviation Services",
       "nameAr": null,
       "sector": "Transportation",
@@ -35172,13 +35172,13 @@
     },
     {
       "ticker": "INJAZZAT",
-      "tickerNumber": null,
+      "tickerNumber": "414",
       "nameEn": "Injazzat Real Estate Development Company",
       "nameAr": null,
       "sector": "Real Estate",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.158,
+      "lastClosePrice": 0.157,
       "lastClosePriceDate": "2026-05-19",
       "verified": false,
       "dividends": [],
@@ -35630,21 +35630,21 @@
         },
         {
           "d": "2026-05-19",
-          "c": 0.158,
-          "v": 85852
+          "c": 0.157,
+          "v": 88153
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "DIGITUS",
-      "tickerNumber": null,
+      "tickerNumber": "649",
       "nameEn": "Digitus Group for Digital Infrastructure",
       "nameAr": null,
       "sector": "Technology",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 1.805,
+      "lastClosePrice": 1.8,
       "lastClosePriceDate": "2026-05-19",
       "verified": false,
       "dividends": [],
@@ -36096,21 +36096,21 @@
         },
         {
           "d": "2026-05-19",
-          "c": 1.805,
-          "v": 214848
+          "c": 1.8,
+          "v": 256398
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "ALOLA",
-      "tickerNumber": null,
+      "tickerNumber": "219",
       "nameEn": "First Investment Company",
       "nameAr": null,
       "sector": "Financial Services",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.128,
+      "lastClosePrice": 0.129,
       "lastClosePriceDate": "2026-05-19",
       "verified": false,
       "dividends": [],
@@ -36562,15 +36562,15 @@
         },
         {
           "d": "2026-05-19",
-          "c": 0.128,
-          "v": 9972283
+          "c": 0.129,
+          "v": 10475304
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "BKIKWT",
-      "tickerNumber": null,
+      "tickerNumber": "812",
       "nameEn": "Bahrain Kuwait Insurance Company",
       "nameAr": null,
       "sector": "Insurance",
@@ -37036,13 +37036,13 @@
     },
     {
       "ticker": "ALDEERA",
-      "tickerNumber": null,
+      "tickerNumber": "234",
       "nameEn": "Al-Deera Holding Company",
       "nameAr": null,
       "sector": "Real Estate",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.569,
+      "lastClosePrice": 0.567,
       "lastClosePriceDate": "2026-05-19",
       "verified": false,
       "dividends": [],
@@ -37494,15 +37494,15 @@
         },
         {
           "d": "2026-05-19",
-          "c": 0.569,
-          "v": 3403412
+          "c": 0.567,
+          "v": 3421412
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "THURAYA",
-      "tickerNumber": null,
+      "tickerNumber": "2017",
       "nameEn": "Dar Al-Thuraya Real Estate Co.",
       "nameAr": null,
       "sector": "Real Estate",
@@ -37968,13 +37968,13 @@
     },
     {
       "ticker": "ALIMTIAZ",
-      "tickerNumber": null,
+      "tickerNumber": "252",
       "nameEn": "Al Imtiaz Investment Group Company",
       "nameAr": null,
       "sector": "Financial Services",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.0618,
+      "lastClosePrice": 0.062,
       "lastClosePriceDate": "2026-05-19",
       "verified": false,
       "dividends": [],
@@ -38426,21 +38426,21 @@
         },
         {
           "d": "2026-05-19",
-          "c": 0.0618,
-          "v": 4489786
+          "c": 0.062,
+          "v": 4947037
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "QIC",
-      "tickerNumber": null,
+      "tickerNumber": "806",
       "nameEn": "Umm Al Qaiwain General Investments Company",
       "nameAr": null,
       "sector": "Financial Services",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.129,
+      "lastClosePrice": 0.135,
       "lastClosePriceDate": "2026-05-19",
       "verified": false,
       "dividends": [],
@@ -38892,15 +38892,15 @@
         },
         {
           "d": "2026-05-19",
-          "c": 0.129,
-          "v": 10000
+          "c": 0.135,
+          "v": 11350
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "SANAM",
-      "tickerNumber": null,
+      "tickerNumber": "419",
       "nameEn": "SANAM Group Holding Company",
       "nameAr": null,
       "sector": "Financial Services",
@@ -39366,7 +39366,7 @@
     },
     {
       "ticker": "KBT",
-      "tickerNumber": null,
+      "tickerNumber": "435",
       "nameEn": "Kuwait Business Town Real Estate Company",
       "nameAr": null,
       "sector": "Real Estate",
@@ -39825,14 +39825,14 @@
         {
           "d": "2026-05-19",
           "c": 0.0929,
-          "v": 496784
+          "v": 536784
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "WINSRE",
-      "tickerNumber": null,
+      "tickerNumber": "304",
       "nameEn": "Warba Insurance and Reinsurance Company",
       "nameAr": null,
       "sector": "Insurance",
@@ -40298,7 +40298,7 @@
     },
     {
       "ticker": "KCPC",
-      "tickerNumber": null,
+      "tickerNumber": "618",
       "nameEn": "Kuwait Company for Process Plant Construction",
       "nameAr": null,
       "sector": "Industrials",
@@ -40764,13 +40764,13 @@
     },
     {
       "ticker": "KPPC",
-      "tickerNumber": null,
+      "tickerNumber": "624",
       "nameEn": "Privatization Holding Company",
       "nameAr": null,
       "sector": "Financial Services",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.0747,
+      "lastClosePrice": 0.0748,
       "lastClosePriceDate": "2026-05-19",
       "verified": false,
       "dividends": [],
@@ -41222,15 +41222,15 @@
         },
         {
           "d": "2026-05-19",
-          "c": 0.0747,
-          "v": 1143853
+          "c": 0.0748,
+          "v": 1153093
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "ABAR",
-      "tickerNumber": null,
+      "tickerNumber": "633",
       "nameEn": "Burgan Company for Well Drilling, Trading and Maintenance",
       "nameAr": null,
       "sector": "Oil & Gas",
@@ -41689,20 +41689,20 @@
         {
           "d": "2026-05-19",
           "c": 0.173,
-          "v": 36049
+          "v": 64369
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "CLEANING",
-      "tickerNumber": null,
+      "tickerNumber": "609",
       "nameEn": "National Cleaning Company",
       "nameAr": null,
       "sector": "Industrials",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.27,
+      "lastClosePrice": 0.269,
       "lastClosePriceDate": "2026-05-19",
       "verified": false,
       "dividends": [],
@@ -42154,15 +42154,15 @@
         },
         {
           "d": "2026-05-19",
-          "c": 0.27,
-          "v": 15085204
+          "c": 0.269,
+          "v": 15979855
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "SOKOUK",
-      "tickerNumber": null,
+      "tickerNumber": "239",
       "nameEn": "Sokouk Holding Company",
       "nameAr": null,
       "sector": "Financial Services",
@@ -42628,13 +42628,13 @@
     },
     {
       "ticker": "MAZAYA",
-      "tickerNumber": null,
+      "tickerNumber": "423",
       "nameEn": "Al-Mazaya Holding Company",
       "nameAr": null,
       "sector": "Real Estate",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.0764,
+      "lastClosePrice": 0.0763,
       "lastClosePriceDate": "2026-05-19",
       "verified": false,
       "dividends": [],
@@ -43086,15 +43086,15 @@
         },
         {
           "d": "2026-05-19",
-          "c": 0.0764,
-          "v": 253374
+          "c": 0.0763,
+          "v": 263374
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "KFOUC",
-      "tickerNumber": null,
+      "tickerNumber": "511",
       "nameEn": "Kuwait Foundry Company",
       "nameAr": null,
       "sector": "Industrials",
@@ -43560,7 +43560,7 @@
     },
     {
       "ticker": "KMEFIC",
-      "tickerNumber": null,
+      "tickerNumber": "214",
       "nameEn": "Kuwait and Middle East Financial Investment Company",
       "nameAr": null,
       "sector": "Financial Services",
@@ -44026,7 +44026,7 @@
     },
     {
       "ticker": "KFIC",
-      "tickerNumber": null,
+      "tickerNumber": "227",
       "nameEn": "KFIC Invest Company",
       "nameAr": null,
       "sector": "Financial Services",
@@ -44492,7 +44492,7 @@
     },
     {
       "ticker": "ASIYA",
-      "tickerNumber": null,
+      "tickerNumber": "247",
       "nameEn": "Asiya Capital Investments Company",
       "nameAr": null,
       "sector": "Financial Services",
@@ -44958,7 +44958,7 @@
     },
     {
       "ticker": "SPEC",
-      "tickerNumber": null,
+      "tickerNumber": "2010",
       "nameEn": "Specialities Group Holding Company",
       "nameAr": null,
       "sector": "Industrials",
@@ -45424,13 +45424,13 @@
     },
     {
       "ticker": "TIJARA",
-      "tickerNumber": null,
+      "tickerNumber": "427",
       "nameEn": "Tijara & Real Estate Investment Company",
       "nameAr": null,
       "sector": "Real Estate",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.137,
+      "lastClosePrice": 0.136,
       "lastClosePriceDate": "2026-05-19",
       "verified": false,
       "dividends": [],
@@ -45882,21 +45882,21 @@
         },
         {
           "d": "2026-05-19",
-          "c": 0.137,
-          "v": 1613941
+          "c": 0.136,
+          "v": 1771874
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "OSOUL",
-      "tickerNumber": null,
+      "tickerNumber": "225",
       "nameEn": "Osoul Investment Company",
       "nameAr": null,
       "sector": "Financial Services",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.393,
+      "lastClosePrice": 0.394,
       "lastClosePriceDate": "2026-05-19",
       "verified": false,
       "dividends": [],
@@ -46348,15 +46348,15 @@
         },
         {
           "d": "2026-05-19",
-          "c": 0.393,
-          "v": 1432369
+          "c": 0.394,
+          "v": 1545707
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "ERESCO",
-      "tickerNumber": null,
+      "tickerNumber": "412",
       "nameEn": "Al-Enma'a Real Estate Company",
       "nameAr": null,
       "sector": "Real Estate",
@@ -46815,14 +46815,14 @@
         {
           "d": "2026-05-19",
           "c": 0.113,
-          "v": 3699009
+          "v": 4131110
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "NCCI",
-      "tickerNumber": null,
+      "tickerNumber": "524",
       "nameEn": "National Consumer Holding Company",
       "nameAr": null,
       "sector": "Consumer Staples",
@@ -47288,7 +47288,7 @@
     },
     {
       "ticker": "ARGAN",
-      "tickerNumber": null,
+      "tickerNumber": "431",
       "nameEn": "Al Argan International Real Estate Company",
       "nameAr": null,
       "sector": "Real Estate",
@@ -47754,7 +47754,7 @@
     },
     {
       "ticker": "SECH",
-      "tickerNumber": null,
+      "tickerNumber": "209",
       "nameEn": "The Securities House",
       "nameAr": null,
       "sector": "Financial Services",
@@ -48220,7 +48220,7 @@
     },
     {
       "ticker": "NIH",
-      "tickerNumber": null,
+      "tickerNumber": "231",
       "nameEn": "National International Holding Company",
       "nameAr": null,
       "sector": "Financial Services",
@@ -48679,20 +48679,20 @@
         {
           "d": "2026-05-19",
           "c": 0.148,
-          "v": 969350
+          "v": 1021389
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "INOVEST",
-      "tickerNumber": null,
+      "tickerNumber": "817",
       "nameEn": "Inovest",
       "nameAr": null,
       "sector": "Financial Services",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.0992,
+      "lastClosePrice": 0.0995,
       "lastClosePriceDate": "2026-05-19",
       "verified": false,
       "dividends": [],
@@ -49144,21 +49144,21 @@
         },
         {
           "d": "2026-05-19",
-          "c": 0.0992,
-          "v": 3208522
+          "c": 0.0995,
+          "v": 3352199
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "COAST",
-      "tickerNumber": null,
+      "tickerNumber": "207",
       "nameEn": "Coast Investment & Development Company",
       "nameAr": null,
       "sector": "Financial Services",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.0681,
+      "lastClosePrice": 0.0694,
       "lastClosePriceDate": "2026-05-19",
       "verified": false,
       "dividends": [],
@@ -49610,15 +49610,15 @@
         },
         {
           "d": "2026-05-19",
-          "c": 0.0681,
-          "v": 1053092
+          "c": 0.0694,
+          "v": 1326789
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "MARAKEZ",
-      "tickerNumber": null,
+      "tickerNumber": "440",
       "nameEn": "Marakez Real Estate Development Company",
       "nameAr": null,
       "sector": "Real Estate",
@@ -50077,14 +50077,14 @@
         {
           "d": "2026-05-19",
           "c": 0.19,
-          "v": 539030
+          "v": 554030
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "ALMANAR",
-      "tickerNumber": null,
+      "tickerNumber": "825",
       "nameEn": "Al Manar Financing and Leasing Company",
       "nameAr": null,
       "sector": "Financial Services",
@@ -50543,20 +50543,20 @@
         {
           "d": "2026-05-19",
           "c": 0.11,
-          "v": 244460
+          "v": 300913
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "MADAR",
-      "tickerNumber": null,
+      "tickerNumber": "233",
       "nameEn": "Al Madar Kuwait Holding Company",
       "nameAr": null,
       "sector": "Financial Services",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.133,
+      "lastClosePrice": 0.134,
       "lastClosePriceDate": "2026-05-19",
       "verified": false,
       "dividends": [],
@@ -51008,15 +51008,15 @@
         },
         {
           "d": "2026-05-19",
-          "c": 0.133,
-          "v": 749174
+          "c": 0.134,
+          "v": 1092486
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "FTI",
-      "tickerNumber": null,
+      "tickerNumber": "306",
       "nameEn": "First Takaful Insurance Company",
       "nameAr": null,
       "sector": "Insurance",
@@ -51482,7 +51482,7 @@
     },
     {
       "ticker": "MUNTAZAHAT",
-      "tickerNumber": null,
+      "tickerNumber": "651",
       "nameEn": "Kuwait Resorts Company",
       "nameAr": null,
       "sector": "Consumer Discretionary",
@@ -51948,13 +51948,13 @@
     },
     {
       "ticker": "TAHSSILAT",
-      "tickerNumber": null,
+      "tickerNumber": "631",
       "nameEn": "Credit Rating and Collection Company",
       "nameAr": null,
       "sector": "Financial Services",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.149,
+      "lastClosePrice": 0.147,
       "lastClosePriceDate": "2026-05-19",
       "verified": false,
       "dividends": [],
@@ -52406,15 +52406,15 @@
         },
         {
           "d": "2026-05-19",
-          "c": 0.149,
-          "v": 21287
+          "c": 0.147,
+          "v": 41280
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "OSOS",
-      "tickerNumber": null,
+      "tickerNumber": "638",
       "nameEn": "OSOS Holding Group Company",
       "nameAr": null,
       "sector": "Financial Services",
@@ -52880,13 +52880,13 @@
     },
     {
       "ticker": "SENERGY",
-      "tickerNumber": null,
+      "tickerNumber": "606",
       "nameEn": "Senergy Holding Company",
       "nameAr": null,
       "sector": "Oil & Gas",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.129,
+      "lastClosePrice": 0.13,
       "lastClosePriceDate": "2026-05-19",
       "verified": false,
       "dividends": [],
@@ -53338,15 +53338,15 @@
         },
         {
           "d": "2026-05-19",
-          "c": 0.129,
-          "v": 1361565
+          "c": 0.13,
+          "v": 1391665
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "EMIRATES",
-      "tickerNumber": null,
+      "tickerNumber": "245",
       "nameEn": "Kuwait Emirates Holding Company",
       "nameAr": null,
       "sector": "Financial Services",
@@ -53812,7 +53812,7 @@
     },
     {
       "ticker": "AQAR",
-      "tickerNumber": null,
+      "tickerNumber": "421",
       "nameEn": "Aqar Real Estate Investments Company",
       "nameAr": null,
       "sector": "Real Estate",
@@ -54278,7 +54278,7 @@
     },
     {
       "ticker": "PAPER",
-      "tickerNumber": null,
+      "tickerNumber": "509",
       "nameEn": "Shuaiba Industrial Company",
       "nameAr": null,
       "sector": "Basic Materials",
@@ -54744,7 +54744,7 @@
     },
     {
       "ticker": "MENA",
-      "tickerNumber": null,
+      "tickerNumber": "438",
       "nameEn": "MENA Real Estate Company",
       "nameAr": null,
       "sector": "Real Estate",
@@ -55210,7 +55210,7 @@
     },
     {
       "ticker": "WARBACAP",
-      "tickerNumber": null,
+      "tickerNumber": "529",
       "nameEn": "Warba Capital Holding Company",
       "nameAr": null,
       "sector": "Financial Services",
@@ -55676,7 +55676,7 @@
     },
     {
       "ticker": "CATTL",
-      "tickerNumber": null,
+      "tickerNumber": "701",
       "nameEn": "Livestock Transport and Trading Company",
       "nameAr": null,
       "sector": "Consumer Staples",
@@ -56142,7 +56142,7 @@
     },
     {
       "ticker": "MANAZEL",
-      "tickerNumber": null,
+      "tickerNumber": "436",
       "nameEn": "Manazel Holding Company",
       "nameAr": null,
       "sector": "Real Estate",
@@ -56601,14 +56601,14 @@
         {
           "d": "2026-05-19",
           "c": 0.049,
-          "v": 2326189
+          "v": 2376190
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "AMAR",
-      "tickerNumber": null,
+      "tickerNumber": "2019",
       "nameEn": "Amar Finance and Leasing Company",
       "nameAr": null,
       "sector": "Financial Services",
@@ -57067,20 +57067,20 @@
         {
           "d": "2026-05-19",
           "c": 0.102,
-          "v": 2056302
+          "v": 2068263
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "BAYANINV",
-      "tickerNumber": null,
+      "tickerNumber": "223",
       "nameEn": "Bayan Investment Holding Company",
       "nameAr": null,
       "sector": "Financial Services",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.0765,
+      "lastClosePrice": 0.0761,
       "lastClosePriceDate": "2026-05-19",
       "verified": false,
       "dividends": [],
@@ -57532,21 +57532,21 @@
         },
         {
           "d": "2026-05-19",
-          "c": 0.0765,
-          "v": 1292285
+          "c": 0.0761,
+          "v": 1293082
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "MUBARRAD",
-      "tickerNumber": null,
+      "tickerNumber": "650",
       "nameEn": "Mubarrad Holding Company",
       "nameAr": null,
       "sector": "Financial Services",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.12,
+      "lastClosePrice": 0.119,
       "lastClosePriceDate": "2026-05-19",
       "verified": false,
       "dividends": [],
@@ -57998,15 +57998,15 @@
         },
         {
           "d": "2026-05-19",
-          "c": 0.12,
-          "v": 1744520
+          "c": 0.119,
+          "v": 1934520
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "MASHAER",
-      "tickerNumber": null,
+      "tickerNumber": "644",
       "nameEn": "Mashaer Holding Company",
       "nameAr": null,
       "sector": "Real Estate",
@@ -58472,7 +58472,7 @@
     },
     {
       "ticker": "GFC",
-      "tickerNumber": null,
+      "tickerNumber": "630",
       "nameEn": "Gulf Franchising Holding Company",
       "nameAr": null,
       "sector": "Consumer Discretionary",
@@ -58938,7 +58938,7 @@
     },
     {
       "ticker": "KHOT",
-      "tickerNumber": null,
+      "tickerNumber": "602",
       "nameEn": "Kuwait Hotels Company",
       "nameAr": null,
       "sector": "Consumer Discretionary",
@@ -59404,7 +59404,7 @@
     },
     {
       "ticker": "FUTUREKID",
-      "tickerNumber": null,
+      "tickerNumber": "657",
       "nameEn": "Future Kid Entertainment and Real Estate Company",
       "nameAr": null,
       "sector": "Consumer Discretionary",
@@ -59863,20 +59863,20 @@
         {
           "d": "2026-05-19",
           "c": 0.116,
-          "v": 13871475
+          "v": 13938567
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "ASC",
-      "tickerNumber": null,
+      "tickerNumber": "616",
       "nameEn": "Automated Systems Company",
       "nameAr": null,
       "sector": "Technology",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.426,
+      "lastClosePrice": 0.433,
       "lastClosePriceDate": "2026-05-19",
       "verified": false,
       "dividends": [],
@@ -60328,21 +60328,21 @@
         },
         {
           "d": "2026-05-19",
-          "c": 0.426,
-          "v": 1967067
+          "c": 0.433,
+          "v": 2119513
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "PAPCO",
-      "tickerNumber": null,
+      "tickerNumber": "637",
       "nameEn": "Palms Agro Production Company",
       "nameAr": null,
       "sector": "Consumer Staples",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.252,
+      "lastClosePrice": 0.256,
       "lastClosePriceDate": "2026-05-19",
       "verified": false,
       "dividends": [],
@@ -60794,15 +60794,15 @@
         },
         {
           "d": "2026-05-19",
-          "c": 0.252,
-          "v": 455995
+          "c": 0.256,
+          "v": 466354
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "EKTTITAB",
-      "tickerNumber": null,
+      "tickerNumber": "237",
       "nameEn": "Ekttitab Holding Company",
       "nameAr": null,
       "sector": "Financial Services",
@@ -61261,14 +61261,14 @@
         {
           "d": "2026-05-19",
           "c": 0.0343,
-          "v": 2349027
+          "v": 2558712
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "WETHAQ",
-      "tickerNumber": null,
+      "tickerNumber": "307",
       "nameEn": "Wethaq Takaful Insurance Company",
       "nameAr": null,
       "sector": "Insurance",
@@ -61727,20 +61727,20 @@
         {
           "d": "2026-05-19",
           "c": 0.119,
-          "v": 1222303
+          "v": 1319955
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "ALAQARIA",
-      "tickerNumber": null,
+      "tickerNumber": "422",
       "nameEn": "Kuwait Real Estate Holding Company",
       "nameAr": null,
       "sector": "Real Estate",
       "marketType": "Auction Market",
       "isin": null,
-      "lastClosePrice": 0.0592,
+      "lastClosePrice": 0.0581,
       "lastClosePriceDate": "2026-05-19",
       "verified": false,
       "dividends": [],
@@ -62192,15 +62192,15 @@
         },
         {
           "d": "2026-05-19",
-          "c": 0.0592,
-          "v": 243784
+          "c": 0.0581,
+          "v": 283018
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "ENERGYH",
-      "tickerNumber": null,
+      "tickerNumber": "627",
       "nameEn": "The Energy House Holding Company",
       "nameAr": null,
       "sector": "Oil & Gas",
@@ -62666,7 +62666,7 @@
     },
     {
       "ticker": "MRC",
-      "tickerNumber": null,
+      "tickerNumber": "510",
       "nameEn": "Metal and Recycling Company",
       "nameAr": null,
       "sector": "Basic Materials",
@@ -63125,14 +63125,14 @@
         {
           "d": "2026-05-19",
           "c": 0.13,
-          "v": 115421
+          "v": 135421
         }
       ],
       "hasFullHistory": true
     },
     {
       "ticker": "DALQANRE",
-      "tickerNumber": null,
+      "tickerNumber": "2012",
       "nameEn": "Dalqan Real Estate Company",
       "nameAr": null,
       "sector": "Real Estate",
@@ -63598,7 +63598,7 @@
     },
     {
       "ticker": "MASAKEN",
-      "tickerNumber": null,
+      "tickerNumber": "2011",
       "nameEn": "Al-Masaken International for Real Estate Development",
       "nameAr": null,
       "sector": "Real Estate",
@@ -64064,13 +64064,13 @@
     },
     {
       "ticker": "EQUIPMENT",
-      "tickerNumber": null,
+      "tickerNumber": "522",
       "nameEn": "Equipment Holding Company",
       "nameAr": null,
       "sector": "Industrials",
       "marketType": "Auction Market",
       "isin": null,
-      "lastClosePrice": 0.223,
+      "lastClosePrice": 0.224,
       "lastClosePriceDate": "2026-05-19",
       "verified": false,
       "dividends": [],
@@ -64522,8 +64522,8 @@
         },
         {
           "d": "2026-05-19",
-          "c": 0.223,
-          "v": 1873545
+          "c": 0.224,
+          "v": 1885045
         }
       ],
       "hasFullHistory": true

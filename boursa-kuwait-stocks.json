@@ -6,7 +6,7 @@
   "stocks": [
     {
       "ticker": "KFH",
-      "tickerNumber": null,
+      "tickerNumber": "108",
       "nameEn": "Kuwait Finance House",
       "nameAr": null,
       "sector": "Banks",
@@ -19,7 +19,7 @@
     },
     {
       "ticker": "NBK",
-      "tickerNumber": null,
+      "tickerNumber": "101",
       "nameEn": "National Bank of Kuwait",
       "nameAr": null,
       "sector": "Banks",
@@ -32,7 +32,7 @@
     },
     {
       "ticker": "BOUBYAN",
-      "tickerNumber": null,
+      "tickerNumber": "109",
       "nameEn": "Boubyan Bank",
       "nameAr": null,
       "sector": "Banks",
@@ -45,7 +45,7 @@
     },
     {
       "ticker": "ZAIN",
-      "tickerNumber": null,
+      "tickerNumber": "605",
       "nameEn": "Mobile Telecommunications Company",
       "nameAr": null,
       "sector": "Telecommunications",
@@ -58,7 +58,7 @@
     },
     {
       "ticker": "MABANEE",
-      "tickerNumber": null,
+      "tickerNumber": "413",
       "nameEn": "Mabanee Company",
       "nameAr": null,
       "sector": "Real Estate",
@@ -71,7 +71,7 @@
     },
     {
       "ticker": "WARBABANK",
-      "tickerNumber": null,
+      "tickerNumber": "821",
       "nameEn": "Warba Bank",
       "nameAr": null,
       "sector": "Banks",
@@ -84,7 +84,7 @@
     },
     {
       "ticker": "GBK",
-      "tickerNumber": null,
+      "tickerNumber": "102",
       "nameEn": "Gulf Bank",
       "nameAr": null,
       "sector": "Banks",
@@ -97,7 +97,7 @@
     },
     {
       "ticker": "CBK",
-      "tickerNumber": null,
+      "tickerNumber": "103",
       "nameEn": "Commercial Bank of Kuwait",
       "nameAr": null,
       "sector": "Banks",
@@ -110,7 +110,7 @@
     },
     {
       "ticker": "BURG",
-      "tickerNumber": null,
+      "tickerNumber": "107",
       "nameEn": "Burgan Bank",
       "nameAr": null,
       "sector": "Banks",
@@ -123,7 +123,7 @@
     },
     {
       "ticker": "ABK",
-      "tickerNumber": null,
+      "tickerNumber": "104",
       "nameEn": "Al Ahli Bank of Kuwait",
       "nameAr": null,
       "sector": "Banks",
@@ -136,7 +136,7 @@
     },
     {
       "ticker": "OOREDOO",
-      "tickerNumber": null,
+      "tickerNumber": "613",
       "nameEn": "National Mobile Telecommunications Company",
       "nameAr": null,
       "sector": "Telecommunications",
@@ -149,7 +149,7 @@
     },
     {
       "ticker": "STC",
-      "tickerNumber": null,
+      "tickerNumber": "822",
       "nameEn": "Kuwait Telecommunications Company",
       "nameAr": null,
       "sector": "Telecommunications",
@@ -162,7 +162,7 @@
     },
     {
       "ticker": "GFH",
-      "tickerNumber": null,
+      "tickerNumber": "813",
       "nameEn": "GFH Bank",
       "nameAr": null,
       "sector": "Banks",
@@ -175,7 +175,7 @@
     },
     {
       "ticker": "NIND",
-      "tickerNumber": null,
+      "tickerNumber": "501",
       "nameEn": "National Industries Group Holding",
       "nameAr": null,
       "sector": "Industrials",
@@ -188,7 +188,7 @@
     },
     {
       "ticker": "BOURSA",
-      "tickerNumber": null,
+      "tickerNumber": "827",
       "nameEn": "Boursa Kuwait Securities Company",
       "nameAr": null,
       "sector": "Financial Services",
@@ -201,7 +201,7 @@
     },
     {
       "ticker": "KIB",
-      "tickerNumber": null,
+      "tickerNumber": "106",
       "nameEn": "Kuwait International Bank",
       "nameAr": null,
       "sector": "Banks",
@@ -214,7 +214,7 @@
     },
     {
       "ticker": "HUMANSOFT",
-      "tickerNumber": null,
+      "tickerNumber": "623",
       "nameEn": "Humansoft Holding Company",
       "nameAr": null,
       "sector": "Consumer Discretionary",
@@ -227,7 +227,7 @@
     },
     {
       "ticker": "JAZEERA",
-      "tickerNumber": null,
+      "tickerNumber": "654",
       "nameEn": "Jazeera Airways",
       "nameAr": null,
       "sector": "Transportation",
@@ -240,7 +240,7 @@
     },
     {
       "ticker": "CABLE",
-      "tickerNumber": null,
+      "tickerNumber": "505",
       "nameEn": "Gulf Cables and Electrical Industries Group",
       "nameAr": null,
       "sector": "Industrials",
@@ -253,7 +253,7 @@
     },
     {
       "ticker": "KRE",
-      "tickerNumber": null,
+      "tickerNumber": "401",
       "nameEn": "Kuwait Real Estate Company",
       "nameAr": null,
       "sector": "Real Estate",
@@ -266,7 +266,7 @@
     },
     {
       "ticker": "ALG",
-      "tickerNumber": null,
+      "tickerNumber": "830",
       "nameEn": "Ali Al-Ghanim Sons Automotive Company",
       "nameAr": null,
       "sector": "Consumer Discretionary",
@@ -279,7 +279,7 @@
     },
     {
       "ticker": "URC",
-      "tickerNumber": null,
+      "tickerNumber": "402",
       "nameEn": "United Real Estate Company",
       "nameAr": null,
       "sector": "Real Estate",
@@ -292,7 +292,7 @@
     },
     {
       "ticker": "MEZZAN",
-      "tickerNumber": null,
+      "tickerNumber": "823",
       "nameEn": "Mezzan Holding Company",
       "nameAr": null,
       "sector": "Consumer Staples",
@@ -305,7 +305,7 @@
     },
     {
       "ticker": "KPROJ",
-      "tickerNumber": null,
+      "tickerNumber": "205",
       "nameEn": "Kuwait Projects Company Holding",
       "nameAr": null,
       "sector": "Financial Services",
@@ -318,7 +318,7 @@
     },
     {
       "ticker": "ALTIJARIA",
-      "tickerNumber": null,
+      "tickerNumber": "418",
       "nameEn": "Commercial Real Estate Company",
       "nameAr": null,
       "sector": "Real Estate",
@@ -331,7 +331,7 @@
     },
     {
       "ticker": "MKHZN",
-      "tickerNumber": null,
+      "tickerNumber": "603",
       "nameEn": "Agility Public Warehousing Company",
       "nameAr": null,
       "sector": "Transportation",
@@ -344,7 +344,7 @@
     },
     {
       "ticker": "BPCC",
-      "tickerNumber": null,
+      "tickerNumber": "514",
       "nameEn": "Boubyan Petrochemical Company",
       "nameAr": null,
       "sector": "Basic Materials",
@@ -357,7 +357,7 @@
     },
     {
       "ticker": "ARZAN",
-      "tickerNumber": null,
+      "tickerNumber": "212",
       "nameEn": "Arzan Financial Group for Financing and Investment",
       "nameAr": null,
       "sector": "Financial Services",
@@ -370,7 +370,7 @@
     },
     {
       "ticker": "KCEM",
-      "tickerNumber": null,
+      "tickerNumber": "503",
       "nameEn": "Kuwait Cement Company",
       "nameAr": null,
       "sector": "Basic Materials",
@@ -383,7 +383,7 @@
     },
     {
       "ticker": "TAMINV",
-      "tickerNumber": null,
+      "tickerNumber": "242",
       "nameEn": "Tamdeen Investment Company",
       "nameAr": null,
       "sector": "Financial Services",
@@ -396,7 +396,7 @@
     },
     {
       "ticker": "VALMORE",
-      "tickerNumber": null,
+      "tickerNumber": "811",
       "nameEn": "Valmore Holding",
       "nameAr": null,
       "sector": "Industrials",
@@ -409,7 +409,7 @@
     },
     {
       "ticker": "IFAHR",
-      "tickerNumber": null,
+      "tickerNumber": "634",
       "nameEn": "IFA Hotels and Resorts",
       "nameAr": null,
       "sector": "Consumer Discretionary",
@@ -422,7 +422,7 @@
     },
     {
       "ticker": "SRE",
-      "tickerNumber": null,
+      "tickerNumber": "404",
       "nameEn": "Salhia Real Estate Company",
       "nameAr": null,
       "sector": "Real Estate",
@@ -435,7 +435,7 @@
     },
     {
       "ticker": "TROLLEY",
-      "tickerNumber": null,
+      "tickerNumber": "833",
       "nameEn": "Trolley General Trading Company",
       "nameAr": null,
       "sector": "Consumer Discretionary",
@@ -448,7 +448,7 @@
     },
     {
       "ticker": "GINS",
-      "tickerNumber": null,
+      "tickerNumber": "302",
       "nameEn": "Gulf Insurance Group",
       "nameAr": null,
       "sector": "Insurance",
@@ -461,7 +461,7 @@
     },
     {
       "ticker": "NINV",
-      "tickerNumber": null,
+      "tickerNumber": "204",
       "nameEn": "National Investments Company",
       "nameAr": null,
       "sector": "Financial Services",
@@ -474,7 +474,7 @@
     },
     {
       "ticker": "NOOR",
-      "tickerNumber": null,
+      "tickerNumber": "241",
       "nameEn": "Noor Financial Investment Company",
       "nameAr": null,
       "sector": "Financial Services",
@@ -487,7 +487,7 @@
     },
     {
       "ticker": "IFA",
-      "tickerNumber": null,
+      "tickerNumber": "203",
       "nameEn": "International Financial Advisors Holding",
       "nameAr": null,
       "sector": "Financial Services",
@@ -500,7 +500,7 @@
     },
     {
       "ticker": "TAM",
-      "tickerNumber": null,
+      "tickerNumber": "406",
       "nameEn": "Tamdeen Real Estate Company",
       "nameAr": null,
       "sector": "Real Estate",
@@ -513,7 +513,7 @@
     },
     {
       "ticker": "AINS",
-      "tickerNumber": null,
+      "tickerNumber": "303",
       "nameEn": "Al-Ahleia Insurance Company",
       "nameAr": null,
       "sector": "Insurance",
@@ -526,7 +526,7 @@
     },
     {
       "ticker": "GIH",
-      "tickerNumber": null,
+      "tickerNumber": "221",
       "nameEn": "Gulf Investment House",
       "nameAr": null,
       "sector": "Financial Services",
@@ -539,7 +539,7 @@
     },
     {
       "ticker": "MIDAN",
-      "tickerNumber": null,
+      "tickerNumber": "2014",
       "nameEn": "Al-Maidan Clinic for Oral Health Services Company",
       "nameAr": null,
       "sector": "Health Care",
@@ -552,7 +552,7 @@
     },
     {
       "ticker": "AZNOULA",
-      "tickerNumber": null,
+      "tickerNumber": "826",
       "nameEn": "Shamal Az-Zour Al-Oula Power and Water Company",
       "nameAr": null,
       "sector": "Utilities",
@@ -565,7 +565,7 @@
     },
     {
       "ticker": "ALFTAQA",
-      "tickerNumber": null,
+      "tickerNumber": "832",
       "nameEn": "Action Energy Company",
       "nameAr": null,
       "sector": "Oil & Gas",
@@ -578,7 +578,7 @@
     },
     {
       "ticker": "FACIL",
-      "tickerNumber": null,
+      "tickerNumber": "202",
       "nameEn": "Commercial Facilities Company",
       "nameAr": null,
       "sector": "Financial Services",
@@ -591,7 +591,7 @@
     },
     {
       "ticker": "CGC",
-      "tickerNumber": null,
+      "tickerNumber": "635",
       "nameEn": "Combined Group Contracting Company",
       "nameAr": null,
       "sector": "Industrials",
@@ -604,7 +604,7 @@
     },
     {
       "ticker": "NRE",
-      "tickerNumber": null,
+      "tickerNumber": "403",
       "nameEn": "National Real Estate Company",
       "nameAr": null,
       "sector": "Real Estate",
@@ -617,7 +617,7 @@
     },
     {
       "ticker": "ACICO",
-      "tickerNumber": null,
+      "tickerNumber": "512",
       "nameEn": "ACICO Industries Company",
       "nameAr": null,
       "sector": "Industrials",
@@ -630,7 +630,7 @@
     },
     {
       "ticker": "AAYAN",
-      "tickerNumber": null,
+      "tickerNumber": "222",
       "nameEn": "A'ayan Leasing and Investment Company",
       "nameAr": null,
       "sector": "Financial Services",
@@ -643,7 +643,7 @@
     },
     {
       "ticker": "NAPESCO",
-      "tickerNumber": null,
+      "tickerNumber": "617",
       "nameEn": "National Petroleum Services Company",
       "nameAr": null,
       "sector": "Oil & Gas",
@@ -656,7 +656,7 @@
     },
     {
       "ticker": "SHIP",
-      "tickerNumber": null,
+      "tickerNumber": "506",
       "nameEn": "Heavy Engineering Industries and Shipbuilding Company",
       "nameAr": null,
       "sector": "Industrials",
@@ -669,7 +669,7 @@
     },
     {
       "ticker": "KUWAITRE",
-      "tickerNumber": null,
+      "tickerNumber": "305",
       "nameEn": "Kuwait Reinsurance Company",
       "nameAr": null,
       "sector": "Insurance",
@@ -682,7 +682,7 @@
     },
     {
       "ticker": "KINS",
-      "tickerNumber": null,
+      "tickerNumber": "301",
       "nameEn": "Kuwait Insurance Company",
       "nameAr": null,
       "sector": "Insurance",
@@ -695,7 +695,7 @@
     },
     {
       "ticker": "IPG",
-      "tickerNumber": null,
+      "tickerNumber": "608",
       "nameEn": "Independent Petroleum Group",
       "nameAr": null,
       "sector": "Oil & Gas",
@@ -708,7 +708,7 @@
     },
     {
       "ticker": "KCIN",
-      "tickerNumber": null,
+      "tickerNumber": "601",
       "nameEn": "Kuwait National Cinema Company",
       "nameAr": null,
       "sector": "Consumer Discretionary",
@@ -721,7 +721,7 @@
     },
     {
       "ticker": "SOOR",
-      "tickerNumber": null,
+      "tickerNumber": "655",
       "nameEn": "Al Soor Fuel Marketing Company",
       "nameAr": null,
       "sector": "Oil & Gas",
@@ -734,7 +734,7 @@
     },
     {
       "ticker": "OULAFUEL",
-      "tickerNumber": null,
+      "tickerNumber": "645",
       "nameEn": "Oula Fuel Marketing Company",
       "nameAr": null,
       "sector": "Oil & Gas",
@@ -747,7 +747,7 @@
     },
     {
       "ticker": "BEYOUT",
-      "tickerNumber": null,
+      "tickerNumber": "831",
       "nameEn": "Beyout Holding Company",
       "nameAr": null,
       "sector": "Financial Services",
@@ -760,7 +760,7 @@
     },
     {
       "ticker": "KINV",
-      "tickerNumber": null,
+      "tickerNumber": "201",
       "nameEn": "Kuwait Investment Company",
       "nameAr": null,
       "sector": "Financial Services",
@@ -773,7 +773,7 @@
     },
     {
       "ticker": "INTEGRATED",
-      "tickerNumber": null,
+      "tickerNumber": "824",
       "nameEn": "Integrated Holding Company",
       "nameAr": null,
       "sector": "Industrials",
@@ -786,7 +786,7 @@
     },
     {
       "ticker": "ATC",
-      "tickerNumber": null,
+      "tickerNumber": "652",
       "nameEn": "Advanced Technology Company",
       "nameAr": null,
       "sector": "Technology",
@@ -799,7 +799,7 @@
     },
     {
       "ticker": "ARKAN",
-      "tickerNumber": null,
+      "tickerNumber": "429",
       "nameEn": "Arkan Al-Kuwait Real Estate Company",
       "nameAr": null,
       "sector": "Real Estate",
@@ -812,7 +812,7 @@
     },
     {
       "ticker": "NICBM",
-      "tickerNumber": null,
+      "tickerNumber": "520",
       "nameEn": "National Industries Company",
       "nameAr": null,
       "sector": "Industrials",
@@ -825,7 +825,7 @@
     },
     {
       "ticker": "ALKOUT",
-      "tickerNumber": null,
+      "tickerNumber": "517",
       "nameEn": "Al Kout Industrial Projects Company",
       "nameAr": null,
       "sector": "Industrials",
@@ -838,7 +838,7 @@
     },
     {
       "ticker": "JTC",
-      "tickerNumber": null,
+      "tickerNumber": "829",
       "nameEn": "JTC Logistics Transportation & Stevedoring Co.",
       "nameAr": null,
       "sector": "Transportation",
@@ -851,7 +851,7 @@
     },
     {
       "ticker": "ARABREC",
-      "tickerNumber": null,
+      "tickerNumber": "410",
       "nameEn": "Al-Arabiya Real Estate Company",
       "nameAr": null,
       "sector": "Real Estate",
@@ -864,7 +864,7 @@
     },
     {
       "ticker": "ALSAFAT",
-      "tickerNumber": null,
+      "tickerNumber": "235",
       "nameEn": "Al Safat Investment Company",
       "nameAr": null,
       "sector": "Financial Services",
@@ -890,7 +890,7 @@
     },
     {
       "ticker": "MARKAZ",
-      "tickerNumber": null,
+      "tickerNumber": "213",
       "nameEn": "Kuwait Financial Centre",
       "nameAr": null,
       "sector": "Financial Services",
@@ -903,7 +903,7 @@
     },
     {
       "ticker": "KAMCO",
-      "tickerNumber": null,
+      "tickerNumber": "228",
       "nameEn": "KAMCO Investment Company",
       "nameAr": null,
       "sector": "Financial Services",
@@ -916,7 +916,7 @@
     },
     {
       "ticker": "AREEC",
-      "tickerNumber": null,
+      "tickerNumber": "408",
       "nameEn": "Ajial Real Estate Entertainment Company",
       "nameAr": null,
       "sector": "Real Estate",
@@ -929,7 +929,7 @@
     },
     {
       "ticker": "MUNSHAAT",
-      "tickerNumber": null,
+      "tickerNumber": "433",
       "nameEn": "Munshaat Real Estate Projects Company",
       "nameAr": null,
       "sector": "Real Estate",
@@ -942,7 +942,7 @@
     },
     {
       "ticker": "PCEM",
-      "tickerNumber": null,
+      "tickerNumber": "508",
       "nameEn": "Kuwait Portland Cement Co.",
       "nameAr": null,
       "sector": "Basic Materials",
@@ -955,7 +955,7 @@
     },
     {
       "ticker": "AAYANRE",
-      "tickerNumber": null,
+      "tickerNumber": "420",
       "nameEn": "A'ayan Real Estate Company",
       "nameAr": null,
       "sector": "Real Estate",
@@ -968,7 +968,7 @@
     },
     {
       "ticker": "UNICAP",
-      "tickerNumber": null,
+      "tickerNumber": "232",
       "nameEn": "Unicap Investment and Finance Company",
       "nameAr": null,
       "sector": "Financial Services",
@@ -981,7 +981,7 @@
     },
     {
       "ticker": "RASIYAT",
-      "tickerNumber": null,
+      "tickerNumber": "249",
       "nameEn": "Rasiyat Holding Company",
       "nameAr": null,
       "sector": "Financial Services",
@@ -994,7 +994,7 @@
     },
     {
       "ticker": "UPAC",
-      "tickerNumber": null,
+      "tickerNumber": "640",
       "nameEn": "United Projects Company For Aviation Services",
       "nameAr": null,
       "sector": "Transportation",
@@ -1007,7 +1007,7 @@
     },
     {
       "ticker": "INJAZZAT",
-      "tickerNumber": null,
+      "tickerNumber": "414",
       "nameEn": "Injazzat Real Estate Development Company",
       "nameAr": null,
       "sector": "Real Estate",
@@ -1020,7 +1020,7 @@
     },
     {
       "ticker": "DIGITUS",
-      "tickerNumber": null,
+      "tickerNumber": "649",
       "nameEn": "Digitus Group for Digital Infrastructure",
       "nameAr": null,
       "sector": "Technology",
@@ -1033,7 +1033,7 @@
     },
     {
       "ticker": "ALOLA",
-      "tickerNumber": null,
+      "tickerNumber": "219",
       "nameEn": "First Investment Company",
       "nameAr": null,
       "sector": "Financial Services",
@@ -1046,7 +1046,7 @@
     },
     {
       "ticker": "BKIKWT",
-      "tickerNumber": null,
+      "tickerNumber": "812",
       "nameEn": "Bahrain Kuwait Insurance Company",
       "nameAr": null,
       "sector": "Insurance",
@@ -1059,7 +1059,7 @@
     },
     {
       "ticker": "ALDEERA",
-      "tickerNumber": null,
+      "tickerNumber": "234",
       "nameEn": "Al-Deera Holding Company",
       "nameAr": null,
       "sector": "Real Estate",
@@ -1072,7 +1072,7 @@
     },
     {
       "ticker": "THURAYA",
-      "tickerNumber": null,
+      "tickerNumber": "2017",
       "nameEn": "Dar Al-Thuraya Real Estate Co.",
       "nameAr": null,
       "sector": "Real Estate",
@@ -1085,7 +1085,7 @@
     },
     {
       "ticker": "ALIMTIAZ",
-      "tickerNumber": null,
+      "tickerNumber": "252",
       "nameEn": "Al Imtiaz Investment Group Company",
       "nameAr": null,
       "sector": "Financial Services",
@@ -1098,7 +1098,7 @@
     },
     {
       "ticker": "QIC",
-      "tickerNumber": null,
+      "tickerNumber": "806",
       "nameEn": "Umm Al Qaiwain General Investments Company",
       "nameAr": null,
       "sector": "Financial Services",
@@ -1111,7 +1111,7 @@
     },
     {
       "ticker": "SANAM",
-      "tickerNumber": null,
+      "tickerNumber": "419",
       "nameEn": "SANAM Group Holding Company",
       "nameAr": null,
       "sector": "Financial Services",
@@ -1124,7 +1124,7 @@
     },
     {
       "ticker": "KBT",
-      "tickerNumber": null,
+      "tickerNumber": "435",
       "nameEn": "Kuwait Business Town Real Estate Company",
       "nameAr": null,
       "sector": "Real Estate",
@@ -1137,7 +1137,7 @@
     },
     {
       "ticker": "WINSRE",
-      "tickerNumber": null,
+      "tickerNumber": "304",
       "nameEn": "Warba Insurance and Reinsurance Company",
       "nameAr": null,
       "sector": "Insurance",
@@ -1150,7 +1150,7 @@
     },
     {
       "ticker": "KCPC",
-      "tickerNumber": null,
+      "tickerNumber": "618",
       "nameEn": "Kuwait Company for Process Plant Construction",
       "nameAr": null,
       "sector": "Industrials",
@@ -1163,7 +1163,7 @@
     },
     {
       "ticker": "KPPC",
-      "tickerNumber": null,
+      "tickerNumber": "624",
       "nameEn": "Privatization Holding Company",
       "nameAr": null,
       "sector": "Financial Services",
@@ -1176,7 +1176,7 @@
     },
     {
       "ticker": "ABAR",
-      "tickerNumber": null,
+      "tickerNumber": "633",
       "nameEn": "Burgan Company for Well Drilling, Trading and Maintenance",
       "nameAr": null,
       "sector": "Oil & Gas",
@@ -1189,7 +1189,7 @@
     },
     {
       "ticker": "CLEANING",
-      "tickerNumber": null,
+      "tickerNumber": "609",
       "nameEn": "National Cleaning Company",
       "nameAr": null,
       "sector": "Industrials",
@@ -1202,7 +1202,7 @@
     },
     {
       "ticker": "SOKOUK",
-      "tickerNumber": null,
+      "tickerNumber": "239",
       "nameEn": "Sokouk Holding Company",
       "nameAr": null,
       "sector": "Financial Services",
@@ -1215,7 +1215,7 @@
     },
     {
       "ticker": "MAZAYA",
-      "tickerNumber": null,
+      "tickerNumber": "423",
       "nameEn": "Al-Mazaya Holding Company",
       "nameAr": null,
       "sector": "Real Estate",
@@ -1228,7 +1228,7 @@
     },
     {
       "ticker": "KFOUC",
-      "tickerNumber": null,
+      "tickerNumber": "511",
       "nameEn": "Kuwait Foundry Company",
       "nameAr": null,
       "sector": "Industrials",
@@ -1241,7 +1241,7 @@
     },
     {
       "ticker": "KMEFIC",
-      "tickerNumber": null,
+      "tickerNumber": "214",
       "nameEn": "Kuwait and Middle East Financial Investment Company",
       "nameAr": null,
       "sector": "Financial Services",
@@ -1254,7 +1254,7 @@
     },
     {
       "ticker": "KFIC",
-      "tickerNumber": null,
+      "tickerNumber": "227",
       "nameEn": "KFIC Invest Company",
       "nameAr": null,
       "sector": "Financial Services",
@@ -1267,7 +1267,7 @@
     },
     {
       "ticker": "ASIYA",
-      "tickerNumber": null,
+      "tickerNumber": "247",
       "nameEn": "Asiya Capital Investments Company",
       "nameAr": null,
       "sector": "Financial Services",
@@ -1280,7 +1280,7 @@
     },
     {
       "ticker": "SPEC",
-      "tickerNumber": null,
+      "tickerNumber": "2010",
       "nameEn": "Specialities Group Holding Company",
       "nameAr": null,
       "sector": "Industrials",
@@ -1293,7 +1293,7 @@
     },
     {
       "ticker": "TIJARA",
-      "tickerNumber": null,
+      "tickerNumber": "427",
       "nameEn": "Tijara & Real Estate Investment Company",
       "nameAr": null,
       "sector": "Real Estate",
@@ -1306,7 +1306,7 @@
     },
     {
       "ticker": "OSOUL",
-      "tickerNumber": null,
+      "tickerNumber": "225",
       "nameEn": "Osoul Investment Company",
       "nameAr": null,
       "sector": "Financial Services",
@@ -1319,7 +1319,7 @@
     },
     {
       "ticker": "ERESCO",
-      "tickerNumber": null,
+      "tickerNumber": "412",
       "nameEn": "Al-Enma'a Real Estate Company",
       "nameAr": null,
       "sector": "Real Estate",
@@ -1332,7 +1332,7 @@
     },
     {
       "ticker": "NCCI",
-      "tickerNumber": null,
+      "tickerNumber": "524",
       "nameEn": "National Consumer Holding Company",
       "nameAr": null,
       "sector": "Consumer Staples",
@@ -1345,7 +1345,7 @@
     },
     {
       "ticker": "ARGAN",
-      "tickerNumber": null,
+      "tickerNumber": "431",
       "nameEn": "Al Argan International Real Estate Company",
       "nameAr": null,
       "sector": "Real Estate",
@@ -1358,7 +1358,7 @@
     },
     {
       "ticker": "SECH",
-      "tickerNumber": null,
+      "tickerNumber": "209",
       "nameEn": "The Securities House",
       "nameAr": null,
       "sector": "Financial Services",
@@ -1371,7 +1371,7 @@
     },
     {
       "ticker": "NIH",
-      "tickerNumber": null,
+      "tickerNumber": "231",
       "nameEn": "National International Holding Company",
       "nameAr": null,
       "sector": "Financial Services",
@@ -1384,7 +1384,7 @@
     },
     {
       "ticker": "INOVEST",
-      "tickerNumber": null,
+      "tickerNumber": "817",
       "nameEn": "Inovest",
       "nameAr": null,
       "sector": "Financial Services",
@@ -1397,7 +1397,7 @@
     },
     {
       "ticker": "COAST",
-      "tickerNumber": null,
+      "tickerNumber": "207",
       "nameEn": "Coast Investment & Development Company",
       "nameAr": null,
       "sector": "Financial Services",
@@ -1410,7 +1410,7 @@
     },
     {
       "ticker": "MARAKEZ",
-      "tickerNumber": null,
+      "tickerNumber": "440",
       "nameEn": "Marakez Real Estate Development Company",
       "nameAr": null,
       "sector": "Real Estate",
@@ -1423,7 +1423,7 @@
     },
     {
       "ticker": "ALMANAR",
-      "tickerNumber": null,
+      "tickerNumber": "825",
       "nameEn": "Al Manar Financing and Leasing Company",
       "nameAr": null,
       "sector": "Financial Services",
@@ -1436,7 +1436,7 @@
     },
     {
       "ticker": "MADAR",
-      "tickerNumber": null,
+      "tickerNumber": "233",
       "nameEn": "Al Madar Kuwait Holding Company",
       "nameAr": null,
       "sector": "Financial Services",
@@ -1449,7 +1449,7 @@
     },
     {
       "ticker": "FTI",
-      "tickerNumber": null,
+      "tickerNumber": "306",
       "nameEn": "First Takaful Insurance Company",
       "nameAr": null,
       "sector": "Insurance",
@@ -1462,7 +1462,7 @@
     },
     {
       "ticker": "MUNTAZAHAT",
-      "tickerNumber": null,
+      "tickerNumber": "651",
       "nameEn": "Kuwait Resorts Company",
       "nameAr": null,
       "sector": "Consumer Discretionary",
@@ -1475,7 +1475,7 @@
     },
     {
       "ticker": "TAHSSILAT",
-      "tickerNumber": null,
+      "tickerNumber": "631",
       "nameEn": "Credit Rating and Collection Company",
       "nameAr": null,
       "sector": "Financial Services",
@@ -1488,7 +1488,7 @@
     },
     {
       "ticker": "OSOS",
-      "tickerNumber": null,
+      "tickerNumber": "638",
       "nameEn": "OSOS Holding Group Company",
       "nameAr": null,
       "sector": "Financial Services",
@@ -1514,7 +1514,7 @@
     },
     {
       "ticker": "SENERGY",
-      "tickerNumber": null,
+      "tickerNumber": "606",
       "nameEn": "Senergy Holding Company",
       "nameAr": null,
       "sector": "Oil & Gas",
@@ -1527,7 +1527,7 @@
     },
     {
       "ticker": "EMIRATES",
-      "tickerNumber": null,
+      "tickerNumber": "245",
       "nameEn": "Kuwait Emirates Holding Company",
       "nameAr": null,
       "sector": "Financial Services",
@@ -1540,7 +1540,7 @@
     },
     {
       "ticker": "AQAR",
-      "tickerNumber": null,
+      "tickerNumber": "421",
       "nameEn": "Aqar Real Estate Investments Company",
       "nameAr": null,
       "sector": "Real Estate",
@@ -1553,7 +1553,7 @@
     },
     {
       "ticker": "PAPER",
-      "tickerNumber": null,
+      "tickerNumber": "509",
       "nameEn": "Shuaiba Industrial Company",
       "nameAr": null,
       "sector": "Basic Materials",
@@ -1566,7 +1566,7 @@
     },
     {
       "ticker": "MENA",
-      "tickerNumber": null,
+      "tickerNumber": "438",
       "nameEn": "MENA Real Estate Company",
       "nameAr": null,
       "sector": "Real Estate",
@@ -1579,7 +1579,7 @@
     },
     {
       "ticker": "WARBACAP",
-      "tickerNumber": null,
+      "tickerNumber": "529",
       "nameEn": "Warba Capital Holding Company",
       "nameAr": null,
       "sector": "Financial Services",
@@ -1592,7 +1592,7 @@
     },
     {
       "ticker": "CATTL",
-      "tickerNumber": null,
+      "tickerNumber": "701",
       "nameEn": "Livestock Transport and Trading Company",
       "nameAr": null,
       "sector": "Consumer Staples",
@@ -1605,7 +1605,7 @@
     },
     {
       "ticker": "MANAZEL",
-      "tickerNumber": null,
+      "tickerNumber": "436",
       "nameEn": "Manazel Holding Company",
       "nameAr": null,
       "sector": "Real Estate",
@@ -1618,7 +1618,7 @@
     },
     {
       "ticker": "AMAR",
-      "tickerNumber": null,
+      "tickerNumber": "2019",
       "nameEn": "Amar Finance and Leasing Company",
       "nameAr": null,
       "sector": "Financial Services",
@@ -1631,7 +1631,7 @@
     },
     {
       "ticker": "BAYANINV",
-      "tickerNumber": null,
+      "tickerNumber": "223",
       "nameEn": "Bayan Investment Holding Company",
       "nameAr": null,
       "sector": "Financial Services",
@@ -1644,7 +1644,7 @@
     },
     {
       "ticker": "MUBARRAD",
-      "tickerNumber": null,
+      "tickerNumber": "650",
       "nameEn": "Mubarrad Holding Company",
       "nameAr": null,
       "sector": "Financial Services",
@@ -1657,7 +1657,7 @@
     },
     {
       "ticker": "MASHAER",
-      "tickerNumber": null,
+      "tickerNumber": "644",
       "nameEn": "Mashaer Holding Company",
       "nameAr": null,
       "sector": "Real Estate",
@@ -1670,7 +1670,7 @@
     },
     {
       "ticker": "GFC",
-      "tickerNumber": null,
+      "tickerNumber": "630",
       "nameEn": "Gulf Franchising Holding Company",
       "nameAr": null,
       "sector": "Consumer Discretionary",
@@ -1683,7 +1683,7 @@
     },
     {
       "ticker": "KHOT",
-      "tickerNumber": null,
+      "tickerNumber": "602",
       "nameEn": "Kuwait Hotels Company",
       "nameAr": null,
       "sector": "Consumer Discretionary",
@@ -1696,7 +1696,7 @@
     },
     {
       "ticker": "FUTUREKID",
-      "tickerNumber": null,
+      "tickerNumber": "657",
       "nameEn": "Future Kid Entertainment and Real Estate Company",
       "nameAr": null,
       "sector": "Consumer Discretionary",
@@ -1709,7 +1709,7 @@
     },
     {
       "ticker": "ASC",
-      "tickerNumber": null,
+      "tickerNumber": "616",
       "nameEn": "Automated Systems Company",
       "nameAr": null,
       "sector": "Technology",
@@ -1722,7 +1722,7 @@
     },
     {
       "ticker": "PAPCO",
-      "tickerNumber": null,
+      "tickerNumber": "637",
       "nameEn": "Palms Agro Production Company",
       "nameAr": null,
       "sector": "Consumer Staples",
@@ -1735,7 +1735,7 @@
     },
     {
       "ticker": "EKTTITAB",
-      "tickerNumber": null,
+      "tickerNumber": "237",
       "nameEn": "Ekttitab Holding Company",
       "nameAr": null,
       "sector": "Financial Services",
@@ -1748,7 +1748,7 @@
     },
     {
       "ticker": "WETHAQ",
-      "tickerNumber": null,
+      "tickerNumber": "307",
       "nameEn": "Wethaq Takaful Insurance Company",
       "nameAr": null,
       "sector": "Insurance",
@@ -1761,7 +1761,7 @@
     },
     {
       "ticker": "ALAQARIA",
-      "tickerNumber": null,
+      "tickerNumber": "422",
       "nameEn": "Kuwait Real Estate Holding Company",
       "nameAr": null,
       "sector": "Real Estate",
@@ -1774,7 +1774,7 @@
     },
     {
       "ticker": "ENERGYH",
-      "tickerNumber": null,
+      "tickerNumber": "627",
       "nameEn": "The Energy House Holding Company",
       "nameAr": null,
       "sector": "Oil & Gas",
@@ -1787,7 +1787,7 @@
     },
     {
       "ticker": "MRC",
-      "tickerNumber": null,
+      "tickerNumber": "510",
       "nameEn": "Metal and Recycling Company",
       "nameAr": null,
       "sector": "Basic Materials",
@@ -1800,7 +1800,7 @@
     },
     {
       "ticker": "DALQANRE",
-      "tickerNumber": null,
+      "tickerNumber": "2012",
       "nameEn": "Dalqan Real Estate Company",
       "nameAr": null,
       "sector": "Real Estate",
@@ -1813,7 +1813,7 @@
     },
     {
       "ticker": "MASAKEN",
-      "tickerNumber": null,
+      "tickerNumber": "2011",
       "nameEn": "Al-Masaken International for Real Estate Development",
       "nameAr": null,
       "sector": "Real Estate",
@@ -1826,7 +1826,7 @@
     },
     {
       "ticker": "EQUIPMENT",
-      "tickerNumber": null,
+      "tickerNumber": "522",
       "nameEn": "Equipment Holding Company",
       "nameAr": null,
       "sector": "Industrials",
