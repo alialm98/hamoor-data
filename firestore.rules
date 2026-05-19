@@ -3,10 +3,22 @@ rules_version = '2';
 service cloud.firestore {
   match /databases/{database}/documents {
 
-    // Per-user watchlist. Only the owning user (matched by uid) can
-    // read or modify their own subcollection — no public access.
+    // Legacy single-watchlist path. Kept readable for the one-shot
+    // client-side migration into the new multi-list schema. New writes
+    // never land here — the app moved off this path in 2026-05.
     match /users/{uid}/watchlist/{ticker} {
       allow read, write: if request.auth != null && request.auth.uid == uid;
+    }
+
+    // Multi-watchlist schema. Each user owns any number of named lists
+    // under their own uid; each list has a nested stocks subcollection.
+    // Owner-only access — no public reads.
+    match /users/{uid}/watchlists/{watchlistId} {
+      allow read, write: if request.auth != null && request.auth.uid == uid;
+
+      match /stocks/{ticker} {
+        allow read, write: if request.auth != null && request.auth.uid == uid;
+      }
     }
 
     // Default-deny: anything we forget to write a rule for is locked.
