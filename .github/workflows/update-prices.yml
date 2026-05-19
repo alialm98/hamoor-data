@@ -1,0 +1,65 @@
+name: Update prices and deploy to Firebase
+
+on:
+  # Every 15 min from 09:30 to 13:00 Kuwait time (UTC+3) → 06:30-10:00 UTC.
+  # Sunday-Thursday only (Boursa Kuwait trading week).
+  # Day-of-week in cron: 0=Sun, 1=Mon, 2=Tue, 3=Wed, 4=Thu, 5=Fri, 6=Sat.
+  schedule:
+    - cron: '30,45 6 * * 0,1,2,3,4'
+    - cron: '0,15,30,45 7 * * 0,1,2,3,4'
+    - cron: '0,15,30,45 8 * * 0,1,2,3,4'
+    - cron: '0,15,30,45 9 * * 0,1,2,3,4'
+    - cron: '0 10 * * 0,1,2,3,4'
+
+  # Allow a one-click "Run workflow" button in the GitHub UI for testing.
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install yfinance
+        run: pip install --quiet yfinance
+
+      - name: Run price updater
+        run: python3 update_prices.py
+
+      - name: Commit updated data (if changed)
+        id: commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add output/
+          if git diff --cached --quiet; then
+            echo "No data changes."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "Auto-update prices $(date -u +%FT%TZ)"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Deploy to Firebase Hosting
+        # Skip deploy when data didn't change (e.g. mid-day rerun before close).
+        # workflow_dispatch always deploys — useful for manually pushing
+        # changes that aren't auto-detected (rule changes, etc.).
+        if: steps.commit.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
+        uses: FirebaseExtended/action-hosting-deploy@v0
+        with:
+          repoToken: ${{ secrets.GITHUB_TOKEN }}
+          firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+          projectId: hamoor-1ee70
+          channelId: live

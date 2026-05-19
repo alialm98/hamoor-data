@@ -153,7 +153,15 @@ def write_canonical(ticker: str, history: List[dict]) -> None:
 
 
 def write_bundled(ticker: str, history: List[dict]) -> None:
-    """Slim format used by the iOS app bundle: ticker + history (d,c only)."""
+    """Slim format used by the iOS app bundle: ticker + history (d,c only).
+
+    Only written when the sibling `Hamoor/Resources/prices` directory
+    exists — i.e. when this script is running from the local Mac repo
+    layout. On the GitHub Actions runner (only the data repo is checked
+    out), there's no `Hamoor/` to write into, so we skip silently.
+    """
+    if not BUNDLED_PRICES_DIR.parent.exists():
+        return
     BUNDLED_PRICES_DIR.mkdir(parents=True, exist_ok=True)
     slim = [{"d": r["d"], "c": r["c"]} for r in history]
     out = {"ticker": ticker, "history": slim}

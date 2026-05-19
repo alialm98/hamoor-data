@@ -1,0 +1,17 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // Per-user watchlist. Only the owning user (matched by uid) can
+    // read or modify their own subcollection — no public access.
+    match /users/{uid}/watchlist/{ticker} {
+      allow read, write: if request.auth != null && request.auth.uid == uid;
+    }
+
+    // Default-deny: anything we forget to write a rule for is locked.
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}
