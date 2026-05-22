@@ -1,0 +1,72 @@
+name: Update fundamentals from Yahoo
+
+# Daily refresh of per-stock fundamentals (income statement, balance
+# sheet, cash flow, key ratios). Quarterly earnings releases are the only
+# real source of new data, but Yahoo silently updates derived ratios
+# (P/E, etc.) more often, so daily is the right cadence.
+on:
+  # 13:30 Kuwait time (10:30 UTC) Sun–Thu — half an hour after the
+  # market close cron in update-prices.yml, so fundamentals lag the day's
+  # final close by a few minutes.
+  schedule:
+    - cron: '30 10 * * 0,1,2,3,4'
+
+  # Manual trigger from the Actions tab — also fires the post-run Firebase
+  # deploy below.
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.11'
+
+      - name: Install yfinance
+        run: pip install --quiet yfinance
+
+      - name: Run fundamentals scraper
+        run: python3 update_fundamentals.py
+
+      - name: Re-merge into stocks.json
+        # update_prices.py reads the freshly-written fundamentals.json (and
+        # the existing dividends.json) and attaches them to each stock.
+        # We re-fetch the day's closes in the same run so stocks.json
+        # ends up self-consistent (latest prices + freshest fundamentals
+        # in one commit).
+        run: python3 update_prices.py
+
+      - name: Commit updated data (if changed)
+        id: commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add output/fundamentals.json output/stocks.json
+          if git diff --cached --quiet; then
+            echo "No fundamentals changes."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "Auto-update fundamentals $(date -u +%FT%TZ)"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Deploy to Firebase Hosting
+        # Deploy on any diff or any manual trigger — same convention as
+        # the prices + dividends workflows.
+        if: steps.commit.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
+        uses: FirebaseExtended/action-hosting-deploy@v0
+        with:
+          repoToken: ${{ secrets.GITHUB_TOKEN }}
+          firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+          projectId: hamoor-1ee70
+          channelId: live

@@ -46,6 +46,11 @@ MANIFEST_OUT = SCRIPT_DIR / "output" / "manifest.json"
 # always has the most recent dividend data.
 DIVIDENDS_FILE = SCRIPT_DIR / "output" / "dividends.json"
 
+# Fundamentals (income statement, balance sheet, cash flow, key ratios)
+# produced by `update_fundamentals.py` (daily). Same merge pattern as
+# dividends — every price run picks up whatever the latest funda run wrote.
+FUNDAMENTALS_FILE = SCRIPT_DIR / "output" / "fundamentals.json"
+
 DEFAULT_WINDOW_DAYS = 10
 INLINE_RECENT_DAYS = 90
 PRICE_DIVISOR = 1000           # Yahoo returns fils → convert to KWD
@@ -191,6 +196,23 @@ def load_dividends_by_ticker() -> Dict[str, List[dict]]:
         return {}
 
 
+def load_fundamentals_by_ticker() -> Dict[str, dict]:
+    """Read the per-ticker fundamentals record written by
+    `update_fundamentals.py`. Missing file → empty dict (every stock gets
+    `fundamentals: null` in stocks.json, which decodes as `Optional<Fundamentals>`
+    on the Swift side).
+    """
+    if not FUNDAMENTALS_FILE.exists():
+        return {}
+    try:
+        with open(FUNDAMENTALS_FILE, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        return data.get("fundamentalsByTicker", {}) or {}
+    except (OSError, json.JSONDecodeError) as e:
+        log(f"WARN: could not read {FUNDAMENTALS_FILE.name}: {e}; emitting null fundamentals.")
+        return {}
+
+
 def rebuild_stocks_file(stocks: List[dict], price_data: Dict[str, List[dict]]) -> None:
     """Rewrite output/stocks.json with last 90 days inline per stock.
 
@@ -202,8 +224,13 @@ def rebuild_stocks_file(stocks: List[dict], price_data: Dict[str, List[dict]]) -
     `dividends` are merged in from `output/dividends.json` (produced by
     the annual `update_dividends.py` run). Every stock gets a list, even
     if empty — the Swift `StockMetadata.dividends` field is non-optional.
+
+    `fundamentals` are merged in from `output/fundamentals.json` (daily
+    `update_fundamentals.py`). The Swift side has this as an optional —
+    stocks Yahoo doesn't cover land as `null` rather than empty.
     """
     dividends_by_ticker = load_dividends_by_ticker()
+    fundamentals_by_ticker = load_fundamentals_by_ticker()
     enriched = []
     skipped: List[str] = []
     for stock in stocks:
@@ -218,6 +245,7 @@ def rebuild_stocks_file(stocks: List[dict], price_data: Dict[str, List[dict]]) -
                     skipped.append(ticker)
                     continue
                 merged["dividends"] = dividends_by_ticker.get(ticker, [])
+                merged["fundamentals"] = fundamentals_by_ticker.get(ticker)
                 enriched.append(merged)
                 continue
             # No previous data AND nothing fetched this run → skip.
@@ -238,6 +266,7 @@ def rebuild_stocks_file(stocks: List[dict], price_data: Dict[str, List[dict]]) -
             "recentPrices": recent,
             "hasFullHistory": has_history,
             "dividends": dividends_by_ticker.get(ticker, []),
+            "fundamentals": fundamentals_by_ticker.get(ticker),
         })
 
     if skipped:
