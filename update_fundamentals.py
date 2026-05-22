@@ -63,11 +63,18 @@ def _safe(value):
     """yfinance returns numpy/pandas types; collapse to JSON-friendly forms.
 
     `NaN` and `Inf` are valid in numpy but JSON.dump explodes on them, so
-    they collapse to `None`. Decimals stay as floats — same precision the
-    Yahoo source uses.
+    they collapse to `None`. Yahoo sometimes hands back the *strings*
+    "Infinity", "-Infinity", or "NaN" for unusual PE / yield values
+    (e.g. URC's `trailingPE`); those would break the Swift `Double?`
+    decoder, so they also collapse to `None`. Decimals stay as floats —
+    same precision the Yahoo source uses.
     """
     if value is None:
         return None
+    if isinstance(value, str):
+        if value in ("Infinity", "-Infinity", "NaN"):
+            return None
+        return value  # legitimate string fields (longName, sector, etc.)
     try:
         if isinstance(value, float) and (math.isnan(value) or math.isinf(value)):
             return None
