@@ -17,6 +17,10 @@ on:
   # snapshot at any time of year.
   workflow_dispatch:
 
+concurrency:
+  group: hamoor-data-deploy
+  cancel-in-progress: false
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -58,6 +62,7 @@ jobs:
             echo "changed=false" >> "$GITHUB_OUTPUT"
           else
             git commit -m "Auto-update dividends $(date -u +%FT%TZ)"
+            git pull --rebase || { git rebase --abort; exit 1; }
             git push
             echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
