@@ -41,6 +41,10 @@ BUNDLED_PRICES_DIR = REPO_ROOT / "Hamoor" / "Resources" / "prices"
 STOCKS_FILE = SCRIPT_DIR / "boursa-kuwait-stocks.json"
 STOCKS_OUT = SCRIPT_DIR / "output" / "stocks.json"
 MANIFEST_OUT = SCRIPT_DIR / "output" / "manifest.json"
+# Dividend history produced by `update_dividends.py` (annual). Merged
+# into `stocks.json` on every price run so the OTA file the app reads
+# always has the most recent dividend data.
+DIVIDENDS_FILE = SCRIPT_DIR / "output" / "dividends.json"
 
 DEFAULT_WINDOW_DAYS = 10
 INLINE_RECENT_DAYS = 90
@@ -170,6 +174,23 @@ def write_bundled(ticker: str, history: List[dict]) -> None:
         json.dump(out, f, separators=(",", ":"))
 
 
+def load_dividends_by_ticker() -> Dict[str, List[dict]]:
+    """Read the per-ticker dividend history written by `update_dividends.py`.
+
+    Missing file or unreadable contents → empty dict (every stock then gets
+    `dividends: []`, the empty-but-present shape the Swift model expects).
+    """
+    if not DIVIDENDS_FILE.exists():
+        return {}
+    try:
+        with open(DIVIDENDS_FILE, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        return data.get("dividendsByTicker", {}) or {}
+    except (OSError, json.JSONDecodeError) as e:
+        log(f"WARN: could not read {DIVIDENDS_FILE.name}: {e}; emitting empty dividends.")
+        return {}
+
+
 def rebuild_stocks_file(stocks: List[dict], price_data: Dict[str, List[dict]]) -> None:
     """Rewrite output/stocks.json with last 90 days inline per stock.
 
@@ -177,7 +198,12 @@ def rebuild_stocks_file(stocks: List[dict], price_data: Dict[str, List[dict]]) -
     model has `lastClosePrice` and `lastClosePriceDate` as non-optional,
     so a single null breaks the whole decode. Stocks with no Yahoo
     coverage get filtered out here rather than crashing every device.
+
+    `dividends` are merged in from `output/dividends.json` (produced by
+    the annual `update_dividends.py` run). Every stock gets a list, even
+    if empty — the Swift `StockMetadata.dividends` field is non-optional.
     """
+    dividends_by_ticker = load_dividends_by_ticker()
     enriched = []
     skipped: List[str] = []
     for stock in stocks:
@@ -191,6 +217,7 @@ def rebuild_stocks_file(stocks: List[dict], price_data: Dict[str, List[dict]]) -
                 if merged.get("lastClosePrice") is None or merged.get("lastClosePriceDate") is None:
                     skipped.append(ticker)
                     continue
+                merged["dividends"] = dividends_by_ticker.get(ticker, [])
                 enriched.append(merged)
                 continue
             # No previous data AND nothing fetched this run → skip.
@@ -210,6 +237,7 @@ def rebuild_stocks_file(stocks: List[dict], price_data: Dict[str, List[dict]]) -
             "lastClosePriceDate": last_date,
             "recentPrices": recent,
             "hasFullHistory": has_history,
+            "dividends": dividends_by_ticker.get(ticker, []),
         })
 
     if skipped:
