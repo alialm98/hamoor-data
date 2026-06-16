@@ -1,20 +1,21 @@
 name: Update dividends from maqasa
 
-# Annual scrape of the historical dividend history for every stock we
-# track. The price cron (update-prices.yml) merges the result into
-# stocks.json on its next run, so within ~15 minutes of this workflow
-# completing the app sees the new dividend data via the existing OTA
-# pipeline.
+# Daily scrape of the dividend history for every stock we track. maqasa
+# is the single source of truth for dividends — both the per-stock
+# history (merged into stocks.json) and the Calendar tab feed
+# (dividend-calendar.json, derived right here). The merge step re-runs
+# update_prices.py so stocks.json carries the freshest dividends in the
+# same commit.
 on:
-  # April 20th every year — after most Kuwaiti AGMs (March–April) have
-  # finalized their full-year dividends and announced them publicly.
-  # Tweak if reality drifts.
+  # 10:30 UTC = 13:30 Kuwait, Sun–Thu — half an hour after the 13:00 KW
+  # market close, matching the fundamentals cron. Catches newly-declared
+  # dividends within a day of maqasa publishing them.
   schedule:
-    - cron: '0 7 20 4 *'
+    - cron: '30 10 * * 0,1,2,3,4'
 
   # Manual trigger from the Actions tab — also fires the post-run prices
   # re-deploy below, so this is the easy way to push a fresh dividend
-  # snapshot at any time of year.
+  # snapshot on demand.
   workflow_dispatch:
 
 concurrency:
@@ -44,6 +45,12 @@ jobs:
       - name: Run dividend scraper
         run: python3 update_dividends.py
 
+      - name: Rebuild dividend calendar from maqasa
+        # Derives output/dividend-calendar.json (the Calendar tab feed)
+        # from the freshly-scraped dividends.json: ex-date + amount, with a
+        # cum-date derived as the prior trading day. Stdlib only.
+        run: python3 update_dividend_calendar.py
+
       - name: Re-merge dividends into stocks.json
         # update_prices.py's rebuild_stocks_file step reads the freshly
         # written dividends.json and attaches each ticker's array. Running
@@ -56,7 +63,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add output/dividends.json output/stocks.json
+          git add output/dividends.json output/dividend-calendar.json output/stocks.json
           if git diff --cached --quiet; then
             echo "No dividend changes."
             echo "changed=false" >> "$GITHUB_OUTPUT"

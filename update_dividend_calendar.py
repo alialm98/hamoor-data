@@ -2,27 +2,34 @@
 """
 update_dividend_calendar.py
 ─────────────────────────────────────────────────────────────────────────
-Parses the manually-curated `dividend.xlsx` into
-`output/dividend-calendar.json` — the forward-looking dividend events
-calendar the iOS app's Calendar tab consumes.
+Builds `output/dividend-calendar.json` — the dividend events calendar the
+iOS app's Calendar tab consumes — from the maqasa.com scrape
+(`output/dividends.json`, produced by `update_dividends.py`).
 
-Each row in the xlsx is one declared dividend payout:
-    ISIN | security code (= our tickerNumber) | ticker | cum date | ex date | record date | payment date
+maqasa is now the SINGLE source of truth for dividends (the hand-curated
+`dividend.xlsx` has been retired). maqasa publishes the ex-date and the
+cash amount per share, but NOT the cum / record / payment dates. So this
+script:
 
-The output is a flat chronological list, newest cum-date first. The app
-groups by ex-date for display. We also cross-reference each row against
-our `boursa-kuwait-stocks.json` to attach the canonical English + Arabic
-company name so the calendar view doesn't need a separate join at
-render time.
+  - takes each declared payout's ex-date + amount straight from maqasa,
+  - derives the cum-date as the trading day immediately before the
+    ex-date (Boursa Kuwait trades Sun–Thu; the cum-date is the last day
+    you can buy and still receive the dividend),
+  - leaves recordDate / paymentDate null (maqasa doesn't carry them),
+  - joins `boursa-kuwait-stocks.json` for the company name + sector so the
+    Calendar view doesn't need a runtime join.
 
-Run cadence: ad-hoc. Whenever Ali drops a refreshed xlsx into `data/`,
-re-run this script + commit + deploy. The xlsx is the source of truth
-(curated by hand from Boursa Kuwait's corporate-actions announcements);
-this script is just a serializer.
+Only forward-looking events are emitted (ex-date no older than
+`LOOKBACK_DAYS` days) so the Calendar tab stays a "what's coming" view
+rather than a ten-year archive.
+
+Run cadence: daily after market close, wired into `update-dividends.yml`
+right after the maqasa scrape. Re-running daily also advances the
+date-window cutoff even on days maqasa itself didn't change.
 
 Usage:
     python3 update_dividend_calendar.py
-    python3 update_dividend_calendar.py --xlsx dividend.xlsx --out output/dividend-calendar.json
+    python3 update_dividend_calendar.py --dividends output/dividends.json --out output/dividend-calendar.json
 """
 
 from __future__ import annotations
@@ -30,40 +37,42 @@ from __future__ import annotations
 import argparse
 import json
 import sys
-from datetime import datetime
+from datetime import datetime, date, timedelta
 from pathlib import Path
 
-import openpyxl
-
 SCRIPT_DIR = Path(__file__).resolve().parent
-DEFAULT_XLSX = SCRIPT_DIR / "dividend.xlsx"
+DEFAULT_DIVIDENDS = SCRIPT_DIR / "output" / "dividends.json"
 DEFAULT_OUT = SCRIPT_DIR / "output" / "dividend-calendar.json"
 STOCKS_FILE = SCRIPT_DIR / "boursa-kuwait-stocks.json"
+
+# How far back an ex-date may be and still appear in the calendar. A small
+# grace window keeps very-recently-passed events visible instead of
+# vanishing at midnight on their ex-date; everything older is pruned.
+LOOKBACK_DAYS = 7
 
 
 def log(msg: str) -> None:
     print(f"[{datetime.now().strftime('%H:%M:%S')}] {msg}", flush=True)
 
 
-# Column headers as they appear in the source xlsx (with their typos).
-# Keep this list synced with what Ali maintains.
-COL_TICKER = 2  # zero-indexed
-COL_CUM = 3
-COL_EX = 4
-COL_RECORD = 5
-COL_PAY = 6
-
-
-def iso_date(value) -> str | None:
-    """Convert a cell value (datetime or string) to ISO YYYY-MM-DD."""
-    if value is None or value == "":
+def parse_iso(s) -> date | None:
+    if not s or not isinstance(s, str):
         return None
-    if isinstance(value, datetime):
-        return value.strftime("%Y-%m-%d")
-    # Sometimes Excel hands back a date as a string already; pass through.
-    if isinstance(value, str):
-        return value.strip() or None
-    return str(value)
+    try:
+        return date.fromisoformat(s.strip())
+    except ValueError:
+        return None
+
+
+def prev_trading_day(d: date) -> date:
+    """Trading day immediately before `d`. Boursa Kuwait trades Sun–Thu;
+    the weekend is Friday (weekday 4) and Saturday (weekday 5). Public
+    holidays aren't modelled — this is the cum-date approximation that
+    stands in for the value maqasa doesn't publish."""
+    d -= timedelta(days=1)
+    while d.weekday() in (4, 5):
+        d -= timedelta(days=1)
+    return d
 
 
 def load_stock_lookup() -> dict[str, dict]:
@@ -86,82 +95,75 @@ def load_stock_lookup() -> dict[str, dict]:
 
 def parse_args() -> argparse.Namespace:
     ap = argparse.ArgumentParser(description=__doc__.splitlines()[1])
-    ap.add_argument("--xlsx", default=str(DEFAULT_XLSX), help="Path to the source xlsx")
+    ap.add_argument("--dividends", default=str(DEFAULT_DIVIDENDS),
+                    help="Path to the maqasa dividends.json")
     ap.add_argument("--out", default=str(DEFAULT_OUT), help="Output JSON path")
     return ap.parse_args()
 
 
 def main() -> int:
     args = parse_args()
-    xlsx_path = Path(args.xlsx)
+    dividends_path = Path(args.dividends)
     out_path = Path(args.out)
-    if not xlsx_path.exists():
-        log(f"ERROR: xlsx not found at {xlsx_path}")
+    if not dividends_path.exists():
+        log(f"ERROR: dividends file not found at {dividends_path} — run update_dividends.py first")
         return 1
 
     stock_lookup = load_stock_lookup()
     if not stock_lookup:
         log(f"WARN: stock lookup empty (couldn't read {STOCKS_FILE.name}); names will be null")
 
-    log(f"Reading {xlsx_path.name}…")
-    wb = openpyxl.load_workbook(xlsx_path, data_only=True)
-    ws = wb[wb.sheetnames[0]]
+    with open(dividends_path, "r", encoding="utf-8") as f:
+        dividends = json.load(f)
+    by_ticker = dividends.get("dividendsByTicker", {}) or {}
 
+    cutoff = date.today() - timedelta(days=LOOKBACK_DAYS)
     events: list[dict] = []
-    seen_tickers: set[str] = set()
-    rows_processed = 0
-    rows_skipped = 0
+    skipped_no_ex = 0
+    pruned_old = 0
 
-    # Skip the header row
-    for i, row in enumerate(ws.iter_rows(values_only=True)):
-        if i == 0:
-            continue
-        if row is None or all(v is None for v in row):
-            continue
-        rows_processed += 1
-        try:
-            ticker_cell = row[COL_TICKER]
-            if ticker_cell is None:
-                rows_skipped += 1
-                continue
-            ticker = str(ticker_cell).strip().upper()
-            cum_date = iso_date(row[COL_CUM])
-            ex_date = iso_date(row[COL_EX])
-            record_date = iso_date(row[COL_RECORD])
-            payment_date = iso_date(row[COL_PAY])
-        except IndexError:
-            rows_skipped += 1
-            continue
-
+    for ticker, records in by_ticker.items():
         meta = stock_lookup.get(ticker, {})
-        events.append({
-            "ticker": ticker,
-            "nameEn": meta.get("nameEn"),
-            "nameAr": meta.get("nameAr"),
-            "tickerNumber": meta.get("tickerNumber"),
-            "sector": meta.get("sector"),
-            "cumDate": cum_date,
-            "exDate": ex_date,
-            "recordDate": record_date,
-            "paymentDate": payment_date,
-        })
-        seen_tickers.add(ticker)
+        for rec in records:
+            ex = parse_iso(rec.get("exDate"))
+            if ex is None:
+                skipped_no_ex += 1
+                continue
+            if ex < cutoff:
+                pruned_old += 1
+                continue
+            events.append({
+                "ticker": ticker,
+                "nameEn": meta.get("nameEn"),
+                "nameAr": meta.get("nameAr"),
+                "tickerNumber": meta.get("tickerNumber"),
+                "sector": meta.get("sector"),
+                "cumDate": prev_trading_day(ex).isoformat(),
+                "exDate": ex.isoformat(),
+                "recordDate": None,   # maqasa doesn't publish this
+                "paymentDate": None,  # maqasa doesn't publish this
+                "amountPerShare": rec.get("amountPerShare"),
+                "currency": rec.get("currency"),
+                "type": rec.get("type"),
+            })
 
-    # Sort by ex-date descending (newest first) — what the app groups by
-    events.sort(key=lambda e: (e.get("exDate") or "", e["ticker"]), reverse=True)
+    # Ascending by ex-date — the app re-groups for display, but this reads
+    # naturally as a forward chronological list.
+    events.sort(key=lambda e: (e["exDate"], e["ticker"]))
 
-    unmatched = sorted(t for t in seen_tickers if t not in stock_lookup)
-    log(f"Parsed {rows_processed} rows → {len(events)} events ({len(seen_tickers)} unique tickers)")
-    if rows_skipped:
-        log(f"  Skipped {rows_skipped} blank/invalid rows")
-    if unmatched:
-        log(f"  {len(unmatched)} tickers not in our stock list: {unmatched[:10]}…" if len(unmatched) > 10 else f"  Unmatched tickers: {unmatched}")
+    log(f"Built {len(events)} calendar events from {len(by_ticker)} tickers "
+        f"(cutoff ex-date >= {cutoff.isoformat()})")
+    if pruned_old:
+        log(f"  Pruned {pruned_old} past events older than the {LOOKBACK_DAYS}-day window")
+    if skipped_no_ex:
+        log(f"  Skipped {skipped_no_ex} records with no ex-date")
 
     output = {
         "_meta": {
             "generatedAt": datetime.utcnow().isoformat() + "Z",
-            "source": "manual xlsx maintained by Ali",
+            "source": "maqasa.com (derived from dividends.json)",
             "eventCount": len(events),
+            "lookbackDays": LOOKBACK_DAYS,
         },
         "events": events,
     }
