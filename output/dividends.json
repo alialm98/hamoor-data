@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generatedAt": "2026-05-22T18:32:55.067095Z",
+    "generatedAt": "2026-06-16T10:09:06.398615Z",
     "source": "maqasa.com/en/dividend-distribution",
     "yearRange": [
       2016,
@@ -2267,6 +2267,26 @@
     ],
     "NIND": [
       {
+        "fiscalYear": 2026,
+        "type": "cash",
+        "amountPerShare": 0.005,
+        "currency": "KWD",
+        "exDate": "2026-06-04",
+        "paymentDate": null,
+        "bonusSharesPercent": null,
+        "agmDate": null
+      },
+      {
+        "fiscalYear": 2026,
+        "type": "stock",
+        "amountPerShare": 0,
+        "currency": "KWD",
+        "exDate": "2026-06-04",
+        "paymentDate": null,
+        "bonusSharesPercent": 4,
+        "agmDate": null
+      },
+      {
         "fiscalYear": 2025,
         "type": "cash",
         "amountPerShare": 0.01,
@@ -2774,6 +2794,16 @@
       }
     ],
     "JAZEERA": [
+      {
+        "fiscalYear": 2026,
+        "type": "cash",
+        "amountPerShare": 0.083,
+        "currency": "KWD",
+        "exDate": "2026-06-11",
+        "paymentDate": null,
+        "bonusSharesPercent": null,
+        "agmDate": null
+      },
       {
         "fiscalYear": 2025,
         "type": "cash",
@@ -3407,6 +3437,16 @@
     ],
     "KPROJ": [
       {
+        "fiscalYear": 2026,
+        "type": "stock",
+        "amountPerShare": 0,
+        "currency": "KWD",
+        "exDate": "2026-06-14",
+        "paymentDate": null,
+        "bonusSharesPercent": 3,
+        "agmDate": null
+      },
+      {
         "fiscalYear": 2022,
         "type": "cash",
         "amountPerShare": 0.005,
@@ -3488,6 +3528,26 @@
       }
     ],
     "ALTIJARIA": [
+      {
+        "fiscalYear": 2026,
+        "type": "cash",
+        "amountPerShare": 0.003,
+        "currency": "KWD",
+        "exDate": "2026-05-25",
+        "paymentDate": null,
+        "bonusSharesPercent": null,
+        "agmDate": null
+      },
+      {
+        "fiscalYear": 2026,
+        "type": "stock",
+        "amountPerShare": 0,
+        "currency": "KWD",
+        "exDate": "2026-05-25",
+        "paymentDate": null,
+        "bonusSharesPercent": 3,
+        "agmDate": null
+      },
       {
         "fiscalYear": 2025,
         "type": "cash",
@@ -3650,6 +3710,16 @@
       }
     ],
     "MKHZN": [
+      {
+        "fiscalYear": 2026,
+        "type": "cash",
+        "amountPerShare": 0.002,
+        "currency": "KWD",
+        "exDate": "2026-06-09",
+        "paymentDate": null,
+        "bonusSharesPercent": null,
+        "agmDate": null
+      },
       {
         "fiscalYear": 2025,
         "type": "cash",
@@ -3914,6 +3984,26 @@
       }
     ],
     "ARZAN": [
+      {
+        "fiscalYear": 2026,
+        "type": "cash",
+        "amountPerShare": 0.002,
+        "currency": "KWD",
+        "exDate": "2026-06-10",
+        "paymentDate": null,
+        "bonusSharesPercent": null,
+        "agmDate": null
+      },
+      {
+        "fiscalYear": 2026,
+        "type": "stock",
+        "amountPerShare": 0,
+        "currency": "KWD",
+        "exDate": "2026-06-10",
+        "paymentDate": null,
+        "bonusSharesPercent": 6,
+        "agmDate": null
+      },
       {
         "fiscalYear": 2025,
         "type": "cash",
@@ -6183,6 +6273,16 @@
     ],
     "NAPESCO": [
       {
+        "fiscalYear": 2026,
+        "type": "cash",
+        "amountPerShare": 0.095,
+        "currency": "KWD",
+        "exDate": "2026-06-11",
+        "paymentDate": null,
+        "bonusSharesPercent": null,
+        "agmDate": null
+      },
+      {
         "fiscalYear": 2025,
         "type": "cash",
         "amountPerShare": 0.07,
@@ -6428,7 +6528,17 @@
     "KUWAITRE": [
       {
         "fiscalYear": 2026,
-        "type": "cash",
+        "type": "cash_final",
+        "amountPerShare": 0.005,
+        "currency": "KWD",
+        "exDate": "2026-05-25",
+        "paymentDate": null,
+        "bonusSharesPercent": null,
+        "agmDate": null
+      },
+      {
+        "fiscalYear": 2026,
+        "type": "cash_interim",
         "amountPerShare": 0.01,
         "currency": "KWD",
         "exDate": "2026-04-20",
@@ -6618,6 +6728,26 @@
       }
     ],
     "KINS": [
+      {
+        "fiscalYear": 2026,
+        "type": "cash",
+        "amountPerShare": 0.04,
+        "currency": "KWD",
+        "exDate": "2026-05-25",
+        "paymentDate": null,
+        "bonusSharesPercent": null,
+        "agmDate": null
+      },
+      {
+        "fiscalYear": 2026,
+        "type": "stock",
+        "amountPerShare": 0,
+        "currency": "KWD",
+        "exDate": "2026-05-25",
+        "paymentDate": null,
+        "bonusSharesPercent": 29,
+        "agmDate": null
+      },
       {
         "fiscalYear": 2025,
         "type": "cash",
@@ -6934,6 +7064,16 @@
       }
     ],
     "SOOR": [
+      {
+        "fiscalYear": 2026,
+        "type": "cash",
+        "amountPerShare": 0.007,
+        "currency": "KWD",
+        "exDate": "2026-06-17",
+        "paymentDate": null,
+        "bonusSharesPercent": null,
+        "agmDate": null
+      },
       {
         "fiscalYear": 2025,
         "type": "cash",
@@ -7335,6 +7475,16 @@
     ],
     "ATC": [
       {
+        "fiscalYear": 2026,
+        "type": "stock",
+        "amountPerShare": 0,
+        "currency": "KWD",
+        "exDate": "2026-06-11",
+        "paymentDate": null,
+        "bonusSharesPercent": 10,
+        "agmDate": null
+      },
+      {
         "fiscalYear": 2025,
         "type": "stock",
         "amountPerShare": 0,
@@ -7650,6 +7800,16 @@
       }
     ],
     "ALKOUT": [
+      {
+        "fiscalYear": 2026,
+        "type": "cash",
+        "amountPerShare": 0.04,
+        "currency": "KWD",
+        "exDate": "2026-06-08",
+        "paymentDate": null,
+        "bonusSharesPercent": null,
+        "agmDate": null
+      },
       {
         "fiscalYear": 2025,
         "type": "cash",
@@ -8147,6 +8307,16 @@
     ],
     "PCEM": [
       {
+        "fiscalYear": 2026,
+        "type": "cash",
+        "amountPerShare": 0.04,
+        "currency": "KWD",
+        "exDate": "2026-06-08",
+        "paymentDate": null,
+        "bonusSharesPercent": null,
+        "agmDate": null
+      },
+      {
         "fiscalYear": 2025,
         "type": "cash",
         "amountPerShare": 0.05,
@@ -8625,6 +8795,16 @@
     ],
     "SANAM": [
       {
+        "fiscalYear": 2026,
+        "type": "stock",
+        "amountPerShare": 0,
+        "currency": "KWD",
+        "exDate": "2026-06-10",
+        "paymentDate": null,
+        "bonusSharesPercent": 5,
+        "agmDate": null
+      },
+      {
         "fiscalYear": 2025,
         "type": "stock",
         "amountPerShare": 0,
@@ -8810,6 +8990,16 @@
       }
     ],
     "KCPC": [
+      {
+        "fiscalYear": 2026,
+        "type": "cash",
+        "amountPerShare": 0.015,
+        "currency": "KWD",
+        "exDate": "2026-06-09",
+        "paymentDate": null,
+        "bonusSharesPercent": null,
+        "agmDate": null
+      },
       {
         "fiscalYear": 2025,
         "type": "cash",
@@ -9441,6 +9631,16 @@
     ],
     "TIJARA": [
       {
+        "fiscalYear": 2026,
+        "type": "cash",
+        "amountPerShare": 0.005,
+        "currency": "KWD",
+        "exDate": "2026-06-15",
+        "paymentDate": null,
+        "bonusSharesPercent": null,
+        "agmDate": null
+      },
+      {
         "fiscalYear": 2025,
         "type": "cash",
         "amountPerShare": 0.005,
@@ -9868,6 +10068,26 @@
       }
     ],
     "MUNTAZAHAT": [
+      {
+        "fiscalYear": 2026,
+        "type": "cash",
+        "amountPerShare": 0.0035,
+        "currency": "KWD",
+        "exDate": "2026-06-10",
+        "paymentDate": null,
+        "bonusSharesPercent": null,
+        "agmDate": null
+      },
+      {
+        "fiscalYear": 2026,
+        "type": "stock",
+        "amountPerShare": 0,
+        "currency": "KWD",
+        "exDate": "2026-06-10",
+        "paymentDate": null,
+        "bonusSharesPercent": 2,
+        "agmDate": null
+      },
       {
         "fiscalYear": 2025,
         "type": "cash",
@@ -10618,6 +10838,16 @@
       }
     ],
     "MASHAER": [
+      {
+        "fiscalYear": 2026,
+        "type": "cash",
+        "amountPerShare": 0.005,
+        "currency": "KWD",
+        "exDate": "2026-06-04",
+        "paymentDate": null,
+        "bonusSharesPercent": null,
+        "agmDate": null
+      },
       {
         "fiscalYear": 2020,
         "type": "cash",

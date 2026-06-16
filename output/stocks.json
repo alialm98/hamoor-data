@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-15T15:36:47.588771+00:00",
+  "lastUpdated": "2026-06-16T10:10:39.322162+00:00",
   "currency": "KWD",
   "stockCount": 139,
   "stocks": [
@@ -6171,7 +6171,7 @@
       "marketType": "Premier Market",
       "isin": null,
       "lastClosePrice": 0.488,
-      "lastClosePriceDate": "2026-06-14",
+      "lastClosePriceDate": "2026-06-15",
       "verified": false,
       "dividends": [
         {
@@ -6356,11 +6356,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-02-02",
-          "c": 0.499,
-          "v": 590079
-        },
         {
           "d": "2026-02-03",
           "c": 0.497,
@@ -6803,6 +6798,11 @@
         },
         {
           "d": "2026-06-14",
+          "c": 0.488,
+          "v": 0
+        },
+        {
+          "d": "2026-06-15",
           "c": 0.488,
           "v": 0
         }
@@ -11231,6 +11231,26 @@
       "verified": false,
       "dividends": [
         {
+          "fiscalYear": 2026,
+          "type": "cash",
+          "amountPerShare": 0.005,
+          "currency": "KWD",
+          "exDate": "2026-06-04",
+          "paymentDate": null,
+          "bonusSharesPercent": null,
+          "agmDate": null
+        },
+        {
+          "fiscalYear": 2026,
+          "type": "stock",
+          "amountPerShare": 0,
+          "currency": "KWD",
+          "exDate": "2026-06-04",
+          "paymentDate": null,
+          "bonusSharesPercent": 4,
+          "agmDate": null
+        },
+        {
           "fiscalYear": 2025,
           "type": "cash",
           "amountPerShare": 0.01,
@@ -14495,6 +14515,16 @@
       "verified": false,
       "dividends": [
         {
+          "fiscalYear": 2026,
+          "type": "cash",
+          "amountPerShare": 0.083,
+          "currency": "KWD",
+          "exDate": "2026-06-11",
+          "paymentDate": null,
+          "bonusSharesPercent": null,
+          "agmDate": null
+        },
+        {
           "fiscalYear": 2025,
           "type": "cash",
           "amountPerShare": 0.04,
@@ -16657,28 +16687,28 @@
         },
         {
           "d": "2026-06-07",
-          "c": 0.373,
-          "v": 1605844
+          "c": 0.3519,
+          "v": 1702194
         },
         {
           "d": "2026-06-08",
-          "c": 0.365,
-          "v": 1290661
+          "c": 0.3443,
+          "v": 1368100
         },
         {
           "d": "2026-06-09",
-          "c": 0.372,
-          "v": 12451349
+          "c": 0.3509,
+          "v": 13198429
         },
         {
           "d": "2026-06-10",
-          "c": 0.373,
-          "v": 3712734
+          "c": 0.3519,
+          "v": 3935498
         },
         {
           "d": "2026-06-11",
-          "c": 0.373,
-          "v": 1417737
+          "c": 0.3519,
+          "v": 1502801
         },
         {
           "d": "2026-06-14",
@@ -19269,6 +19299,16 @@
       "verified": false,
       "dividends": [
         {
+          "fiscalYear": 2026,
+          "type": "stock",
+          "amountPerShare": 0,
+          "currency": "KWD",
+          "exDate": "2026-06-14",
+          "paymentDate": null,
+          "bonusSharesPercent": 3,
+          "agmDate": null
+        },
+        {
           "fiscalYear": 2022,
           "type": "cash",
           "amountPerShare": 0.005,
@@ -20047,6 +20087,26 @@
       "lastClosePriceDate": "2026-06-15",
       "verified": false,
       "dividends": [
+        {
+          "fiscalYear": 2026,
+          "type": "cash",
+          "amountPerShare": 0.003,
+          "currency": "KWD",
+          "exDate": "2026-05-25",
+          "paymentDate": null,
+          "bonusSharesPercent": null,
+          "agmDate": null
+        },
+        {
+          "fiscalYear": 2026,
+          "type": "stock",
+          "amountPerShare": 0,
+          "currency": "KWD",
+          "exDate": "2026-05-25",
+          "paymentDate": null,
+          "bonusSharesPercent": 3,
+          "agmDate": null
+        },
         {
           "fiscalYear": 2025,
           "type": "cash",
@@ -20882,6 +20942,16 @@
       "lastClosePriceDate": "2026-06-15",
       "verified": false,
       "dividends": [
+        {
+          "fiscalYear": 2026,
+          "type": "cash",
+          "amountPerShare": 0.002,
+          "currency": "KWD",
+          "exDate": "2026-06-09",
+          "paymentDate": null,
+          "bonusSharesPercent": null,
+          "agmDate": null
+        },
         {
           "fiscalYear": 2025,
           "type": "cash",
@@ -22541,6 +22611,26 @@
       "verified": false,
       "dividends": [
         {
+          "fiscalYear": 2026,
+          "type": "cash",
+          "amountPerShare": 0.002,
+          "currency": "KWD",
+          "exDate": "2026-06-10",
+          "paymentDate": null,
+          "bonusSharesPercent": null,
+          "agmDate": null
+        },
+        {
+          "fiscalYear": 2026,
+          "type": "stock",
+          "amountPerShare": 0,
+          "currency": "KWD",
+          "exDate": "2026-06-10",
+          "paymentDate": null,
+          "bonusSharesPercent": 6,
+          "agmDate": null
+        },
+        {
           "fiscalYear": 2025,
           "type": "cash",
           "amountPerShare": 0.003,
@@ -24069,7 +24159,7 @@
       "marketType": "Main Market",
       "isin": null,
       "lastClosePrice": 1.275,
-      "lastClosePriceDate": "2026-06-14",
+      "lastClosePriceDate": "2026-06-15",
       "verified": false,
       "dividends": [
         {
@@ -24184,11 +24274,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-02-02",
-          "c": 1.3,
-          "v": 0
-        },
         {
           "d": "2026-02-03",
           "c": 1.3,
@@ -24631,6 +24716,11 @@
         },
         {
           "d": "2026-06-14",
+          "c": 1.275,
+          "v": 0
+        },
+        {
+          "d": "2026-06-15",
           "c": 1.275,
           "v": 0
         }
@@ -35154,7 +35244,7 @@
       "marketType": "Main Market",
       "isin": null,
       "lastClosePrice": 0.286,
-      "lastClosePriceDate": "2026-06-14",
+      "lastClosePriceDate": "2026-06-15",
       "verified": false,
       "dividends": [
         {
@@ -35279,11 +35369,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-02-02",
-          "c": 0.271,
-          "v": 77834
-        },
         {
           "d": "2026-02-03",
           "c": 0.272,
@@ -35728,6 +35813,11 @@
           "d": "2026-06-14",
           "c": 0.286,
           "v": 7504
+        },
+        {
+          "d": "2026-06-15",
+          "c": 0.286,
+          "v": 0
         }
       ],
       "hasFullHistory": true,
@@ -39544,6 +39634,16 @@
       "verified": false,
       "dividends": [
         {
+          "fiscalYear": 2026,
+          "type": "cash",
+          "amountPerShare": 0.095,
+          "currency": "KWD",
+          "exDate": "2026-06-11",
+          "paymentDate": null,
+          "bonusSharesPercent": null,
+          "agmDate": null
+        },
+        {
           "fiscalYear": 2025,
           "type": "cash",
           "amountPerShare": 0.07,
@@ -41160,7 +41260,17 @@
       "dividends": [
         {
           "fiscalYear": 2026,
-          "type": "cash",
+          "type": "cash_final",
+          "amountPerShare": 0.005,
+          "currency": "KWD",
+          "exDate": "2026-05-25",
+          "paymentDate": null,
+          "bonusSharesPercent": null,
+          "agmDate": null
+        },
+        {
+          "fiscalYear": 2026,
+          "type": "cash_interim",
           "amountPerShare": 0.01,
           "currency": "KWD",
           "exDate": "2026-04-20",
@@ -42047,6 +42157,26 @@
       "lastClosePriceDate": "2026-06-15",
       "verified": false,
       "dividends": [
+        {
+          "fiscalYear": 2026,
+          "type": "cash",
+          "amountPerShare": 0.04,
+          "currency": "KWD",
+          "exDate": "2026-05-25",
+          "paymentDate": null,
+          "bonusSharesPercent": null,
+          "agmDate": null
+        },
+        {
+          "fiscalYear": 2026,
+          "type": "stock",
+          "amountPerShare": 0,
+          "currency": "KWD",
+          "exDate": "2026-05-25",
+          "paymentDate": null,
+          "bonusSharesPercent": 29,
+          "agmDate": null
+        },
         {
           "fiscalYear": 2025,
           "type": "cash",
@@ -44446,6 +44576,16 @@
       "lastClosePriceDate": "2026-06-15",
       "verified": false,
       "dividends": [
+        {
+          "fiscalYear": 2026,
+          "type": "cash",
+          "amountPerShare": 0.007,
+          "currency": "KWD",
+          "exDate": "2026-06-17",
+          "paymentDate": null,
+          "bonusSharesPercent": null,
+          "agmDate": null
+        },
         {
           "fiscalYear": 2025,
           "type": "cash",
@@ -48270,6 +48410,16 @@
       "verified": false,
       "dividends": [
         {
+          "fiscalYear": 2026,
+          "type": "stock",
+          "amountPerShare": 0,
+          "currency": "KWD",
+          "exDate": "2026-06-11",
+          "paymentDate": null,
+          "bonusSharesPercent": 10,
+          "agmDate": null
+        },
+        {
           "fiscalYear": 2025,
           "type": "stock",
           "amountPerShare": 0,
@@ -50652,6 +50802,16 @@
       "lastClosePriceDate": "2026-06-15",
       "verified": false,
       "dividends": [
+        {
+          "fiscalYear": 2026,
+          "type": "cash",
+          "amountPerShare": 0.04,
+          "currency": "KWD",
+          "exDate": "2026-06-08",
+          "paymentDate": null,
+          "bonusSharesPercent": null,
+          "agmDate": null
+        },
         {
           "fiscalYear": 2025,
           "type": "cash",
@@ -56701,6 +56861,16 @@
       "verified": false,
       "dividends": [
         {
+          "fiscalYear": 2026,
+          "type": "cash",
+          "amountPerShare": 0.04,
+          "currency": "KWD",
+          "exDate": "2026-06-08",
+          "paymentDate": null,
+          "bonusSharesPercent": null,
+          "agmDate": null
+        },
+        {
           "fiscalYear": 2025,
           "type": "cash",
           "amountPerShare": 0.05,
@@ -62600,7 +62770,7 @@
       "marketType": "Main Market",
       "isin": null,
       "lastClosePrice": 0.191,
-      "lastClosePriceDate": "2026-06-14",
+      "lastClosePriceDate": "2026-06-15",
       "verified": false,
       "dividends": [
         {
@@ -62625,11 +62795,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-02-02",
-          "c": 0.191,
-          "v": 0
-        },
         {
           "d": "2026-02-03",
           "c": 0.191,
@@ -63072,6 +63237,11 @@
         },
         {
           "d": "2026-06-14",
+          "c": 0.191,
+          "v": 0
+        },
+        {
+          "d": "2026-06-15",
           "c": 0.191,
           "v": 0
         }
@@ -66189,6 +66359,16 @@
       "verified": false,
       "dividends": [
         {
+          "fiscalYear": 2026,
+          "type": "stock",
+          "amountPerShare": 0,
+          "currency": "KWD",
+          "exDate": "2026-06-10",
+          "paymentDate": null,
+          "bonusSharesPercent": 5,
+          "agmDate": null
+        },
+        {
           "fiscalYear": 2025,
           "type": "stock",
           "amountPerShare": 0,
@@ -68441,6 +68621,16 @@
       "lastClosePriceDate": "2026-06-15",
       "verified": false,
       "dividends": [
+        {
+          "fiscalYear": 2026,
+          "type": "cash",
+          "amountPerShare": 0.015,
+          "currency": "KWD",
+          "exDate": "2026-06-09",
+          "paymentDate": null,
+          "bonusSharesPercent": null,
+          "agmDate": null
+        },
         {
           "fiscalYear": 2025,
           "type": "cash",
@@ -76668,6 +76858,16 @@
       "lastClosePriceDate": "2026-06-15",
       "verified": false,
       "dividends": [
+        {
+          "fiscalYear": 2026,
+          "type": "cash",
+          "amountPerShare": 0.005,
+          "currency": "KWD",
+          "exDate": "2026-06-15",
+          "paymentDate": null,
+          "bonusSharesPercent": null,
+          "agmDate": null
+        },
         {
           "fiscalYear": 2025,
           "type": "cash",
@@ -86044,6 +86244,26 @@
       "verified": false,
       "dividends": [
         {
+          "fiscalYear": 2026,
+          "type": "cash",
+          "amountPerShare": 0.0035,
+          "currency": "KWD",
+          "exDate": "2026-06-10",
+          "paymentDate": null,
+          "bonusSharesPercent": null,
+          "agmDate": null
+        },
+        {
+          "fiscalYear": 2026,
+          "type": "stock",
+          "amountPerShare": 0,
+          "currency": "KWD",
+          "exDate": "2026-06-10",
+          "paymentDate": null,
+          "bonusSharesPercent": 2,
+          "agmDate": null
+        },
+        {
           "fiscalYear": 2025,
           "type": "cash",
           "amountPerShare": 0.003,
@@ -90601,8 +90821,8 @@
       "sector": "Basic Materials",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.211,
-      "lastClosePriceDate": "2026-06-14",
+      "lastClosePrice": 0.205,
+      "lastClosePriceDate": "2026-06-15",
       "verified": false,
       "dividends": [
         {
@@ -90737,11 +90957,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-02-02",
-          "c": 0.207,
-          "v": 56728
-        },
         {
           "d": "2026-02-03",
           "c": 0.207,
@@ -91186,6 +91401,11 @@
           "d": "2026-06-14",
           "c": 0.211,
           "v": 77294
+        },
+        {
+          "d": "2026-06-15",
+          "c": 0.205,
+          "v": 93480
         }
       ],
       "hasFullHistory": true,
@@ -96436,6 +96656,16 @@
       "lastClosePriceDate": "2026-06-15",
       "verified": false,
       "dividends": [
+        {
+          "fiscalYear": 2026,
+          "type": "cash",
+          "amountPerShare": 0.005,
+          "currency": "KWD",
+          "exDate": "2026-06-04",
+          "paymentDate": null,
+          "bonusSharesPercent": null,
+          "agmDate": null
+        },
         {
           "fiscalYear": 2020,
           "type": "cash",
@@ -104305,7 +104535,7 @@
       "marketType": "Auction Market",
       "isin": null,
       "lastClosePrice": 0.104,
-      "lastClosePriceDate": "2026-06-14",
+      "lastClosePriceDate": "2026-06-15",
       "verified": false,
       "dividends": [
         {
@@ -104370,11 +104600,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-02-02",
-          "c": 0.112,
-          "v": 1490510
-        },
         {
           "d": "2026-02-03",
           "c": 0.11,
@@ -104819,6 +105044,11 @@
           "d": "2026-06-14",
           "c": 0.104,
           "v": 0
+        },
+        {
+          "d": "2026-06-15",
+          "c": 0.104,
+          "v": 0
         }
       ],
       "hasFullHistory": true,
@@ -105025,15 +105255,10 @@
       "marketType": "Auction Market",
       "isin": null,
       "lastClosePrice": 0.0554,
-      "lastClosePriceDate": "2026-06-14",
+      "lastClosePriceDate": "2026-06-15",
       "verified": false,
       "dividends": [],
       "recentPrices": [
-        {
-          "d": "2026-02-02",
-          "c": 0.0554,
-          "v": 0
-        },
         {
           "d": "2026-02-03",
           "c": 0.0554,
@@ -105476,6 +105701,11 @@
         },
         {
           "d": "2026-06-14",
+          "c": 0.0554,
+          "v": 0
+        },
+        {
+          "d": "2026-06-15",
           "c": 0.0554,
           "v": 0
         }
