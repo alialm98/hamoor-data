@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generatedAt": "2026-06-16T15:33:47.963410Z",
+    "generatedAt": "2026-06-21T12:31:00.534574Z",
     "source": "maqasa.com/en/dividend-distribution",
     "yearRange": [
       2016,
@@ -3282,6 +3282,16 @@
       }
     ],
     "URC": [
+      {
+        "fiscalYear": 2026,
+        "type": "stock",
+        "amountPerShare": 0,
+        "currency": "KWD",
+        "exDate": "2026-06-18",
+        "paymentDate": null,
+        "bonusSharesPercent": 3,
+        "agmDate": null
+      },
       {
         "fiscalYear": 2025,
         "type": "stock",
