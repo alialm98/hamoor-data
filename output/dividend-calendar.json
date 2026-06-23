@@ -1,39 +1,11 @@
 {
   "_meta": {
-    "generatedAt": "2026-06-21T12:31:00.597437Z",
+    "generatedAt": "2026-06-23T13:26:17.708525Z",
     "source": "maqasa.com (derived from dividends.json)",
-    "eventCount": 4,
+    "eventCount": 2,
     "lookbackDays": 7
   },
   "events": [
-    {
-      "ticker": "KPROJ",
-      "nameEn": "Kuwait Projects Company Holding",
-      "nameAr": "مشاريع الكويت القابضة",
-      "tickerNumber": "205",
-      "sector": "Financial Services",
-      "cumDate": "2026-06-11",
-      "exDate": "2026-06-14",
-      "recordDate": null,
-      "paymentDate": null,
-      "amountPerShare": 0,
-      "currency": "KWD",
-      "type": "stock"
-    },
-    {
-      "ticker": "TIJARA",
-      "nameEn": "Tijara & Real Estate Investment Company",
-      "nameAr": "التجارة والاستثمار العقاري",
-      "tickerNumber": "427",
-      "sector": "Real Estate",
-      "cumDate": "2026-06-14",
-      "exDate": "2026-06-15",
-      "recordDate": null,
-      "paymentDate": null,
-      "amountPerShare": 0.005,
-      "currency": "KWD",
-      "type": "cash"
-    },
     {
       "ticker": "SOOR",
       "nameEn": "Al Soor Fuel Marketing Company",
