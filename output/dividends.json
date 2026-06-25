@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generatedAt": "2026-06-23T13:26:17.644156Z",
+    "generatedAt": "2026-06-25T12:44:05.546738Z",
     "source": "maqasa.com/en/dividend-distribution",
     "yearRange": [
       2016,
@@ -2968,6 +2968,16 @@
       }
     ],
     "KRE": [
+      {
+        "fiscalYear": 2026,
+        "type": "stock",
+        "amountPerShare": 0,
+        "currency": "KWD",
+        "exDate": "2026-06-25",
+        "paymentDate": null,
+        "bonusSharesPercent": 6,
+        "agmDate": null
+      },
       {
         "fiscalYear": 2026,
         "type": "cash",

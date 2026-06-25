@@ -1,25 +1,11 @@
 {
   "_meta": {
-    "generatedAt": "2026-06-23T13:26:17.708525Z",
+    "generatedAt": "2026-06-25T12:44:05.610523Z",
     "source": "maqasa.com (derived from dividends.json)",
     "eventCount": 2,
     "lookbackDays": 7
   },
   "events": [
-    {
-      "ticker": "SOOR",
-      "nameEn": "Al Soor Fuel Marketing Company",
-      "nameAr": "السور لتسويق الوقود",
-      "tickerNumber": "655",
-      "sector": "Oil & Gas",
-      "cumDate": "2026-06-16",
-      "exDate": "2026-06-17",
-      "recordDate": null,
-      "paymentDate": null,
-      "amountPerShare": 0.007,
-      "currency": "KWD",
-      "type": "cash"
-    },
     {
       "ticker": "URC",
       "nameEn": "United Real Estate Company",
@@ -28,6 +14,20 @@
       "sector": "Real Estate",
       "cumDate": "2026-06-17",
       "exDate": "2026-06-18",
+      "recordDate": null,
+      "paymentDate": null,
+      "amountPerShare": 0,
+      "currency": "KWD",
+      "type": "stock"
+    },
+    {
+      "ticker": "KRE",
+      "nameEn": "Kuwait Real Estate Company",
+      "nameAr": "شركة عقارات الكويت",
+      "tickerNumber": "401",
+      "sector": "Real Estate",
+      "cumDate": "2026-06-24",
+      "exDate": "2026-06-25",
       "recordDate": null,
       "paymentDate": null,
       "amountPerShare": 0,
