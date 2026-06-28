@@ -1,25 +1,11 @@
 {
   "_meta": {
-    "generatedAt": "2026-06-25T12:44:05.610523Z",
+    "generatedAt": "2026-06-28T12:08:15.878325Z",
     "source": "maqasa.com (derived from dividends.json)",
-    "eventCount": 2,
+    "eventCount": 1,
     "lookbackDays": 7
   },
   "events": [
-    {
-      "ticker": "URC",
-      "nameEn": "United Real Estate Company",
-      "nameAr": "شركة العقارات المتحدة",
-      "tickerNumber": "402",
-      "sector": "Real Estate",
-      "cumDate": "2026-06-17",
-      "exDate": "2026-06-18",
-      "recordDate": null,
-      "paymentDate": null,
-      "amountPerShare": 0,
-      "currency": "KWD",
-      "type": "stock"
-    },
     {
       "ticker": "KRE",
       "nameEn": "Kuwait Real Estate Company",
