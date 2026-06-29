@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generatedAt": "2026-06-28T12:08:15.821944Z",
+    "generatedAt": "2026-06-29T14:39:08.246777Z",
     "source": "maqasa.com/en/dividend-distribution",
     "yearRange": [
       2016,
@@ -4383,6 +4383,16 @@
     ],
     "IFAHR": [
       {
+        "fiscalYear": 2026,
+        "type": "stock",
+        "amountPerShare": 0,
+        "currency": "KWD",
+        "exDate": "2026-06-29",
+        "paymentDate": null,
+        "bonusSharesPercent": 25,
+        "agmDate": null
+      },
+      {
         "fiscalYear": 2025,
         "type": "stock",
         "amountPerShare": 0,
@@ -4872,6 +4882,16 @@
       }
     ],
     "IFA": [
+      {
+        "fiscalYear": 2026,
+        "type": "stock",
+        "amountPerShare": 0,
+        "currency": "KWD",
+        "exDate": "2026-06-30",
+        "paymentDate": null,
+        "bonusSharesPercent": 10,
+        "agmDate": null
+      },
       {
         "fiscalYear": 2025,
         "type": "stock",
@@ -7976,6 +7996,16 @@
       }
     ],
     "ALSAFAT": [
+      {
+        "fiscalYear": 2026,
+        "type": "stock",
+        "amountPerShare": 0,
+        "currency": "KWD",
+        "exDate": "2026-06-29",
+        "paymentDate": null,
+        "bonusSharesPercent": 5,
+        "agmDate": null
+      },
       {
         "fiscalYear": 2025,
         "type": "cash",
