@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-01T12:27:26.517810+00:00",
+  "lastUpdated": "2026-07-01T13:22:55.139532+00:00",
   "currency": "KWD",
   "stockCount": 139,
   "stocks": [
@@ -71051,6 +71051,16 @@
       "lastClosePriceDate": "2026-07-01",
       "verified": false,
       "dividends": [
+        {
+          "fiscalYear": 2026,
+          "type": "cash",
+          "amountPerShare": 0.003,
+          "currency": "KWD",
+          "exDate": "2026-07-01",
+          "paymentDate": null,
+          "bonusSharesPercent": null,
+          "agmDate": null
+        },
         {
           "fiscalYear": 2019,
           "type": "cash",

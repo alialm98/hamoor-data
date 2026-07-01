@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generatedAt": "2026-06-30T12:35:10.939774Z",
+    "generatedAt": "2026-07-01T13:21:39.302652Z",
     "source": "maqasa.com/en/dividend-distribution",
     "yearRange": [
       2016,
@@ -9306,6 +9306,16 @@
       }
     ],
     "CLEANING": [
+      {
+        "fiscalYear": 2026,
+        "type": "cash",
+        "amountPerShare": 0.003,
+        "currency": "KWD",
+        "exDate": "2026-07-01",
+        "paymentDate": null,
+        "bonusSharesPercent": null,
+        "agmDate": null
+      },
       {
         "fiscalYear": 2019,
         "type": "cash",
