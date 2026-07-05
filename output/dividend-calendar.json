@@ -1,25 +1,11 @@
 {
   "_meta": {
-    "generatedAt": "2026-07-02T12:33:16.703254Z",
+    "generatedAt": "2026-07-05T11:59:42.141665Z",
     "source": "maqasa.com (derived from dividends.json)",
-    "eventCount": 7,
+    "eventCount": 6,
     "lookbackDays": 7
   },
   "events": [
-    {
-      "ticker": "KRE",
-      "nameEn": "Kuwait Real Estate Company",
-      "nameAr": "شركة عقارات الكويت",
-      "tickerNumber": "401",
-      "sector": "Real Estate",
-      "cumDate": "2026-06-24",
-      "exDate": "2026-06-25",
-      "recordDate": null,
-      "paymentDate": null,
-      "amountPerShare": 0,
-      "currency": "KWD",
-      "type": "stock"
-    },
     {
       "ticker": "ALSAFAT",
       "nameEn": "Al Safat Investment Company",
