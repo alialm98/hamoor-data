@@ -1,8 +1,8 @@
 {
   "_meta": {
-    "generatedAt": "2026-07-05T11:59:42.141665Z",
+    "generatedAt": "2026-07-06T14:11:34.825121Z",
     "source": "maqasa.com (derived from dividends.json)",
-    "eventCount": 6,
+    "eventCount": 7,
     "lookbackDays": 7
   },
   "events": [
@@ -84,6 +84,20 @@
       "sector": "Industrials",
       "cumDate": "2026-07-01",
       "exDate": "2026-07-02",
+      "recordDate": null,
+      "paymentDate": null,
+      "amountPerShare": 0,
+      "currency": "KWD",
+      "type": "stock"
+    },
+    {
+      "ticker": "BAYANINV",
+      "nameEn": "Bayan Investment Holding Company",
+      "nameAr": "شركة بيان للاستثمار القابضة",
+      "tickerNumber": "223",
+      "sector": "Financial Services",
+      "cumDate": "2026-07-05",
+      "exDate": "2026-07-06",
       "recordDate": null,
       "paymentDate": null,
       "amountPerShare": 0,
