@@ -1,39 +1,11 @@
 {
   "_meta": {
-    "generatedAt": "2026-07-06T14:11:34.825121Z",
+    "generatedAt": "2026-07-07T12:47:29.049225Z",
     "source": "maqasa.com (derived from dividends.json)",
-    "eventCount": 7,
+    "eventCount": 5,
     "lookbackDays": 7
   },
   "events": [
-    {
-      "ticker": "ALSAFAT",
-      "nameEn": "Al Safat Investment Company",
-      "nameAr": "شركة الصفاة للاستثمار",
-      "tickerNumber": "235",
-      "sector": "Financial Services",
-      "cumDate": "2026-06-28",
-      "exDate": "2026-06-29",
-      "recordDate": null,
-      "paymentDate": null,
-      "amountPerShare": 0,
-      "currency": "KWD",
-      "type": "stock"
-    },
-    {
-      "ticker": "IFAHR",
-      "nameEn": "IFA Hotels and Resorts",
-      "nameAr": "ايفا للفنادق والمنتجعات",
-      "tickerNumber": "634",
-      "sector": "Consumer Discretionary",
-      "cumDate": "2026-06-28",
-      "exDate": "2026-06-29",
-      "recordDate": null,
-      "paymentDate": null,
-      "amountPerShare": 0,
-      "currency": "KWD",
-      "type": "stock"
-    },
     {
       "ticker": "IFA",
       "nameEn": "International Financial Advisors Holding",
