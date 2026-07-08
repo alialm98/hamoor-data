@@ -1,25 +1,11 @@
 {
   "_meta": {
-    "generatedAt": "2026-07-07T12:47:29.049225Z",
+    "generatedAt": "2026-07-08T12:10:20.528718Z",
     "source": "maqasa.com (derived from dividends.json)",
-    "eventCount": 5,
+    "eventCount": 4,
     "lookbackDays": 7
   },
   "events": [
-    {
-      "ticker": "IFA",
-      "nameEn": "International Financial Advisors Holding",
-      "nameAr": "الاستشارات المالية الدولية القابضة",
-      "tickerNumber": "203",
-      "sector": "Financial Services",
-      "cumDate": "2026-06-29",
-      "exDate": "2026-06-30",
-      "recordDate": null,
-      "paymentDate": null,
-      "amountPerShare": 0,
-      "currency": "KWD",
-      "type": "stock"
-    },
     {
       "ticker": "CLEANING",
       "nameEn": "National Cleaning Company",
