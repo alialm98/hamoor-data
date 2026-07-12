@@ -1,39 +1,11 @@
 {
   "_meta": {
-    "generatedAt": "2026-07-09T13:33:52.044202Z",
+    "generatedAt": "2026-07-12T11:42:59.004137Z",
     "source": "maqasa.com (derived from dividends.json)",
-    "eventCount": 7,
+    "eventCount": 5,
     "lookbackDays": 7
   },
   "events": [
-    {
-      "ticker": "INTEGRATED",
-      "nameEn": "Integrated Holding Company",
-      "nameAr": "الشركة المتكاملة القابضة",
-      "tickerNumber": "824",
-      "sector": "Industrials",
-      "cumDate": "2026-07-01",
-      "exDate": "2026-07-02",
-      "recordDate": null,
-      "paymentDate": null,
-      "amountPerShare": 0.015,
-      "currency": "KWD",
-      "type": "cash"
-    },
-    {
-      "ticker": "INTEGRATED",
-      "nameEn": "Integrated Holding Company",
-      "nameAr": "الشركة المتكاملة القابضة",
-      "tickerNumber": "824",
-      "sector": "Industrials",
-      "cumDate": "2026-07-01",
-      "exDate": "2026-07-02",
-      "recordDate": null,
-      "paymentDate": null,
-      "amountPerShare": 0,
-      "currency": "KWD",
-      "type": "stock"
-    },
     {
       "ticker": "BAYANINV",
       "nameEn": "Bayan Investment Holding Company",
