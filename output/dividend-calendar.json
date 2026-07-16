@@ -1,8 +1,8 @@
 {
   "_meta": {
-    "generatedAt": "2026-07-15T12:03:52.547330Z",
+    "generatedAt": "2026-07-16T12:05:55.496779Z",
     "source": "maqasa.com (derived from dividends.json)",
-    "eventCount": 6,
+    "eventCount": 9,
     "lookbackDays": 7
   },
   "events": [
@@ -89,6 +89,48 @@
       "amountPerShare": 0,
       "currency": "KWD",
       "type": "stock"
+    },
+    {
+      "ticker": "BPCC",
+      "nameEn": "Boubyan Petrochemical Company",
+      "nameAr": "بوبيان للبتروكيماويات",
+      "tickerNumber": "514",
+      "sector": "Basic Materials",
+      "cumDate": "2026-07-15",
+      "exDate": "2026-07-16",
+      "recordDate": null,
+      "paymentDate": null,
+      "amountPerShare": 0.025,
+      "currency": "KWD",
+      "type": "cash"
+    },
+    {
+      "ticker": "BPCC",
+      "nameEn": "Boubyan Petrochemical Company",
+      "nameAr": "بوبيان للبتروكيماويات",
+      "tickerNumber": "514",
+      "sector": "Basic Materials",
+      "cumDate": "2026-07-15",
+      "exDate": "2026-07-16",
+      "recordDate": null,
+      "paymentDate": null,
+      "amountPerShare": 0,
+      "currency": "KWD",
+      "type": "stock"
+    },
+    {
+      "ticker": "OULAFUEL",
+      "nameEn": "Oula Fuel Marketing Company",
+      "nameAr": "الأولى للتسويق المحلي للوقود",
+      "tickerNumber": "645",
+      "sector": "Oil & Gas",
+      "cumDate": "2026-07-15",
+      "exDate": "2026-07-16",
+      "recordDate": null,
+      "paymentDate": null,
+      "amountPerShare": 0.008,
+      "currency": "KWD",
+      "type": "cash"
     }
   ]
 }

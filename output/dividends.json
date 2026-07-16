@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generatedAt": "2026-07-15T12:03:52.481822Z",
+    "generatedAt": "2026-07-16T12:05:55.428634Z",
     "source": "maqasa.com/en/dividend-distribution",
     "yearRange": [
       2016,
@@ -3903,6 +3903,26 @@
     ],
     "BPCC": [
       {
+        "fiscalYear": 2026,
+        "type": "cash",
+        "amountPerShare": 0.025,
+        "currency": "KWD",
+        "exDate": "2026-07-16",
+        "paymentDate": null,
+        "bonusSharesPercent": null,
+        "agmDate": null
+      },
+      {
+        "fiscalYear": 2026,
+        "type": "stock",
+        "amountPerShare": 0,
+        "currency": "KWD",
+        "exDate": "2026-07-16",
+        "paymentDate": null,
+        "bonusSharesPercent": 5,
+        "agmDate": null
+      },
+      {
         "fiscalYear": 2025,
         "type": "cash",
         "amountPerShare": 0.04,
@@ -7236,6 +7256,16 @@
       }
     ],
     "OULAFUEL": [
+      {
+        "fiscalYear": 2026,
+        "type": "cash",
+        "amountPerShare": 0.008,
+        "currency": "KWD",
+        "exDate": "2026-07-16",
+        "paymentDate": null,
+        "bonusSharesPercent": null,
+        "agmDate": null
+      },
       {
         "fiscalYear": 2025,
         "type": "cash",
