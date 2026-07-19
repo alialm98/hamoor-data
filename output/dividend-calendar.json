@@ -1,53 +1,11 @@
 {
   "_meta": {
-    "generatedAt": "2026-07-16T12:05:55.496779Z",
+    "generatedAt": "2026-07-19T11:41:34.815869Z",
     "source": "maqasa.com (derived from dividends.json)",
-    "eventCount": 9,
+    "eventCount": 6,
     "lookbackDays": 7
   },
   "events": [
-    {
-      "ticker": "JTC",
-      "nameEn": "JTC Logistics Transportation & Stevedoring Co.",
-      "nameAr": "شركة جاسم للنقليات والمناولة",
-      "tickerNumber": "829",
-      "sector": "Transportation",
-      "cumDate": "2026-07-08",
-      "exDate": "2026-07-09",
-      "recordDate": null,
-      "paymentDate": null,
-      "amountPerShare": 0.028,
-      "currency": "KWD",
-      "type": "cash"
-    },
-    {
-      "ticker": "JTC",
-      "nameEn": "JTC Logistics Transportation & Stevedoring Co.",
-      "nameAr": "شركة جاسم للنقليات والمناولة",
-      "tickerNumber": "829",
-      "sector": "Transportation",
-      "cumDate": "2026-07-08",
-      "exDate": "2026-07-09",
-      "recordDate": null,
-      "paymentDate": null,
-      "amountPerShare": 0,
-      "currency": "KWD",
-      "type": "stock"
-    },
-    {
-      "ticker": "NRE",
-      "nameEn": "National Real Estate Company",
-      "nameAr": "الشركة الوطنية العقارية",
-      "tickerNumber": "403",
-      "sector": "Real Estate",
-      "cumDate": "2026-07-08",
-      "exDate": "2026-07-09",
-      "recordDate": null,
-      "paymentDate": null,
-      "amountPerShare": 0.0015,
-      "currency": "KWD",
-      "type": "cash"
-    },
     {
       "ticker": "NRE",
       "nameEn": "National Real Estate Company",
