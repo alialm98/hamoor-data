@@ -1,25 +1,11 @@
 {
   "_meta": {
-    "generatedAt": "2026-07-19T11:41:34.815869Z",
+    "generatedAt": "2026-07-20T12:37:11.481028Z",
     "source": "maqasa.com (derived from dividends.json)",
-    "eventCount": 6,
+    "eventCount": 5,
     "lookbackDays": 7
   },
   "events": [
-    {
-      "ticker": "NRE",
-      "nameEn": "National Real Estate Company",
-      "nameAr": "الشركة الوطنية العقارية",
-      "tickerNumber": "403",
-      "sector": "Real Estate",
-      "cumDate": "2026-07-09",
-      "exDate": "2026-07-12",
-      "recordDate": null,
-      "paymentDate": null,
-      "amountPerShare": 0.00115,
-      "currency": "KWD",
-      "type": "cash_final"
-    },
     {
       "ticker": "NIH",
       "nameEn": "National International Holding Company",
