@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generatedAt": "2026-07-22T12:16:30.146299Z",
+    "generatedAt": "2026-07-23T12:14:47.956214Z",
     "source": "maqasa.com/en/dividend-distribution",
     "yearRange": [
       2016,
@@ -8851,6 +8851,16 @@
     ],
     "ALDEERA": [
       {
+        "fiscalYear": 2026,
+        "type": "stock",
+        "amountPerShare": 0,
+        "currency": "KWD",
+        "exDate": "2026-07-23",
+        "paymentDate": null,
+        "bonusSharesPercent": 20,
+        "agmDate": null
+      },
+      {
         "fiscalYear": 2025,
         "type": "cash",
         "amountPerShare": 0.005,
@@ -9926,6 +9936,16 @@
       }
     ],
     "ARGAN": [
+      {
+        "fiscalYear": 2026,
+        "type": "stock",
+        "amountPerShare": 0,
+        "currency": "KWD",
+        "exDate": "2026-07-23",
+        "paymentDate": null,
+        "bonusSharesPercent": 10,
+        "agmDate": null
+      },
       {
         "fiscalYear": 2025,
         "type": "stock",
