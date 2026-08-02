@@ -1,38 +1,9 @@
 {
   "_meta": {
-    "generatedAt": "2026-07-30T12:17:27.961414Z",
+    "generatedAt": "2026-08-02T11:47:28.259539Z",
     "source": "maqasa.com (derived from dividends.json)",
-    "eventCount": 2,
+    "eventCount": 0,
     "lookbackDays": 7
   },
-  "events": [
-    {
-      "ticker": "ALDEERA",
-      "nameEn": "Al-Deera Holding Company",
-      "nameAr": "الديرة القابضة",
-      "tickerNumber": "234",
-      "sector": "Real Estate",
-      "cumDate": "2026-07-22",
-      "exDate": "2026-07-23",
-      "recordDate": null,
-      "paymentDate": null,
-      "amountPerShare": 0,
-      "currency": "KWD",
-      "type": "stock"
-    },
-    {
-      "ticker": "ARGAN",
-      "nameEn": "Al Argan International Real Estate Company",
-      "nameAr": "الأرجان العالمية العقارية",
-      "tickerNumber": "431",
-      "sector": "Real Estate",
-      "cumDate": "2026-07-22",
-      "exDate": "2026-07-23",
-      "recordDate": null,
-      "paymentDate": null,
-      "amountPerShare": 0,
-      "currency": "KWD",
-      "type": "stock"
-    }
-  ]
+  "events": []
 }
