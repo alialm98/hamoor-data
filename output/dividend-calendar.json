@@ -1,9 +1,24 @@
 {
   "_meta": {
-    "generatedAt": "2026-08-12T11:28:02.425047Z",
+    "generatedAt": "2026-08-16T10:53:23.360525Z",
     "source": "maqasa.com (derived from dividends.json)",
-    "eventCount": 0,
+    "eventCount": 1,
     "lookbackDays": 7
   },
-  "events": []
+  "events": [
+    {
+      "ticker": "KFIC",
+      "nameEn": "KFIC Invest Company",
+      "nameAr": "شركة كفيك للاستثمار",
+      "tickerNumber": "227",
+      "sector": "Financial Services",
+      "cumDate": "2026-08-12",
+      "exDate": "2026-08-13",
+      "recordDate": null,
+      "paymentDate": null,
+      "amountPerShare": 0,
+      "currency": "KWD",
+      "type": "stock"
+    }
+  ]
 }

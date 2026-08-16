@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generatedAt": "2026-08-12T11:28:02.359384Z",
+    "generatedAt": "2026-08-16T10:53:23.297691Z",
     "source": "maqasa.com/en/dividend-distribution",
     "yearRange": [
       2016,
@@ -9654,6 +9654,16 @@
       }
     ],
     "KFIC": [
+      {
+        "fiscalYear": 2026,
+        "type": "stock",
+        "amountPerShare": 0,
+        "currency": "KWD",
+        "exDate": "2026-08-13",
+        "paymentDate": null,
+        "bonusSharesPercent": 4,
+        "agmDate": null
+      },
       {
         "fiscalYear": 2024,
         "type": "stock",
