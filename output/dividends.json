@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generatedAt": "2026-08-19T11:00:09.457115Z",
+    "generatedAt": "2026-08-20T11:02:33.551147Z",
     "source": "maqasa.com/en/dividend-distribution",
     "yearRange": [
       2016,
@@ -5250,6 +5250,16 @@
       }
     ],
     "AZNOULA": [
+      {
+        "fiscalYear": 2026,
+        "type": "cash",
+        "amountPerShare": 0.005,
+        "currency": "KWD",
+        "exDate": "2026-08-20",
+        "paymentDate": null,
+        "bonusSharesPercent": null,
+        "agmDate": null
+      },
       {
         "fiscalYear": 2025,
         "type": "cash_final",
