@@ -1,25 +1,11 @@
 {
   "_meta": {
-    "generatedAt": "2026-08-20T11:02:33.609066Z",
+    "generatedAt": "2026-08-23T10:54:36.027609Z",
     "source": "maqasa.com (derived from dividends.json)",
-    "eventCount": 3,
+    "eventCount": 2,
     "lookbackDays": 7
   },
   "events": [
-    {
-      "ticker": "KFIC",
-      "nameEn": "KFIC Invest Company",
-      "nameAr": "شركة كفيك للاستثمار",
-      "tickerNumber": "227",
-      "sector": "Financial Services",
-      "cumDate": "2026-08-12",
-      "exDate": "2026-08-13",
-      "recordDate": null,
-      "paymentDate": null,
-      "amountPerShare": 0,
-      "currency": "KWD",
-      "type": "stock"
-    },
     {
       "ticker": "KFH",
       "nameEn": "Kuwait Finance House",
