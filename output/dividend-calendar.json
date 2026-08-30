@@ -1,25 +1,11 @@
 {
   "_meta": {
-    "generatedAt": "2026-08-27T20:45:28.822141Z",
+    "generatedAt": "2026-08-30T14:59:42.574965Z",
     "source": "maqasa.com (derived from dividends.json)",
-    "eventCount": 4,
+    "eventCount": 3,
     "lookbackDays": 7
   },
   "events": [
-    {
-      "ticker": "AZNOULA",
-      "nameEn": "Shamal Az-Zour Al-Oula Power and Water Company",
-      "nameAr": "شركة شمال الزور الأولى للطاقة والمياه",
-      "tickerNumber": "826",
-      "sector": "Utilities",
-      "cumDate": "2026-08-19",
-      "exDate": "2026-08-20",
-      "recordDate": null,
-      "paymentDate": null,
-      "amountPerShare": 0.005,
-      "currency": "KWD",
-      "type": "cash"
-    },
     {
       "ticker": "KUWAITRE",
       "nameEn": "Kuwait Reinsurance Company",
