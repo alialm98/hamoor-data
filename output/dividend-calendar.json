@@ -1,25 +1,11 @@
 {
   "_meta": {
-    "generatedAt": "2026-08-31T17:45:55.110715Z",
+    "generatedAt": "2026-09-01T15:09:21.540665Z",
     "source": "maqasa.com (derived from dividends.json)",
-    "eventCount": 3,
+    "eventCount": 2,
     "lookbackDays": 7
   },
   "events": [
-    {
-      "ticker": "KUWAITRE",
-      "nameEn": "Kuwait Reinsurance Company",
-      "nameAr": "إعادة التأمين الكويتية",
-      "tickerNumber": "305",
-      "sector": "Insurance",
-      "cumDate": "2026-08-23",
-      "exDate": "2026-08-24",
-      "recordDate": null,
-      "paymentDate": null,
-      "amountPerShare": 0.005,
-      "currency": "KWD",
-      "type": "cash_final"
-    },
     {
       "ticker": "CBK",
       "nameEn": "Commercial Bank of Kuwait",
