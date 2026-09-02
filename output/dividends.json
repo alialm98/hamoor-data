@@ -1,12 +1,12 @@
 {
   "_meta": {
-    "generatedAt": "2026-09-01T15:09:21.472557Z",
+    "generatedAt": "2026-09-02T14:42:38.101147Z",
     "source": "maqasa.com/en/dividend-distribution",
     "yearRange": [
       2016,
       2026
     ],
-    "matched": 116
+    "matched": 117
   },
   "dividendsByTicker": {
     "KFH": [
@@ -8718,6 +8718,18 @@
         "exDate": "2017-10-01",
         "paymentDate": null,
         "bonusSharesPercent": 5,
+        "agmDate": null
+      }
+    ],
+    "RASIYAT": [
+      {
+        "fiscalYear": 2026,
+        "type": "cash",
+        "amountPerShare": 0.01,
+        "currency": "KWD",
+        "exDate": "2026-09-03",
+        "paymentDate": null,
+        "bonusSharesPercent": null,
         "agmDate": null
       }
     ],
