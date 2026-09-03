@@ -1,25 +1,11 @@
 {
   "_meta": {
-    "generatedAt": "2026-09-02T14:42:38.166794Z",
+    "generatedAt": "2026-09-03T14:47:00.773912Z",
     "source": "maqasa.com (derived from dividends.json)",
-    "eventCount": 3,
+    "eventCount": 2,
     "lookbackDays": 7
   },
   "events": [
-    {
-      "ticker": "CBK",
-      "nameEn": "Commercial Bank of Kuwait",
-      "nameAr": "البنك التجاري الكويتي",
-      "tickerNumber": "103",
-      "sector": "Banks",
-      "cumDate": "2026-08-25",
-      "exDate": "2026-08-26",
-      "recordDate": null,
-      "paymentDate": null,
-      "amountPerShare": 0.012,
-      "currency": "KWD",
-      "type": "cash_final"
-    },
     {
       "ticker": "ALG",
       "nameEn": "Ali Al-Ghanim Sons Automotive Company",
