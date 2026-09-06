@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generatedAt": "2026-09-03T14:47:00.709589Z",
+    "generatedAt": "2026-09-06T13:50:09.808478Z",
     "source": "maqasa.com/en/dividend-distribution",
     "yearRange": [
       2016,
@@ -9500,6 +9500,16 @@
       }
     ],
     "MAZAYA": [
+      {
+        "fiscalYear": 2026,
+        "type": "stock",
+        "amountPerShare": 0,
+        "currency": "KWD",
+        "exDate": "2026-09-07",
+        "paymentDate": null,
+        "bonusSharesPercent": 2,
+        "agmDate": null
+      },
       {
         "fiscalYear": 2026,
         "type": "stock",
