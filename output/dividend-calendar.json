@@ -1,25 +1,11 @@
 {
   "_meta": {
-    "generatedAt": "2026-09-10T14:39:59.326891Z",
+    "generatedAt": "2026-09-13T14:38:44.487751Z",
     "source": "maqasa.com (derived from dividends.json)",
-    "eventCount": 2,
+    "eventCount": 1,
     "lookbackDays": 7
   },
   "events": [
-    {
-      "ticker": "RASIYAT",
-      "nameEn": "Rasiyat Holding Company",
-      "nameAr": "شركة راسيات القابضة",
-      "tickerNumber": "249",
-      "sector": "Financial Services",
-      "cumDate": "2026-09-02",
-      "exDate": "2026-09-03",
-      "recordDate": null,
-      "paymentDate": null,
-      "amountPerShare": 0.01,
-      "currency": "KWD",
-      "type": "cash"
-    },
     {
       "ticker": "MAZAYA",
       "nameEn": "Al-Mazaya Holding Company",
