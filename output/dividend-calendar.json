@@ -1,24 +1,9 @@
 {
   "_meta": {
-    "generatedAt": "2026-09-14T16:32:33.939582Z",
+    "generatedAt": "2026-09-15T15:16:17.269045Z",
     "source": "maqasa.com (derived from dividends.json)",
-    "eventCount": 1,
+    "eventCount": 0,
     "lookbackDays": 7
   },
-  "events": [
-    {
-      "ticker": "MAZAYA",
-      "nameEn": "Al-Mazaya Holding Company",
-      "nameAr": "المزايا القابضة",
-      "tickerNumber": "423",
-      "sector": "Real Estate",
-      "cumDate": "2026-09-06",
-      "exDate": "2026-09-07",
-      "recordDate": null,
-      "paymentDate": null,
-      "amountPerShare": 0,
-      "currency": "KWD",
-      "type": "stock"
-    }
-  ]
+  "events": []
 }
