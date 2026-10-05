@@ -1,9 +1,24 @@
 {
   "_meta": {
-    "generatedAt": "2026-10-04T15:32:51.096566Z",
+    "generatedAt": "2026-10-05T19:36:26.904354Z",
     "source": "maqasa.com (derived from dividends.json)",
-    "eventCount": 0,
+    "eventCount": 1,
     "lookbackDays": 7
   },
-  "events": []
+  "events": [
+    {
+      "ticker": "ZAIN",
+      "nameEn": "Mobile Telecommunications Company",
+      "nameAr": "شركة الاتصالات المتنقلة (زين)",
+      "tickerNumber": "605",
+      "sector": "Telecommunications",
+      "cumDate": "2026-10-05",
+      "exDate": "2026-10-06",
+      "recordDate": null,
+      "paymentDate": null,
+      "amountPerShare": 0.017,
+      "currency": "KWD",
+      "type": "cash"
+    }
+  ]
 }
