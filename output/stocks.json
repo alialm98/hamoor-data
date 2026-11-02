@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-01T16:58:39.076298+00:00",
+  "lastUpdated": "2026-11-02T16:26:10.604241+00:00",
   "currency": "KWD",
   "stockCount": 139,
   "stocks": [
@@ -13,7 +13,7 @@
       "marketType": "Premier Market",
       "isin": null,
       "lastClosePrice": 0.744,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -278,11 +278,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.773,
-          "v": 7786122
-        },
         {
           "d": "2026-06-30",
           "c": 0.767,
@@ -727,6 +722,11 @@
           "d": "2026-11-01",
           "c": 0.744,
           "v": 6526001
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.744,
+          "v": 9180789
         }
       ],
       "hasFullHistory": true,
@@ -964,7 +964,7 @@
       "marketType": "Premier Market",
       "isin": null,
       "lastClosePrice": 0.84,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -1219,11 +1219,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.809,
-          "v": 5292510
-        },
         {
           "d": "2026-06-30",
           "c": 0.806,
@@ -1668,6 +1663,11 @@
           "d": "2026-11-01",
           "c": 0.84,
           "v": 1336196
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.84,
+          "v": 5399340
         }
       ],
       "hasFullHistory": true,
@@ -1904,8 +1904,8 @@
       "sector": "Banks",
       "marketType": "Premier Market",
       "isin": null,
-      "lastClosePrice": 0.647,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.645,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -2120,11 +2120,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.639,
-          "v": 934017
-        },
         {
           "d": "2026-06-30",
           "c": 0.634,
@@ -2569,6 +2564,11 @@
           "d": "2026-11-01",
           "c": 0.647,
           "v": 1252846
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.645,
+          "v": 1183483
         }
       ],
       "hasFullHistory": true,
@@ -2805,8 +2805,8 @@
       "sector": "Telecommunications",
       "marketType": "Premier Market",
       "isin": null,
-      "lastClosePrice": 0.574,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.566,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -2981,11 +2981,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.606,
-          "v": 2131518
-        },
         {
           "d": "2026-06-30",
           "c": 0.61,
@@ -3430,6 +3425,11 @@
           "d": "2026-11-01",
           "c": 0.574,
           "v": 1389456
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.566,
+          "v": 3533446
         }
       ],
       "hasFullHistory": true,
@@ -3652,7 +3652,7 @@
       "marketType": "Premier Market",
       "isin": null,
       "lastClosePrice": 0.951,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -3877,11 +3877,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.93,
-          "v": 467554
-        },
         {
           "d": "2026-06-30",
           "c": 0.923,
@@ -4326,6 +4321,11 @@
           "d": "2026-11-01",
           "c": 0.951,
           "v": 84203
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.951,
+          "v": 612708
         }
       ],
       "hasFullHistory": true,
@@ -4562,8 +4562,8 @@
       "sector": "Banks",
       "marketType": "Premier Market",
       "isin": null,
-      "lastClosePrice": 0.255,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.253,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -4638,11 +4638,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.28,
-          "v": 4893074
-        },
         {
           "d": "2026-06-30",
           "c": 0.279,
@@ -5087,6 +5082,11 @@
           "d": "2026-11-01",
           "c": 0.255,
           "v": 3070260
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.253,
+          "v": 2307751
         }
       ],
       "hasFullHistory": true,
@@ -5315,8 +5315,8 @@
       "sector": "Banks",
       "marketType": "Premier Market",
       "isin": null,
-      "lastClosePrice": 0.327,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.325,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -5481,11 +5481,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.354,
-          "v": 3864559
-        },
         {
           "d": "2026-06-30",
           "c": 0.353,
@@ -5930,6 +5925,11 @@
           "d": "2026-11-01",
           "c": 0.327,
           "v": 1075265
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.325,
+          "v": 3728544
         }
       ],
       "hasFullHistory": true,
@@ -6166,8 +6166,8 @@
       "sector": "Banks",
       "marketType": "Premier Market",
       "isin": null,
-      "lastClosePrice": 0.505,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.519,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -6362,11 +6362,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.485,
-          "v": 2871716
-        },
         {
           "d": "2026-06-30",
           "c": 0.476,
@@ -6811,6 +6806,11 @@
           "d": "2026-11-01",
           "c": 0.505,
           "v": 14432
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.519,
+          "v": 1237462
         }
       ],
       "hasFullHistory": true,
@@ -7039,8 +7039,8 @@
       "sector": "Banks",
       "marketType": "Premier Market",
       "isin": null,
-      "lastClosePrice": 0.172,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.173,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -7245,11 +7245,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.185,
-          "v": 2664979
-        },
         {
           "d": "2026-06-30",
           "c": 0.184,
@@ -7694,6 +7689,11 @@
           "d": "2026-11-01",
           "c": 0.172,
           "v": 656605
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.173,
+          "v": 21502796
         }
       ],
       "hasFullHistory": true,
@@ -7922,8 +7922,8 @@
       "sector": "Banks",
       "marketType": "Premier Market",
       "isin": null,
-      "lastClosePrice": 0.287,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.261,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -8088,11 +8088,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.263,
-          "v": 960830
-        },
         {
           "d": "2026-06-30",
           "c": 0.26,
@@ -8535,8 +8530,13 @@
         },
         {
           "d": "2026-11-01",
-          "c": 0.287,
-          "v": 955384
+          "c": 0.2683,
+          "v": 1021790
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.261,
+          "v": 5161227
         }
       ],
       "hasFullHistory": true,
@@ -8773,8 +8773,8 @@
       "sector": "Telecommunications",
       "marketType": "Premier Market",
       "isin": null,
-      "lastClosePrice": 1.661,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 1.622,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -8889,11 +8889,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 1.821,
-          "v": 22813
-        },
         {
           "d": "2026-06-30",
           "c": 1.83,
@@ -9338,6 +9333,11 @@
           "d": "2026-11-01",
           "c": 1.661,
           "v": 45587
+        },
+        {
+          "d": "2026-11-02",
+          "c": 1.622,
+          "v": 5850
         }
       ],
       "hasFullHistory": true,
@@ -9566,8 +9566,8 @@
       "sector": "Telecommunications",
       "marketType": "Premier Market",
       "isin": null,
-      "lastClosePrice": 0.592,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.573,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -9682,11 +9682,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.66,
-          "v": 704773
-        },
         {
           "d": "2026-06-30",
           "c": 0.66,
@@ -10131,6 +10126,11 @@
           "d": "2026-11-01",
           "c": 0.592,
           "v": 93520
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.573,
+          "v": 3718831
         }
       ],
       "hasFullHistory": true,
@@ -10375,8 +10375,8 @@
       "sector": "Banks",
       "marketType": "Premier Market",
       "isin": null,
-      "lastClosePrice": 0.151,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.152,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -10531,11 +10531,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.177,
-          "v": 6197001
-        },
         {
           "d": "2026-06-30",
           "c": 0.178,
@@ -10980,6 +10975,11 @@
           "d": "2026-11-01",
           "c": 0.151,
           "v": 7994972
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.152,
+          "v": 6583107
         }
       ],
       "hasFullHistory": true,
@@ -11216,8 +11216,8 @@
       "sector": "Industrials",
       "marketType": "Premier Market",
       "isin": null,
-      "lastClosePrice": 0.205,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.202,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -11382,11 +11382,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.239,
-          "v": 6107265
-        },
         {
           "d": "2026-06-30",
           "c": 0.237,
@@ -11831,6 +11826,11 @@
           "d": "2026-11-01",
           "c": 0.205,
           "v": 4081597
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.202,
+          "v": 3317257
         }
       ],
       "hasFullHistory": true,
@@ -12067,8 +12067,8 @@
       "sector": "Financial Services",
       "marketType": "Premier Market",
       "isin": null,
-      "lastClosePrice": 2.689,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 2.697,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -12143,11 +12143,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 2.9,
-          "v": 163135
-        },
         {
           "d": "2026-06-30",
           "c": 2.897,
@@ -12592,6 +12587,11 @@
           "d": "2026-11-01",
           "c": 2.689,
           "v": 76665
+        },
+        {
+          "d": "2026-11-02",
+          "c": 2.697,
+          "v": 133677
         }
       ],
       "hasFullHistory": true,
@@ -12820,8 +12820,8 @@
       "sector": "Banks",
       "marketType": "Premier Market",
       "isin": null,
-      "lastClosePrice": 0.244,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.24,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -12996,11 +12996,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.258,
-          "v": 2445858
-        },
         {
           "d": "2026-06-30",
           "c": 0.259,
@@ -13445,6 +13440,11 @@
           "d": "2026-11-01",
           "c": 0.244,
           "v": 3027835
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.24,
+          "v": 5679872
         }
       ],
       "hasFullHistory": true,
@@ -13689,8 +13689,8 @@
       "sector": "Consumer Discretionary",
       "marketType": "Premier Market",
       "isin": null,
-      "lastClosePrice": 2.23,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 2.187,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -13815,11 +13815,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 2.42,
-          "v": 67166
-        },
         {
           "d": "2026-06-30",
           "c": 2.39,
@@ -14264,6 +14259,11 @@
           "d": "2026-11-01",
           "c": 2.23,
           "v": 55012
+        },
+        {
+          "d": "2026-11-02",
+          "c": 2.187,
+          "v": 142023
         }
       ],
       "hasFullHistory": true,
@@ -14484,8 +14484,8 @@
       "sector": "Transportation",
       "marketType": "Premier Market",
       "isin": null,
-      "lastClosePrice": 1.482,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 1.478,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -14600,11 +14600,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 1.79,
-          "v": 597078
-        },
         {
           "d": "2026-06-30",
           "c": 1.76,
@@ -15049,6 +15044,11 @@
           "d": "2026-11-01",
           "c": 1.482,
           "v": 17561
+        },
+        {
+          "d": "2026-11-02",
+          "c": 1.478,
+          "v": 1033140
         }
       ],
       "hasFullHistory": true,
@@ -15269,8 +15269,8 @@
       "sector": "Industrials",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 1.569,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 1.554,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -15335,11 +15335,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 1.803,
-          "v": 111173
-        },
         {
           "d": "2026-06-30",
           "c": 1.826,
@@ -15784,6 +15779,11 @@
           "d": "2026-11-01",
           "c": 1.569,
           "v": 23150
+        },
+        {
+          "d": "2026-11-02",
+          "c": 1.554,
+          "v": 192239
         }
       ],
       "hasFullHistory": true,
@@ -16013,7 +16013,7 @@
       "marketType": "Main Market",
       "isin": null,
       "lastClosePrice": 0.352,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -16238,11 +16238,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.349,
-          "v": 2129511
-        },
         {
           "d": "2026-06-30",
           "c": 0.35,
@@ -16687,6 +16682,11 @@
           "d": "2026-11-01",
           "c": 0.352,
           "v": 335850
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.352,
+          "v": 577223
         }
       ],
       "hasFullHistory": true,
@@ -16907,8 +16907,8 @@
       "sector": "Consumer Discretionary",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.878,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.871,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -17023,11 +17023,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.894,
-          "v": 458220
-        },
         {
           "d": "2026-06-30",
           "c": 0.882,
@@ -17472,6 +17467,11 @@
           "d": "2026-11-01",
           "c": 0.878,
           "v": 193929
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.871,
+          "v": 219399
         }
       ],
       "hasFullHistory": true,
@@ -17708,8 +17708,8 @@
       "sector": "Real Estate",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.224,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.214,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -17754,11 +17754,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.267,
-          "v": 867338
-        },
         {
           "d": "2026-06-30",
           "c": 0.266,
@@ -18203,6 +18198,11 @@
           "d": "2026-11-01",
           "c": 0.224,
           "v": 76046
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.214,
+          "v": 201522
         }
       ],
       "hasFullHistory": true,
@@ -18439,8 +18439,8 @@
       "sector": "Consumer Staples",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 1.085,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 1.09,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -18565,11 +18565,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 1.086,
-          "v": 939802
-        },
         {
           "d": "2026-06-30",
           "c": 1.064,
@@ -19014,6 +19009,11 @@
           "d": "2026-11-01",
           "c": 1.085,
           "v": 66821
+        },
+        {
+          "d": "2026-11-02",
+          "c": 1.09,
+          "v": 2791809
         }
       ],
       "hasFullHistory": true,
@@ -19250,8 +19250,8 @@
       "sector": "Financial Services",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.069,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.0679,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -19346,11 +19346,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.0783,
-          "v": 10251186
-        },
         {
           "d": "2026-06-30",
           "c": 0.0772,
@@ -19795,6 +19790,11 @@
           "d": "2026-11-01",
           "c": 0.069,
           "v": 888543
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.0679,
+          "v": 9508409
         }
       ],
       "hasFullHistory": true,
@@ -20032,7 +20032,7 @@
       "marketType": "Main Market",
       "isin": null,
       "lastClosePrice": 0.155,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -20217,11 +20217,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.195,
-          "v": 4644462
-        },
         {
           "d": "2026-06-30",
           "c": 0.194,
@@ -20666,6 +20661,11 @@
           "d": "2026-11-01",
           "c": 0.155,
           "v": 2503635
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.155,
+          "v": 2288108
         }
       ],
       "hasFullHistory": true,
@@ -20879,7 +20879,7 @@
       "marketType": "Main Market",
       "isin": null,
       "lastClosePrice": 0.153,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -21054,11 +21054,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.142,
-          "v": 4654529
-        },
         {
           "d": "2026-06-30",
           "c": 0.144,
@@ -21503,6 +21498,11 @@
           "d": "2026-11-01",
           "c": 0.153,
           "v": 25611542
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.153,
+          "v": 49506114
         }
       ],
       "hasFullHistory": true,
@@ -21739,8 +21739,8 @@
       "sector": "Basic Materials",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.68,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.675,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -21865,11 +21865,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.697,
-          "v": 1954607
-        },
         {
           "d": "2026-06-30",
           "c": 0.694,
@@ -22314,6 +22309,11 @@
           "d": "2026-11-01",
           "c": 0.68,
           "v": 111282
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.675,
+          "v": 2337632
         }
       ],
       "hasFullHistory": true,
@@ -22550,8 +22550,8 @@
       "sector": "Financial Services",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.272,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.27,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -22656,11 +22656,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.342,
-          "v": 345702
-        },
         {
           "d": "2026-06-30",
           "c": 0.346,
@@ -23105,6 +23100,11 @@
           "d": "2026-11-01",
           "c": 0.272,
           "v": 523267
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.27,
+          "v": 1318662
         }
       ],
       "hasFullHistory": true,
@@ -23341,8 +23341,8 @@
       "sector": "Basic Materials",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.301,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.296,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -23417,11 +23417,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.44,
-          "v": 476255
-        },
         {
           "d": "2026-06-30",
           "c": 0.435,
@@ -23866,6 +23861,11 @@
           "d": "2026-11-01",
           "c": 0.301,
           "v": 1247323
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.296,
+          "v": 46262
         }
       ],
       "hasFullHistory": true,
@@ -24087,7 +24087,7 @@
       "marketType": "Main Market",
       "isin": null,
       "lastClosePrice": 1.2,
-      "lastClosePriceDate": "2026-10-29",
+      "lastClosePriceDate": "2026-11-01",
       "verified": false,
       "dividends": [
         {
@@ -24202,11 +24202,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-28",
-          "c": 1.31,
-          "v": 0
-        },
         {
           "d": "2026-06-29",
           "c": 1.31,
@@ -24651,6 +24646,11 @@
           "d": "2026-10-29",
           "c": 1.2,
           "v": 0
+        },
+        {
+          "d": "2026-11-01",
+          "c": 1.2,
+          "v": 0
         }
       ],
       "hasFullHistory": true,
@@ -24887,8 +24887,8 @@
       "sector": "Industrials",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.196,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.197,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -24983,11 +24983,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.205,
-          "v": 437000
-        },
         {
           "d": "2026-06-30",
           "c": 0.202,
@@ -25432,6 +25427,11 @@
           "d": "2026-11-01",
           "c": 0.196,
           "v": 76270
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.197,
+          "v": 9995
         }
       ],
       "hasFullHistory": true,
@@ -25660,8 +25660,8 @@
       "sector": "Consumer Discretionary",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.547,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.53,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -25696,11 +25696,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.647,
-          "v": 1165457
-        },
         {
           "d": "2026-06-30",
           "c": 0.635,
@@ -26145,6 +26140,11 @@
           "d": "2026-11-01",
           "c": 0.547,
           "v": 201960
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.53,
+          "v": 528722
         }
       ],
       "hasFullHistory": true,
@@ -26381,8 +26381,8 @@
       "sector": "Real Estate",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.342,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.337,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -26537,11 +26537,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.404,
-          "v": 1462672
-        },
         {
           "d": "2026-06-30",
           "c": 0.396,
@@ -26985,7 +26980,12 @@
         {
           "d": "2026-11-01",
           "c": 0.342,
-          "v": 59442
+          "v": 72436
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.337,
+          "v": 119210
         }
       ],
       "hasFullHistory": true,
@@ -27222,16 +27222,11 @@
       "sector": "Consumer Discretionary",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.86,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.859,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.91,
-          "v": 271871
-        },
         {
           "d": "2026-06-30",
           "c": 0.91,
@@ -27676,6 +27671,11 @@
           "d": "2026-11-01",
           "c": 0.86,
           "v": 4183
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.859,
+          "v": 1161394
         }
       ],
       "hasFullHistory": true,
@@ -27745,8 +27745,8 @@
       "sector": "Insurance",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 1.33,
-      "lastClosePriceDate": "2026-10-29",
+      "lastClosePrice": 1.264,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -27861,16 +27861,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-28",
-          "c": 1.399,
-          "v": 97589
-        },
-        {
-          "d": "2026-06-29",
-          "c": 1.399,
-          "v": 0
-        },
         {
           "d": "2026-06-30",
           "c": 2.1,
@@ -28310,6 +28300,16 @@
           "d": "2026-10-29",
           "c": 1.33,
           "v": 460
+        },
+        {
+          "d": "2026-11-01",
+          "c": 1.33,
+          "v": 0
+        },
+        {
+          "d": "2026-11-02",
+          "c": 1.264,
+          "v": 25
         }
       ],
       "hasFullHistory": true,
@@ -28546,8 +28546,8 @@
       "sector": "Financial Services",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.236,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.239,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -28652,11 +28652,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.27,
-          "v": 332793
-        },
         {
           "d": "2026-06-30",
           "c": 0.263,
@@ -29101,6 +29096,11 @@
           "d": "2026-11-01",
           "c": 0.236,
           "v": 946694
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.239,
+          "v": 4280824
         }
       ],
       "hasFullHistory": true,
@@ -29329,8 +29329,8 @@
       "sector": "Financial Services",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.451,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.439,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -29435,11 +29435,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.407,
-          "v": 829818
-        },
         {
           "d": "2026-06-30",
           "c": 0.41,
@@ -29884,6 +29879,11 @@
           "d": "2026-11-01",
           "c": 0.451,
           "v": 56940
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.439,
+          "v": 209156
         }
       ],
       "hasFullHistory": true,
@@ -30112,8 +30112,8 @@
       "sector": "Financial Services",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.426,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.415,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -30148,11 +30148,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.378,
-          "v": 3684914
-        },
         {
           "d": "2026-06-30",
           "c": 0.369,
@@ -30597,6 +30592,11 @@
           "d": "2026-11-01",
           "c": 0.426,
           "v": 7173628
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.415,
+          "v": 8732992
         }
       ],
       "hasFullHistory": true,
@@ -31626,8 +31626,8 @@
       "sector": "Insurance",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.736,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.739,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -31752,11 +31752,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.794,
-          "v": 205821
-        },
         {
           "d": "2026-06-30",
           "c": 0.87,
@@ -32201,6 +32196,11 @@
           "d": "2026-11-01",
           "c": 0.736,
           "v": 705
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.739,
+          "v": 1000
         }
       ],
       "hasFullHistory": true,
@@ -32429,16 +32429,11 @@
       "sector": "Financial Services",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.33,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.315,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.547,
-          "v": 2554144
-        },
         {
           "d": "2026-06-30",
           "c": 0.562,
@@ -32883,6 +32878,11 @@
           "d": "2026-11-01",
           "c": 0.33,
           "v": 271421
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.315,
+          "v": 873392
         }
       ],
       "hasFullHistory": true,
@@ -33119,8 +33119,8 @@
       "sector": "Health Care",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.825,
-      "lastClosePriceDate": "2026-10-29",
+      "lastClosePrice": 0.907,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -33195,16 +33195,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-28",
-          "c": 1.005,
-          "v": 11589
-        },
-        {
-          "d": "2026-06-29",
-          "c": 0.984,
-          "v": 13841
-        },
         {
           "d": "2026-06-30",
           "c": 0.936,
@@ -33644,6 +33634,16 @@
           "d": "2026-10-29",
           "c": 0.825,
           "v": 0
+        },
+        {
+          "d": "2026-11-01",
+          "c": 0.825,
+          "v": 0
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.907,
+          "v": 500
         }
       ],
       "hasFullHistory": true,
@@ -33880,8 +33880,8 @@
       "sector": "Utilities",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.129,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.127,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -34046,11 +34046,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.142,
-          "v": 888177
-        },
         {
           "d": "2026-06-30",
           "c": 0.143,
@@ -34495,6 +34490,11 @@
           "d": "2026-11-01",
           "c": 0.129,
           "v": 609542
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.127,
+          "v": 581198
         }
       ],
       "hasFullHistory": true,
@@ -34723,16 +34723,11 @@
       "sector": "Oil & Gas",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.244,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.243,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.273,
-          "v": 2176764
-        },
         {
           "d": "2026-06-30",
           "c": 0.267,
@@ -35177,6 +35172,11 @@
           "d": "2026-11-01",
           "c": 0.244,
           "v": 675958
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.243,
+          "v": 1847411
         }
       ],
       "hasFullHistory": true,
@@ -35312,8 +35312,8 @@
       "sector": "Financial Services",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.233,
-      "lastClosePriceDate": "2026-10-29",
+      "lastClosePrice": 0.235,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -35438,16 +35438,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-28",
-          "c": 0.275,
-          "v": 0
-        },
-        {
-          "d": "2026-06-29",
-          "c": 0.28,
-          "v": 23635
-        },
         {
           "d": "2026-06-30",
           "c": 0.27,
@@ -35887,6 +35877,16 @@
           "d": "2026-10-29",
           "c": 0.233,
           "v": 140573
+        },
+        {
+          "d": "2026-11-01",
+          "c": 0.233,
+          "v": 0
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.235,
+          "v": 58657
         }
       ],
       "hasFullHistory": true,
@@ -36108,8 +36108,8 @@
       "sector": "Industrials",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.784,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.759,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -36254,11 +36254,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.976,
-          "v": 525101
-        },
         {
           "d": "2026-06-30",
           "c": 0.993,
@@ -36703,6 +36698,11 @@
           "d": "2026-11-01",
           "c": 0.784,
           "v": 18743
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.759,
+          "v": 2832412
         }
       ],
       "hasFullHistory": true,
@@ -36915,8 +36915,8 @@
       "sector": "Real Estate",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.147,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.143,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -37532,11 +37532,6 @@
       ],
       "recentPrices": [
         {
-          "d": "2026-06-29",
-          "c": 0.118,
-          "v": 4732485
-        },
-        {
           "d": "2026-06-30",
           "c": 0.121,
           "v": 12913566
@@ -37980,6 +37975,11 @@
           "d": "2026-11-01",
           "c": 0.147,
           "v": 36926803
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.143,
+          "v": 52898807
         }
       ],
       "hasFullHistory": true,
@@ -38216,8 +38216,8 @@
       "sector": "Industrials",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.47,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.46,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -38282,11 +38282,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.49,
-          "v": 15700055
-        },
         {
           "d": "2026-06-30",
           "c": 0.506,
@@ -38731,6 +38726,11 @@
           "d": "2026-11-01",
           "c": 0.47,
           "v": 435353
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.46,
+          "v": 835511
         }
       ],
       "hasFullHistory": true,
@@ -38959,8 +38959,8 @@
       "sector": "Financial Services",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.28,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.278,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -39005,11 +39005,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.275,
-          "v": 6007354
-        },
         {
           "d": "2026-06-30",
           "c": 0.279,
@@ -39454,6 +39449,11 @@
           "d": "2026-11-01",
           "c": 0.28,
           "v": 1483042
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.278,
+          "v": 304004
         }
       ],
       "hasFullHistory": true,
@@ -39682,8 +39682,8 @@
       "sector": "Oil & Gas",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 1.356,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 1.352,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -39808,11 +39808,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 1.435,
-          "v": 1216
-        },
         {
           "d": "2026-06-30",
           "c": 1.474,
@@ -40257,6 +40252,11 @@
           "d": "2026-11-01",
           "c": 1.356,
           "v": 181
+        },
+        {
+          "d": "2026-11-02",
+          "c": 1.352,
+          "v": 351
         }
       ],
       "hasFullHistory": true,
@@ -40485,8 +40485,8 @@
       "sector": "Industrials",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.596,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.588,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -40621,11 +40621,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.699,
-          "v": 1242235
-        },
         {
           "d": "2026-06-30",
           "c": 0.699,
@@ -41070,6 +41065,11 @@
           "d": "2026-11-01",
           "c": 0.596,
           "v": 70056
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.588,
+          "v": 1976925
         }
       ],
       "hasFullHistory": true,
@@ -41284,7 +41284,7 @@
       "marketType": "Main Market",
       "isin": null,
       "lastClosePrice": 0.347,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -41499,11 +41499,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.359,
-          "v": 0
-        },
         {
           "d": "2026-06-30",
           "c": 0.36,
@@ -41948,6 +41943,11 @@
           "d": "2026-11-01",
           "c": 0.347,
           "v": 30734
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.347,
+          "v": 2000
         }
       ],
       "hasFullHistory": true,
@@ -42184,8 +42184,8 @@
       "sector": "Insurance",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.389,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.388,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -42310,11 +42310,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.493,
-          "v": 6932
-        },
         {
           "d": "2026-06-30",
           "c": 0.478,
@@ -42759,6 +42754,11 @@
           "d": "2026-11-01",
           "c": 0.389,
           "v": 36266
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.388,
+          "v": 104098
         }
       ],
       "hasFullHistory": true,
@@ -42987,8 +42987,8 @@
       "sector": "Oil & Gas",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.809,
-      "lastClosePriceDate": "2026-10-29",
+      "lastClosePrice": 0.77,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -43103,16 +43103,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-28",
-          "c": 0.627,
-          "v": 27019
-        },
-        {
-          "d": "2026-06-29",
-          "c": 0.63,
-          "v": 10001
-        },
         {
           "d": "2026-06-30",
           "c": 0.63,
@@ -43552,6 +43542,16 @@
           "d": "2026-10-29",
           "c": 0.809,
           "v": 200
+        },
+        {
+          "d": "2026-11-01",
+          "c": 0.809,
+          "v": 0
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.77,
+          "v": 11830
         }
       ],
       "hasFullHistory": true,
@@ -43781,7 +43781,7 @@
       "marketType": "Main Market",
       "isin": null,
       "lastClosePrice": 1.271,
-      "lastClosePriceDate": "2026-10-29",
+      "lastClosePriceDate": "2026-11-01",
       "verified": false,
       "dividends": [
         {
@@ -43886,11 +43886,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-28",
-          "c": 1.32,
-          "v": 16
-        },
         {
           "d": "2026-06-29",
           "c": 1.255,
@@ -44335,6 +44330,11 @@
           "d": "2026-10-29",
           "c": 1.271,
           "v": 0
+        },
+        {
+          "d": "2026-11-01",
+          "c": 1.271,
+          "v": 0
         }
       ],
       "hasFullHistory": true,
@@ -44571,8 +44571,8 @@
       "sector": "Oil & Gas",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.276,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.28,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -44687,11 +44687,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.303,
-          "v": 96508
-        },
         {
           "d": "2026-06-30",
           "c": 0.289,
@@ -45136,6 +45131,11 @@
           "d": "2026-11-01",
           "c": 0.276,
           "v": 63268
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.28,
+          "v": 9609
         }
       ],
       "hasFullHistory": true,
@@ -45372,8 +45372,8 @@
       "sector": "Oil & Gas",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.296,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.291,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -45488,11 +45488,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.338,
-          "v": 4041665
-        },
         {
           "d": "2026-06-30",
           "c": 0.332,
@@ -45937,6 +45932,11 @@
           "d": "2026-11-01",
           "c": 0.296,
           "v": 275848
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.291,
+          "v": 3294343
         }
       ],
       "hasFullHistory": true,
@@ -46173,8 +46173,8 @@
       "sector": "Financial Services",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.307,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.298,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -46209,11 +46209,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.339,
-          "v": 274495
-        },
         {
           "d": "2026-06-30",
           "c": 0.337,
@@ -46657,7 +46652,12 @@
         {
           "d": "2026-11-01",
           "c": 0.307,
-          "v": 1646659
+          "v": 1646764
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.298,
+          "v": 3258473
         }
       ],
       "hasFullHistory": true,
@@ -46849,7 +46849,7 @@
       "marketType": "Main Market",
       "isin": null,
       "lastClosePrice": 0.169,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -46944,11 +46944,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.183,
-          "v": 789542
-        },
         {
           "d": "2026-06-30",
           "c": 0.18,
@@ -47393,6 +47388,11 @@
           "d": "2026-11-01",
           "c": 0.169,
           "v": 165959
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.169,
+          "v": 7445026
         }
       ],
       "hasFullHistory": true,
@@ -47629,8 +47629,8 @@
       "sector": "Industrials",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.342,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.339,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -47725,11 +47725,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.431,
-          "v": 1758976
-        },
         {
           "d": "2026-06-30",
           "c": 0.43,
@@ -48174,6 +48169,11 @@
           "d": "2026-11-01",
           "c": 0.342,
           "v": 177936
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.339,
+          "v": 2795970
         }
       ],
       "hasFullHistory": true,
@@ -48395,7 +48395,7 @@
       "marketType": "Main Market",
       "isin": null,
       "lastClosePrice": 0.498,
-      "lastClosePriceDate": "2026-10-29",
+      "lastClosePriceDate": "2026-11-01",
       "verified": false,
       "dividends": [
         {
@@ -48510,11 +48510,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-28",
-          "c": 0.542,
-          "v": 2000
-        },
         {
           "d": "2026-06-29",
           "c": 0.596,
@@ -48959,6 +48954,11 @@
           "d": "2026-10-29",
           "c": 0.498,
           "v": 239
+        },
+        {
+          "d": "2026-11-01",
+          "c": 0.498,
+          "v": 0
         }
       ],
       "hasFullHistory": true,
@@ -49187,8 +49187,8 @@
       "sector": "Real Estate",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.28,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.287,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -49303,11 +49303,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.293,
-          "v": 2331587
-        },
         {
           "d": "2026-06-30",
           "c": 0.298,
@@ -49752,6 +49747,11 @@
           "d": "2026-11-01",
           "c": 0.28,
           "v": 1923510
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.287,
+          "v": 2375318
         }
       ],
       "hasFullHistory": true,
@@ -49988,8 +49988,8 @@
       "sector": "Industrials",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.243,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.244,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -50094,11 +50094,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.28,
-          "v": 2072897
-        },
         {
           "d": "2026-06-30",
           "c": 0.28,
@@ -50543,6 +50538,11 @@
           "d": "2026-11-01",
           "c": 0.243,
           "v": 113423
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.244,
+          "v": 937852
         }
       ],
       "hasFullHistory": true,
@@ -50780,7 +50780,7 @@
       "marketType": "Main Market",
       "isin": null,
       "lastClosePrice": 0.67,
-      "lastClosePriceDate": "2026-10-29",
+      "lastClosePriceDate": "2026-11-01",
       "verified": false,
       "dividends": [
         {
@@ -50875,11 +50875,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-28",
-          "c": 0.88,
-          "v": 53
-        },
         {
           "d": "2026-06-29",
           "c": 0.88,
@@ -51324,6 +51319,11 @@
           "d": "2026-10-29",
           "c": 0.67,
           "v": 0
+        },
+        {
+          "d": "2026-11-01",
+          "c": 0.67,
+          "v": 0
         }
       ],
       "hasFullHistory": true,
@@ -51560,8 +51560,8 @@
       "sector": "Transportation",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.409,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.407,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -51606,11 +51606,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.4764,
-          "v": 250317
-        },
         {
           "d": "2026-06-30",
           "c": 0.4791,
@@ -52055,6 +52050,11 @@
           "d": "2026-11-01",
           "c": 0.409,
           "v": 3908
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.407,
+          "v": 102
         }
       ],
       "hasFullHistory": true,
@@ -52283,8 +52283,8 @@
       "sector": "Real Estate",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.21,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.22,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -52329,11 +52329,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.183,
-          "v": 973534
-        },
         {
           "d": "2026-06-30",
           "c": 0.199,
@@ -52778,6 +52773,11 @@
           "d": "2026-11-01",
           "c": 0.21,
           "v": 1910783
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.22,
+          "v": 4047987
         }
       ],
       "hasFullHistory": true,
@@ -53014,8 +53014,8 @@
       "sector": "Financial Services",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.125,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.114,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -53060,11 +53060,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.179,
-          "v": 2295261
-        },
         {
           "d": "2026-06-30",
           "c": 0.179,
@@ -53509,6 +53504,11 @@
           "d": "2026-11-01",
           "c": 0.125,
           "v": 14847133
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.114,
+          "v": 23263146
         }
       ],
       "hasFullHistory": true,
@@ -53745,8 +53745,8 @@
       "sector": "Financial Services",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.124,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.122,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -53861,11 +53861,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.136,
-          "v": 258117
-        },
         {
           "d": "2026-06-30",
           "c": 0.135,
@@ -54310,6 +54305,11 @@
           "d": "2026-11-01",
           "c": 0.124,
           "v": 309110
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.122,
+          "v": 99000
         }
       ],
       "hasFullHistory": true,
@@ -54538,8 +54538,8 @@
       "sector": "Financial Services",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.168,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.16,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -54634,11 +54634,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.172,
-          "v": 321445
-        },
         {
           "d": "2026-06-30",
           "c": 0.179,
@@ -55083,6 +55078,11 @@
           "d": "2026-11-01",
           "c": 0.168,
           "v": 148959
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.16,
+          "v": 279856
         }
       ],
       "hasFullHistory": true,
@@ -55311,8 +55311,8 @@
       "sector": "Real Estate",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.286,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.287,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -55417,11 +55417,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.309,
-          "v": 0
-        },
         {
           "d": "2026-06-30",
           "c": 0.309,
@@ -55866,6 +55861,11 @@
           "d": "2026-11-01",
           "c": 0.286,
           "v": 15712
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.287,
+          "v": 2650
         }
       ],
       "hasFullHistory": true,
@@ -56103,7 +56103,7 @@
       "marketType": "Main Market",
       "isin": null,
       "lastClosePrice": 0.214,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -56118,11 +56118,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.225,
-          "v": 566539
-        },
         {
           "d": "2026-06-30",
           "c": 0.225,
@@ -56567,6 +56562,11 @@
           "d": "2026-11-01",
           "c": 0.214,
           "v": 113806
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.214,
+          "v": 46006
         }
       ],
       "hasFullHistory": true,
@@ -56803,8 +56803,8 @@
       "sector": "Basic Materials",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.544,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.549,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -56929,11 +56929,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.582,
-          "v": 67161
-        },
         {
           "d": "2026-06-30",
           "c": 0.588,
@@ -57378,6 +57373,11 @@
           "d": "2026-11-01",
           "c": 0.544,
           "v": 11253
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.549,
+          "v": 9570
         }
       ],
       "hasFullHistory": true,
@@ -57606,8 +57606,8 @@
       "sector": "Real Estate",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.168,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.169,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -57692,11 +57692,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.177,
-          "v": 40559
-        },
         {
           "d": "2026-06-30",
           "c": 0.168,
@@ -58141,6 +58136,11 @@
           "d": "2026-11-01",
           "c": 0.168,
           "v": 24000
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.169,
+          "v": 139982
         }
       ],
       "hasFullHistory": true,
@@ -58385,8 +58385,8 @@
       "sector": "Financial Services",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.24,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.234,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -58411,11 +58411,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.313,
-          "v": 254100
-        },
         {
           "d": "2026-06-30",
           "c": 0.307,
@@ -58859,7 +58854,12 @@
         {
           "d": "2026-11-01",
           "c": 0.24,
-          "v": 189198
+          "v": 190198
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.234,
+          "v": 222289
         }
       ],
       "hasFullHistory": true,
@@ -59074,7 +59074,7 @@
       "marketType": "Main Market",
       "isin": null,
       "lastClosePrice": 0.699,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -59089,11 +59089,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.532,
-          "v": 1570005
-        },
         {
           "d": "2026-06-30",
           "c": 0.526,
@@ -59538,6 +59533,11 @@
           "d": "2026-11-01",
           "c": 0.699,
           "v": 1585805
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.699,
+          "v": 1255910
         }
       ],
       "hasFullHistory": true,
@@ -59774,8 +59774,8 @@
       "sector": "Transportation",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.229,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.22,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -59820,11 +59820,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.187,
-          "v": 85277
-        },
         {
           "d": "2026-06-30",
           "c": 0.185,
@@ -60269,6 +60264,11 @@
           "d": "2026-11-01",
           "c": 0.229,
           "v": 354377
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.22,
+          "v": 120176
         }
       ],
       "hasFullHistory": true,
@@ -60498,7 +60498,7 @@
       "marketType": "Main Market",
       "isin": null,
       "lastClosePrice": 0.13,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -60603,11 +60603,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.158,
-          "v": 485806
-        },
         {
           "d": "2026-06-30",
           "c": 0.157,
@@ -61052,6 +61047,11 @@
           "d": "2026-11-01",
           "c": 0.13,
           "v": 12589
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.13,
+          "v": 30402
         }
       ],
       "hasFullHistory": true,
@@ -61280,16 +61280,11 @@
       "sector": "Technology",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 1.55,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 1.545,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 1.74,
-          "v": 84562
-        },
         {
           "d": "2026-06-30",
           "c": 1.741,
@@ -61734,6 +61729,11 @@
           "d": "2026-11-01",
           "c": 1.55,
           "v": 26495
+        },
+        {
+          "d": "2026-11-02",
+          "c": 1.545,
+          "v": 39907
         }
       ],
       "hasFullHistory": true,
@@ -61970,8 +61970,8 @@
       "sector": "Financial Services",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.104,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.103,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -61986,11 +61986,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.128,
-          "v": 4218221
-        },
         {
           "d": "2026-06-30",
           "c": 0.128,
@@ -62435,6 +62430,11 @@
           "d": "2026-11-01",
           "c": 0.104,
           "v": 3189349
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.103,
+          "v": 2715876
         }
       ],
       "hasFullHistory": true,
@@ -62672,7 +62672,7 @@
       "marketType": "Main Market",
       "isin": null,
       "lastClosePrice": 0.191,
-      "lastClosePriceDate": "2026-10-29",
+      "lastClosePriceDate": "2026-11-01",
       "verified": false,
       "dividends": [
         {
@@ -62697,11 +62697,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-28",
-          "c": 0.191,
-          "v": 0
-        },
         {
           "d": "2026-06-29",
           "c": 0.191,
@@ -63146,6 +63141,11 @@
           "d": "2026-10-29",
           "c": 0.191,
           "v": 0
+        },
+        {
+          "d": "2026-11-01",
+          "c": 0.191,
+          "v": 0
         }
       ],
       "hasFullHistory": true,
@@ -63382,8 +63382,8 @@
       "sector": "Real Estate",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.411,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.405,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -63428,11 +63428,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.569,
-          "v": 3449529
-        },
         {
           "d": "2026-06-30",
           "c": 0.569,
@@ -63877,6 +63872,11 @@
           "d": "2026-11-01",
           "c": 0.411,
           "v": 241437
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.405,
+          "v": 182318
         }
       ],
       "hasFullHistory": true,
@@ -64113,16 +64113,11 @@
       "sector": "Real Estate",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.2,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.198,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.331,
-          "v": 4345305
-        },
         {
           "d": "2026-06-30",
           "c": 0.343,
@@ -64567,6 +64562,11 @@
           "d": "2026-11-01",
           "c": 0.2,
           "v": 25235
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.198,
+          "v": 147073
         }
       ],
       "hasFullHistory": true,
@@ -64803,8 +64803,8 @@
       "sector": "Financial Services",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.0628,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.0616,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -64859,11 +64859,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.0761,
-          "v": 2352687
-        },
         {
           "d": "2026-06-30",
           "c": 0.0755,
@@ -65308,6 +65303,11 @@
           "d": "2026-11-01",
           "c": 0.0628,
           "v": 3733884
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.0616,
+          "v": 2676583
         }
       ],
       "hasFullHistory": true,
@@ -65544,16 +65544,11 @@
       "sector": "Financial Services",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.13,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.135,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.14,
-          "v": 7433
-        },
         {
           "d": "2026-06-30",
           "c": 0.139,
@@ -65998,6 +65993,11 @@
           "d": "2026-11-01",
           "c": 0.13,
           "v": 23588
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.135,
+          "v": 131
         }
       ],
       "hasFullHistory": true,
@@ -66234,8 +66234,8 @@
       "sector": "Financial Services",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.309,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.3,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -66260,11 +66260,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.337,
-          "v": 2590337
-        },
         {
           "d": "2026-06-30",
           "c": 0.339,
@@ -66709,6 +66704,11 @@
           "d": "2026-11-01",
           "c": 0.309,
           "v": 7875681
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.3,
+          "v": 2377815
         }
       ],
       "hasFullHistory": true,
@@ -66945,8 +66945,8 @@
       "sector": "Real Estate",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.0622,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.0601,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -67051,11 +67051,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.08,
-          "v": 5168876
-        },
         {
           "d": "2026-06-30",
           "c": 0.0786,
@@ -67500,6 +67495,11 @@
           "d": "2026-11-01",
           "c": 0.0622,
           "v": 603271
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.0601,
+          "v": 653905
         }
       ],
       "hasFullHistory": true,
@@ -67736,8 +67736,8 @@
       "sector": "Insurance",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.164,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.165,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -67812,11 +67812,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.174,
-          "v": 30973
-        },
         {
           "d": "2026-06-30",
           "c": 0.177,
@@ -68261,6 +68256,11 @@
           "d": "2026-11-01",
           "c": 0.164,
           "v": 235583
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.165,
+          "v": 57299
         }
       ],
       "hasFullHistory": true,
@@ -68481,8 +68481,8 @@
       "sector": "Industrials",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.31,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.305,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -68657,11 +68657,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.319,
-          "v": 26104
-        },
         {
           "d": "2026-06-30",
           "c": 0.322,
@@ -69106,6 +69101,11 @@
           "d": "2026-11-01",
           "c": 0.31,
           "v": 15000
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.305,
+          "v": 4557
         }
       ],
       "hasFullHistory": true,
@@ -70043,8 +70043,8 @@
       "sector": "Oil & Gas",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.194,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.191,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -70129,11 +70129,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.188,
-          "v": 663744
-        },
         {
           "d": "2026-06-30",
           "c": 0.183,
@@ -70578,6 +70573,11 @@
           "d": "2026-11-01",
           "c": 0.194,
           "v": 155950
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.191,
+          "v": 157105
         }
       ],
       "hasFullHistory": true,
@@ -70814,8 +70814,8 @@
       "sector": "Industrials",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.303,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.291,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -70850,11 +70850,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.261,
-          "v": 3996214
-        },
         {
           "d": "2026-06-30",
           "c": 0.256,
@@ -71299,6 +71294,11 @@
           "d": "2026-11-01",
           "c": 0.303,
           "v": 1053606
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.291,
+          "v": 1196852
         }
       ],
       "hasFullHistory": true,
@@ -71527,16 +71527,11 @@
       "sector": "Financial Services",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.068,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.0654,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.083,
-          "v": 1893814
-        },
         {
           "d": "2026-06-30",
           "c": 0.0821,
@@ -71981,6 +71976,11 @@
           "d": "2026-11-01",
           "c": 0.068,
           "v": 1387637
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.0654,
+          "v": 1254766
         }
       ],
       "hasFullHistory": true,
@@ -72217,8 +72217,8 @@
       "sector": "Real Estate",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.0701,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.0682,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -72313,11 +72313,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.0785,
-          "v": 775729
-        },
         {
           "d": "2026-06-30",
           "c": 0.0791,
@@ -72762,6 +72757,11 @@
           "d": "2026-11-01",
           "c": 0.0701,
           "v": 442092
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.0682,
+          "v": 1177903
         }
       ],
       "hasFullHistory": true,
@@ -73006,8 +73006,8 @@
       "sector": "Industrials",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.38,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.375,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -73132,11 +73132,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.457,
-          "v": 7200
-        },
         {
           "d": "2026-06-30",
           "c": 0.457,
@@ -73581,6 +73576,11 @@
           "d": "2026-11-01",
           "c": 0.38,
           "v": 52143
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.375,
+          "v": 30178
         }
       ],
       "hasFullHistory": true,
@@ -73801,8 +73801,8 @@
       "sector": "Financial Services",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.134,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.13,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -73817,11 +73817,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.162,
-          "v": 193118
-        },
         {
           "d": "2026-06-30",
           "c": 0.158,
@@ -74266,6 +74261,11 @@
           "d": "2026-11-01",
           "c": 0.134,
           "v": 413205
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.13,
+          "v": 59146
         }
       ],
       "hasFullHistory": true,
@@ -74502,8 +74502,8 @@
       "sector": "Financial Services",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.159,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.156,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -74528,11 +74528,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.138,
-          "v": 76
-        },
         {
           "d": "2026-06-30",
           "c": 0.135,
@@ -74977,6 +74972,11 @@
           "d": "2026-11-01",
           "c": 0.159,
           "v": 57532
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.156,
+          "v": 158042
         }
       ],
       "hasFullHistory": true,
@@ -75213,8 +75213,8 @@
       "sector": "Financial Services",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.038,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.0379,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -75229,11 +75229,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.0403,
-          "v": 2361725
-        },
         {
           "d": "2026-06-30",
           "c": 0.0403,
@@ -75678,6 +75673,11 @@
           "d": "2026-11-01",
           "c": 0.038,
           "v": 748254
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.0379,
+          "v": 2054250
         }
       ],
       "hasFullHistory": true,
@@ -75907,7 +75907,7 @@
       "marketType": "Main Market",
       "isin": null,
       "lastClosePrice": 0.25,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -76022,11 +76022,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.242,
-          "v": 216588
-        },
         {
           "d": "2026-06-30",
           "c": 0.241,
@@ -76471,6 +76466,11 @@
           "d": "2026-11-01",
           "c": 0.25,
           "v": 1062084
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.25,
+          "v": 266352
         }
       ],
       "hasFullHistory": true,
@@ -76707,8 +76707,8 @@
       "sector": "Real Estate",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.102,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.098,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -76793,11 +76793,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.181,
-          "v": 3227964
-        },
         {
           "d": "2026-06-30",
           "c": 0.178,
@@ -77242,6 +77237,11 @@
           "d": "2026-11-01",
           "c": 0.102,
           "v": 36205
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.098,
+          "v": 383501
         }
       ],
       "hasFullHistory": true,
@@ -77455,8 +77455,8 @@
       "sector": "Financial Services",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.187,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.198,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -77511,11 +77511,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.281,
-          "v": 622788
-        },
         {
           "d": "2026-06-30",
           "c": 0.285,
@@ -77960,6 +77955,11 @@
           "d": "2026-11-01",
           "c": 0.187,
           "v": 635077
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.198,
+          "v": 217626
         }
       ],
       "hasFullHistory": true,
@@ -78889,16 +78889,11 @@
       "sector": "Consumer Staples",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.0852,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.0853,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.0985,
-          "v": 441976
-        },
         {
           "d": "2026-06-30",
           "c": 0.0982,
@@ -79343,6 +79338,11 @@
           "d": "2026-11-01",
           "c": 0.0852,
           "v": 62130
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.0853,
+          "v": 127986
         }
       ],
       "hasFullHistory": true,
@@ -79580,7 +79580,7 @@
       "marketType": "Main Market",
       "isin": null,
       "lastClosePrice": 0.108,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -79635,11 +79635,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.127,
-          "v": 5048206
-        },
         {
           "d": "2026-06-30",
           "c": 0.126,
@@ -80084,6 +80079,11 @@
           "d": "2026-11-01",
           "c": 0.108,
           "v": 4070671
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.108,
+          "v": 1406978
         }
       ],
       "hasFullHistory": true,
@@ -80320,16 +80320,11 @@
       "sector": "Financial Services",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.0786,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.0775,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.0818,
-          "v": 3277198
-        },
         {
           "d": "2026-06-30",
           "c": 0.0822,
@@ -80774,6 +80769,11 @@
           "d": "2026-11-01",
           "c": 0.0786,
           "v": 2039784
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.0775,
+          "v": 799910
         }
       ],
       "hasFullHistory": true,
@@ -81002,8 +81002,8 @@
       "sector": "Financial Services",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.148,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.142,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -81128,11 +81128,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.1433,
-          "v": 1087193
-        },
         {
           "d": "2026-06-30",
           "c": 0.1442,
@@ -81577,6 +81572,11 @@
           "d": "2026-11-01",
           "c": 0.148,
           "v": 150832
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.142,
+          "v": 513139
         }
       ],
       "hasFullHistory": true,
@@ -81813,8 +81813,8 @@
       "sector": "Financial Services",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.087,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.085,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -81869,11 +81869,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.0982,
-          "v": 2379665
-        },
         {
           "d": "2026-06-30",
           "c": 0.099,
@@ -82318,6 +82313,11 @@
           "d": "2026-11-01",
           "c": 0.087,
           "v": 499658
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.085,
+          "v": 1117759
         }
       ],
       "hasFullHistory": true,
@@ -82554,8 +82554,8 @@
       "sector": "Financial Services",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.068,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.0665,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -82590,11 +82590,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.0742,
-          "v": 1944236
-        },
         {
           "d": "2026-06-30",
           "c": 0.0739,
@@ -83039,6 +83034,11 @@
           "d": "2026-11-01",
           "c": 0.068,
           "v": 4542317
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.0665,
+          "v": 3155081
         }
       ],
       "hasFullHistory": true,
@@ -83275,16 +83275,11 @@
       "sector": "Real Estate",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.234,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.225,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.187,
-          "v": 1721428
-        },
         {
           "d": "2026-06-30",
           "c": 0.185,
@@ -83729,6 +83724,11 @@
           "d": "2026-11-01",
           "c": 0.234,
           "v": 1840452
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.225,
+          "v": 2317961
         }
       ],
       "hasFullHistory": true,
@@ -83957,8 +83957,8 @@
       "sector": "Financial Services",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.104,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.105,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -84013,11 +84013,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.112,
-          "v": 151924
-        },
         {
           "d": "2026-06-30",
           "c": 0.111,
@@ -84462,6 +84457,11 @@
           "d": "2026-11-01",
           "c": 0.104,
           "v": 14881
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.105,
+          "v": 11217
         }
       ],
       "hasFullHistory": true,
@@ -84690,8 +84690,8 @@
       "sector": "Financial Services",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.0989,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.0951,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -84706,11 +84706,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.128,
-          "v": 1638343
-        },
         {
           "d": "2026-06-30",
           "c": 0.124,
@@ -85155,6 +85150,11 @@
           "d": "2026-11-01",
           "c": 0.0989,
           "v": 73022
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.0951,
+          "v": 50939
         }
       ],
       "hasFullHistory": true,
@@ -85391,16 +85391,11 @@
       "sector": "Insurance",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.524,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.504,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.215,
-          "v": 87844
-        },
         {
           "d": "2026-06-30",
           "c": 0.213,
@@ -85845,6 +85840,11 @@
           "d": "2026-11-01",
           "c": 0.524,
           "v": 626411
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.504,
+          "v": 943019
         }
       ],
       "hasFullHistory": true,
@@ -86081,8 +86081,8 @@
       "sector": "Consumer Discretionary",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.107,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.109,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -86257,11 +86257,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.13,
-          "v": 821528
-        },
         {
           "d": "2026-06-30",
           "c": 0.125,
@@ -86706,6 +86701,11 @@
           "d": "2026-11-01",
           "c": 0.107,
           "v": 93503
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.109,
+          "v": 29540
         }
       ],
       "hasFullHistory": true,
@@ -86942,16 +86942,11 @@
       "sector": "Financial Services",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.154,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.153,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.143,
-          "v": 34355
-        },
         {
           "d": "2026-06-30",
           "c": 0.14,
@@ -87396,6 +87391,11 @@
           "d": "2026-11-01",
           "c": 0.154,
           "v": 173212
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.153,
+          "v": 176561
         }
       ],
       "hasFullHistory": true,
@@ -87616,8 +87616,8 @@
       "sector": "Financial Services",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.184,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.187,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -87732,11 +87732,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.201,
-          "v": 1049
-        },
         {
           "d": "2026-06-30",
           "c": 0.201,
@@ -88181,6 +88176,11 @@
           "d": "2026-11-01",
           "c": 0.184,
           "v": 39000
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.187,
+          "v": 72394
         }
       ],
       "hasFullHistory": true,
@@ -88409,16 +88409,11 @@
       "sector": "Oil & Gas",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.19,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.181,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.232,
-          "v": 261486
-        },
         {
           "d": "2026-06-30",
           "c": 0.233,
@@ -88863,6 +88858,11 @@
           "d": "2026-11-01",
           "c": 0.19,
           "v": 127559
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.181,
+          "v": 253899
         }
       ],
       "hasFullHistory": true,
@@ -89091,8 +89091,8 @@
       "sector": "Financial Services",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.118,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.117,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -89117,11 +89117,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.119,
-          "v": 59067
-        },
         {
           "d": "2026-06-30",
           "c": 0.114,
@@ -89566,6 +89561,11 @@
           "d": "2026-11-01",
           "c": 0.118,
           "v": 52270
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.117,
+          "v": 364028
         }
       ],
       "hasFullHistory": true,
@@ -89802,8 +89802,8 @@
       "sector": "Real Estate",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.0974,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.0971,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -89938,11 +89938,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.102,
-          "v": 10733301
-        },
         {
           "d": "2026-06-30",
           "c": 0.0942,
@@ -90387,6 +90382,11 @@
           "d": "2026-11-01",
           "c": 0.0974,
           "v": 273497
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.0971,
+          "v": 511696
         }
       ],
       "hasFullHistory": true,
@@ -91262,15 +91262,10 @@
       "marketType": "Main Market",
       "isin": null,
       "lastClosePrice": 0.12,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.11,
-          "v": 1327205
-        },
         {
           "d": "2026-06-30",
           "c": 0.114,
@@ -91715,6 +91710,11 @@
           "d": "2026-11-01",
           "c": 0.12,
           "v": 3120329
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.12,
+          "v": 1291948
         }
       ],
       "hasFullHistory": true,
@@ -91951,8 +91951,8 @@
       "sector": "Financial Services",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.73,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.721,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -91987,11 +91987,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.75,
-          "v": 29154
-        },
         {
           "d": "2026-06-30",
           "c": 0.746,
@@ -92436,6 +92431,11 @@
           "d": "2026-11-01",
           "c": 0.73,
           "v": 391581
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.721,
+          "v": 369171
         }
       ],
       "hasFullHistory": true,
@@ -92649,8 +92649,8 @@
       "sector": "Consumer Staples",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.139,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.134,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -92675,11 +92675,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.105,
-          "v": 1304035
-        },
         {
           "d": "2026-06-30",
           "c": 0.102,
@@ -93124,6 +93119,11 @@
           "d": "2026-11-01",
           "c": 0.139,
           "v": 190621
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.134,
+          "v": 299289
         }
       ],
       "hasFullHistory": true,
@@ -93344,16 +93344,11 @@
       "sector": "Real Estate",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.0431,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.0427,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.0514,
-          "v": 3535421
-        },
         {
           "d": "2026-06-30",
           "c": 0.0509,
@@ -93798,6 +93793,11 @@
           "d": "2026-11-01",
           "c": 0.0431,
           "v": 1343279
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.0427,
+          "v": 278715
         }
       ],
       "hasFullHistory": true,
@@ -94034,8 +94034,8 @@
       "sector": "Financial Services",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.0894,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.0898,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -94050,11 +94050,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.107,
-          "v": 487278
-        },
         {
           "d": "2026-06-30",
           "c": 0.105,
@@ -94499,6 +94494,11 @@
           "d": "2026-11-01",
           "c": 0.0894,
           "v": 52730
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.0898,
+          "v": 31243
         }
       ],
       "hasFullHistory": true,
@@ -94735,8 +94735,8 @@
       "sector": "Financial Services",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.0645,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.0659,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -94771,11 +94771,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.0729,
-          "v": 3236136
-        },
         {
           "d": "2026-06-30",
           "c": 0.073,
@@ -95220,6 +95215,11 @@
           "d": "2026-11-01",
           "c": 0.0645,
           "v": 56010
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.0659,
+          "v": 70310
         }
       ],
       "hasFullHistory": true,
@@ -95448,8 +95448,8 @@
       "sector": "Financial Services",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.127,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.124,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -95564,11 +95564,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.119,
-          "v": 630490
-        },
         {
           "d": "2026-06-30",
           "c": 0.119,
@@ -96013,6 +96008,11 @@
           "d": "2026-11-01",
           "c": 0.127,
           "v": 869927
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.124,
+          "v": 752051
         }
       ],
       "hasFullHistory": true,
@@ -96249,8 +96249,8 @@
       "sector": "Real Estate",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.124,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.119,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -96295,11 +96295,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.117,
-          "v": 165686
-        },
         {
           "d": "2026-06-30",
           "c": 0.116,
@@ -96744,6 +96739,11 @@
           "d": "2026-11-01",
           "c": 0.124,
           "v": 269705
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.119,
+          "v": 481953
         }
       ],
       "hasFullHistory": true,
@@ -98375,8 +98375,8 @@
       "sector": "Consumer Discretionary",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.132,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.122,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -98461,11 +98461,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.0998,
-          "v": 285718
-        },
         {
           "d": "2026-06-30",
           "c": 0.0995,
@@ -98910,6 +98905,11 @@
           "d": "2026-11-01",
           "c": 0.132,
           "v": 331327
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.122,
+          "v": 1847325
         }
       ],
       "hasFullHistory": true,
@@ -99146,8 +99146,8 @@
       "sector": "Technology",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.712,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.709,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -99192,11 +99192,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.737,
-          "v": 802890
-        },
         {
           "d": "2026-06-30",
           "c": 0.735,
@@ -99641,6 +99636,11 @@
           "d": "2026-11-01",
           "c": 0.712,
           "v": 546641
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.709,
+          "v": 1082427
         }
       ],
       "hasFullHistory": true,
@@ -99877,8 +99877,8 @@
       "sector": "Consumer Staples",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.229,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.228,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -99943,11 +99943,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.256,
-          "v": 69022
-        },
         {
           "d": "2026-06-30",
           "c": 0.264,
@@ -100392,6 +100387,11 @@
           "d": "2026-11-01",
           "c": 0.229,
           "v": 55564
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.228,
+          "v": 8389
         }
       ],
       "hasFullHistory": true,
@@ -100628,16 +100628,11 @@
       "sector": "Financial Services",
       "marketType": "Auction Market",
       "isin": null,
-      "lastClosePrice": 0.028,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.0275,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.0359,
-          "v": 19693874
-        },
         {
           "d": "2026-06-30",
           "c": 0.034,
@@ -101082,6 +101077,11 @@
           "d": "2026-11-01",
           "c": 0.028,
           "v": 905210
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.0275,
+          "v": 1649621
         }
       ],
       "hasFullHistory": true,
@@ -101326,16 +101326,11 @@
       "sector": "Insurance",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.106,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.105,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.107,
-          "v": 1327747
-        },
         {
           "d": "2026-06-30",
           "c": 0.106,
@@ -101780,6 +101775,11 @@
           "d": "2026-11-01",
           "c": 0.106,
           "v": 726242
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.105,
+          "v": 525996
         }
       ],
       "hasFullHistory": true,
@@ -102008,16 +102008,11 @@
       "sector": "Real Estate",
       "marketType": "Auction Market",
       "isin": null,
-      "lastClosePrice": 0.0537,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.0517,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.0678,
-          "v": 2104707
-        },
         {
           "d": "2026-06-30",
           "c": 0.066,
@@ -102462,6 +102457,11 @@
           "d": "2026-11-01",
           "c": 0.0537,
           "v": 64510
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.0517,
+          "v": 45349
         }
       ],
       "hasFullHistory": true,
@@ -102690,21 +102690,11 @@
       "sector": "Oil & Gas",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.233,
-      "lastClosePriceDate": "2026-10-29",
+      "lastClosePrice": 0.229,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [],
       "recentPrices": [
-        {
-          "d": "2026-06-28",
-          "c": 0.27,
-          "v": 152178
-        },
-        {
-          "d": "2026-06-29",
-          "c": 0.275,
-          "v": 335515
-        },
         {
           "d": "2026-06-30",
           "c": 0.271,
@@ -103144,6 +103134,16 @@
           "d": "2026-10-29",
           "c": 0.233,
           "v": 300
+        },
+        {
+          "d": "2026-11-01",
+          "c": 0.233,
+          "v": 0
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.229,
+          "v": 2800
         }
       ],
       "hasFullHistory": true,
@@ -103380,8 +103380,8 @@
       "sector": "Basic Materials",
       "marketType": "Main Market",
       "isin": null,
-      "lastClosePrice": 0.173,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.165,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [
         {
@@ -103406,11 +103406,6 @@
         }
       ],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.157,
-          "v": 219320
-        },
         {
           "d": "2026-06-30",
           "c": 0.153,
@@ -103855,6 +103850,11 @@
           "d": "2026-11-01",
           "c": 0.173,
           "v": 92015
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.165,
+          "v": 157552
         }
       ],
       "hasFullHistory": true,
@@ -104804,15 +104804,10 @@
       "marketType": "Auction Market",
       "isin": null,
       "lastClosePrice": 0.211,
-      "lastClosePriceDate": "2026-10-29",
+      "lastClosePriceDate": "2026-11-01",
       "verified": false,
       "dividends": [],
       "recentPrices": [
-        {
-          "d": "2026-06-28",
-          "c": 0.0554,
-          "v": 0
-        },
         {
           "d": "2026-06-29",
           "c": 0.0554,
@@ -105257,6 +105252,11 @@
           "d": "2026-10-29",
           "c": 0.211,
           "v": 0
+        },
+        {
+          "d": "2026-11-01",
+          "c": 0.211,
+          "v": 0
         }
       ],
       "hasFullHistory": true,
@@ -105493,16 +105493,11 @@
       "sector": "Industrials",
       "marketType": "Auction Market",
       "isin": null,
-      "lastClosePrice": 0.142,
-      "lastClosePriceDate": "2026-11-01",
+      "lastClosePrice": 0.139,
+      "lastClosePriceDate": "2026-11-02",
       "verified": false,
       "dividends": [],
       "recentPrices": [
-        {
-          "d": "2026-06-29",
-          "c": 0.19,
-          "v": 1207532
-        },
         {
           "d": "2026-06-30",
           "c": 0.197,
@@ -105947,6 +105942,11 @@
           "d": "2026-11-01",
           "c": 0.142,
           "v": 127059
+        },
+        {
+          "d": "2026-11-02",
+          "c": 0.139,
+          "v": 523633
         }
       ],
       "hasFullHistory": true,
