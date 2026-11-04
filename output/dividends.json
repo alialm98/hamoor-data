@@ -1,12 +1,12 @@
 {
   "_meta": {
-    "generatedAt": "2026-11-03T18:15:16.291626Z",
+    "generatedAt": "2026-11-04T18:24:49.793667Z",
     "source": "maqasa.com/en/dividend-distribution",
     "yearRange": [
       2016,
       2026
     ],
-    "matched": 115
+    "matched": 117
   },
   "dividendsByTicker": {
     "KFH": [
@@ -11086,6 +11086,120 @@
         "amountPerShare": 0.0075,
         "currency": "KWD",
         "exDate": "2016-05-02",
+        "paymentDate": null,
+        "bonusSharesPercent": null,
+        "agmDate": null
+      }
+    ],
+    "KHOT": [
+      {
+        "fiscalYear": 2026,
+        "type": "stock",
+        "amountPerShare": 0,
+        "currency": "KWD",
+        "exDate": "2026-05-07",
+        "paymentDate": null,
+        "bonusSharesPercent": 10,
+        "agmDate": null
+      },
+      {
+        "fiscalYear": 2022,
+        "type": "cash",
+        "amountPerShare": 0.005,
+        "currency": "KWD",
+        "exDate": "2022-06-29",
+        "paymentDate": null,
+        "bonusSharesPercent": null,
+        "agmDate": null
+      },
+      {
+        "fiscalYear": 2017,
+        "type": "cash",
+        "amountPerShare": 0.005,
+        "currency": "KWD",
+        "exDate": "2017-07-30",
+        "paymentDate": null,
+        "bonusSharesPercent": null,
+        "agmDate": null
+      }
+    ],
+    "FUTUREKID": [
+      {
+        "fiscalYear": 2025,
+        "type": "cash",
+        "amountPerShare": 0.003,
+        "currency": "KWD",
+        "exDate": "2025-05-27",
+        "paymentDate": null,
+        "bonusSharesPercent": null,
+        "agmDate": null
+      },
+      {
+        "fiscalYear": 2025,
+        "type": "stock",
+        "amountPerShare": 0,
+        "currency": "KWD",
+        "exDate": "2025-05-27",
+        "paymentDate": null,
+        "bonusSharesPercent": 3,
+        "agmDate": null
+      },
+      {
+        "fiscalYear": 2024,
+        "type": "cash",
+        "amountPerShare": 0.008,
+        "currency": "KWD",
+        "exDate": "2024-04-28",
+        "paymentDate": null,
+        "bonusSharesPercent": null,
+        "agmDate": null
+      },
+      {
+        "fiscalYear": 2023,
+        "type": "cash",
+        "amountPerShare": 0.006,
+        "currency": "KWD",
+        "exDate": "2023-05-18",
+        "paymentDate": null,
+        "bonusSharesPercent": null,
+        "agmDate": null
+      },
+      {
+        "fiscalYear": 2019,
+        "type": "cash",
+        "amountPerShare": 0.012,
+        "currency": "KWD",
+        "exDate": "2019-06-12",
+        "paymentDate": null,
+        "bonusSharesPercent": null,
+        "agmDate": null
+      },
+      {
+        "fiscalYear": 2018,
+        "type": "cash",
+        "amountPerShare": 0.012,
+        "currency": "KWD",
+        "exDate": "2018-05-28",
+        "paymentDate": null,
+        "bonusSharesPercent": null,
+        "agmDate": null
+      },
+      {
+        "fiscalYear": 2017,
+        "type": "cash",
+        "amountPerShare": 0.011,
+        "currency": "KWD",
+        "exDate": "2017-05-15",
+        "paymentDate": null,
+        "bonusSharesPercent": null,
+        "agmDate": null
+      },
+      {
+        "fiscalYear": 2016,
+        "type": "cash",
+        "amountPerShare": 0.01,
+        "currency": "KWD",
+        "exDate": "2016-06-06",
         "paymentDate": null,
         "bonusSharesPercent": null,
         "agmDate": null
