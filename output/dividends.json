@@ -1,12 +1,12 @@
 {
   "_meta": {
-    "generatedAt": "2026-11-08T17:01:07.866703Z",
+    "generatedAt": "2026-11-09T21:12:00.761743Z",
     "source": "maqasa.com/en/dividend-distribution",
     "yearRange": [
       2016,
       2026
     ],
-    "matched": 115
+    "matched": 117
   },
   "dividendsByTicker": {
     "KFH": [
@@ -11244,6 +11244,90 @@
         "exDate": "2016-07-20",
         "paymentDate": null,
         "bonusSharesPercent": 50,
+        "agmDate": null
+      }
+    ],
+    "PAPCO": [
+      {
+        "fiscalYear": 2025,
+        "type": "cash",
+        "amountPerShare": 0.006,
+        "currency": "KWD",
+        "exDate": "2025-06-19",
+        "paymentDate": null,
+        "bonusSharesPercent": null,
+        "agmDate": null
+      },
+      {
+        "fiscalYear": 2024,
+        "type": "cash",
+        "amountPerShare": 0.004,
+        "currency": "KWD",
+        "exDate": "2024-07-10",
+        "paymentDate": null,
+        "bonusSharesPercent": null,
+        "agmDate": null
+      },
+      {
+        "fiscalYear": 2019,
+        "type": "cash",
+        "amountPerShare": 0.01,
+        "currency": "KWD",
+        "exDate": "2019-07-03",
+        "paymentDate": null,
+        "bonusSharesPercent": null,
+        "agmDate": null
+      },
+      {
+        "fiscalYear": 2018,
+        "type": "cash",
+        "amountPerShare": 0.01,
+        "currency": "KWD",
+        "exDate": "2018-06-28",
+        "paymentDate": null,
+        "bonusSharesPercent": null,
+        "agmDate": null
+      },
+      {
+        "fiscalYear": 2017,
+        "type": "cash",
+        "amountPerShare": 0.01,
+        "currency": "KWD",
+        "exDate": "2017-06-29",
+        "paymentDate": null,
+        "bonusSharesPercent": null,
+        "agmDate": null
+      },
+      {
+        "fiscalYear": 2016,
+        "type": "cash",
+        "amountPerShare": 0.01,
+        "currency": "KWD",
+        "exDate": "2016-05-08",
+        "paymentDate": null,
+        "bonusSharesPercent": null,
+        "agmDate": null
+      }
+    ],
+    "MRC": [
+      {
+        "fiscalYear": 2018,
+        "type": "stock",
+        "amountPerShare": 0,
+        "currency": "KWD",
+        "exDate": "2017-12-03",
+        "paymentDate": null,
+        "bonusSharesPercent": 21,
+        "agmDate": null
+      },
+      {
+        "fiscalYear": 2017,
+        "type": "stock",
+        "amountPerShare": 0,
+        "currency": "KWD",
+        "exDate": "2017-12-03",
+        "paymentDate": null,
+        "bonusSharesPercent": 21,
         "agmDate": null
       }
     ],
