@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generatedAt": "2026-11-12T18:43:09.942052Z",
+    "generatedAt": "2026-11-15T17:34:24.631616Z",
     "source": "maqasa.com/en/dividend-distribution",
     "yearRange": [
       2016,
@@ -6681,6 +6681,16 @@
         "type": "cash_final",
         "amountPerShare": 0.005,
         "currency": "KWD",
+        "exDate": "2026-11-16",
+        "paymentDate": null,
+        "bonusSharesPercent": null,
+        "agmDate": null
+      },
+      {
+        "fiscalYear": 2026,
+        "type": "cash",
+        "amountPerShare": 0.005,
+        "currency": "KWD",
         "exDate": "2026-08-24",
         "paymentDate": null,
         "bonusSharesPercent": null,
@@ -6698,22 +6708,22 @@
       },
       {
         "fiscalYear": 2026,
-        "type": "cash_interim",
-        "amountPerShare": 0.01,
-        "currency": "KWD",
-        "exDate": "2026-04-20",
-        "paymentDate": null,
-        "bonusSharesPercent": null,
-        "agmDate": null
-      },
-      {
-        "fiscalYear": 2026,
         "type": "stock",
         "amountPerShare": 0,
         "currency": "KWD",
         "exDate": "2026-04-20",
         "paymentDate": null,
         "bonusSharesPercent": 10,
+        "agmDate": null
+      },
+      {
+        "fiscalYear": 2026,
+        "type": "cash_interim",
+        "amountPerShare": 0.01,
+        "currency": "KWD",
+        "exDate": "2026-04-20",
+        "paymentDate": null,
+        "bonusSharesPercent": null,
         "agmDate": null
       },
       {
