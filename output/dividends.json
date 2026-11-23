@@ -1,12 +1,12 @@
 {
   "_meta": {
-    "generatedAt": "2026-11-22T18:12:03.230304Z",
+    "generatedAt": "2026-11-23T22:25:57.899747Z",
     "source": "maqasa.com/en/dividend-distribution",
     "yearRange": [
       2016,
       2026
     ],
-    "matched": 117
+    "matched": 115
   },
   "dividendsByTicker": {
     "KFH": [
@@ -11054,80 +11054,6 @@
         "amountPerShare": 0.005,
         "currency": "KWD",
         "exDate": "2016-04-04",
-        "paymentDate": null,
-        "bonusSharesPercent": null,
-        "agmDate": null
-      }
-    ],
-    "MASHAER": [
-      {
-        "fiscalYear": 2026,
-        "type": "cash",
-        "amountPerShare": 0.005,
-        "currency": "KWD",
-        "exDate": "2026-06-04",
-        "paymentDate": null,
-        "bonusSharesPercent": null,
-        "agmDate": null
-      },
-      {
-        "fiscalYear": 2020,
-        "type": "cash",
-        "amountPerShare": 0.005,
-        "currency": "KWD",
-        "exDate": "2020-08-11",
-        "paymentDate": null,
-        "bonusSharesPercent": null,
-        "agmDate": null
-      },
-      {
-        "fiscalYear": 2017,
-        "type": "cash",
-        "amountPerShare": 0.0075,
-        "currency": "KWD",
-        "exDate": "2017-05-14",
-        "paymentDate": null,
-        "bonusSharesPercent": null,
-        "agmDate": null
-      },
-      {
-        "fiscalYear": 2016,
-        "type": "cash",
-        "amountPerShare": 0.0075,
-        "currency": "KWD",
-        "exDate": "2016-05-02",
-        "paymentDate": null,
-        "bonusSharesPercent": null,
-        "agmDate": null
-      }
-    ],
-    "KHOT": [
-      {
-        "fiscalYear": 2026,
-        "type": "stock",
-        "amountPerShare": 0,
-        "currency": "KWD",
-        "exDate": "2026-05-07",
-        "paymentDate": null,
-        "bonusSharesPercent": 10,
-        "agmDate": null
-      },
-      {
-        "fiscalYear": 2022,
-        "type": "cash",
-        "amountPerShare": 0.005,
-        "currency": "KWD",
-        "exDate": "2022-06-29",
-        "paymentDate": null,
-        "bonusSharesPercent": null,
-        "agmDate": null
-      },
-      {
-        "fiscalYear": 2017,
-        "type": "cash",
-        "amountPerShare": 0.005,
-        "currency": "KWD",
-        "exDate": "2017-07-30",
         "paymentDate": null,
         "bonusSharesPercent": null,
         "agmDate": null
