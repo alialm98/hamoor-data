@@ -1,24 +1,9 @@
 {
   "_meta": {
-    "generatedAt": "2026-11-23T22:25:57.964696Z",
+    "generatedAt": "2026-11-24T21:00:44.584954Z",
     "source": "maqasa.com (derived from dividends.json)",
-    "eventCount": 1,
+    "eventCount": 0,
     "lookbackDays": 7
   },
-  "events": [
-    {
-      "ticker": "KUWAITRE",
-      "nameEn": "Kuwait Reinsurance Company",
-      "nameAr": "إعادة التأمين الكويتية",
-      "tickerNumber": "305",
-      "sector": "Insurance",
-      "cumDate": "2026-11-15",
-      "exDate": "2026-11-16",
-      "recordDate": null,
-      "paymentDate": null,
-      "amountPerShare": 0.005,
-      "currency": "KWD",
-      "type": "cash_final"
-    }
-  ]
+  "events": []
 }
