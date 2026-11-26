@@ -1,12 +1,12 @@
 {
   "_meta": {
-    "generatedAt": "2026-11-25T20:14:46.880139Z",
+    "generatedAt": "2026-11-26T20:00:21.508323Z",
     "source": "maqasa.com/en/dividend-distribution",
     "yearRange": [
       2016,
       2026
     ],
-    "matched": 117
+    "matched": 116
   },
   "dividendsByTicker": {
     "KFH": [
@@ -11338,68 +11338,6 @@
         "exDate": "2017-12-03",
         "paymentDate": null,
         "bonusSharesPercent": 21,
-        "agmDate": null
-      }
-    ],
-    "DALQANRE": [
-      {
-        "fiscalYear": 2025,
-        "type": "stock",
-        "amountPerShare": 0,
-        "currency": "KWD",
-        "exDate": "2025-06-12",
-        "paymentDate": null,
-        "bonusSharesPercent": 10,
-        "agmDate": null
-      },
-      {
-        "fiscalYear": 2024,
-        "type": "cash",
-        "amountPerShare": 0.005,
-        "currency": "KWD",
-        "exDate": "2024-05-30",
-        "paymentDate": null,
-        "bonusSharesPercent": null,
-        "agmDate": null
-      },
-      {
-        "fiscalYear": 2023,
-        "type": "cash",
-        "amountPerShare": 0.003,
-        "currency": "KWD",
-        "exDate": "2023-06-05",
-        "paymentDate": null,
-        "bonusSharesPercent": null,
-        "agmDate": null
-      },
-      {
-        "fiscalYear": 2023,
-        "type": "stock",
-        "amountPerShare": 0,
-        "currency": "KWD",
-        "exDate": "2023-06-05",
-        "paymentDate": null,
-        "bonusSharesPercent": 2,
-        "agmDate": null
-      },
-      {
-        "fiscalYear": 2020,
-        "type": "stock",
-        "amountPerShare": 0,
-        "currency": "KWD",
-        "exDate": "2020-09-23",
-        "paymentDate": null,
-        "bonusSharesPercent": 10,
-        "agmDate": null
-      },
-      {
-        "fiscalYear": 2016,
-        "type": "stock",
-        "amountPerShare": 0,
-        "currency": "KWD",
-        "exDate": "2016-08-04",
-        "paymentDate": null,
-        "bonusSharesPercent": 10,
         "agmDate": null
       }
     ]
